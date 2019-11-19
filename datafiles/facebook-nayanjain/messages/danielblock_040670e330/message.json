@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Daniel Block",
+      "timestamp": 1513922766,
+      "content": "Daniel added you on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Daniel Block",
+      "timestamp": 1513701357,
+      "content": "Dear Nayan,\n\nHello, my name is Daniel Block, and I\u00e2\u0080\u0099m a fellow with the Henry Luce and Asia Foundations living in Delhi. I am a journalist, and I\u00e2\u0080\u0099m currently doing a fact-finding investigation into two letters written by Anuj Loya about his father's death. I have some contacts that do investigations in the U.S., and they\u00e2\u0080\u0099ve offered to help me out (I am originally from New York).\n\nI understand that you are friends with Anuj. If you have time, I\u00e2\u0080\u0099d greatly appreciate it if I can speak to you/correspond with you for my research. You can feel free to message or call me here (on Facebook), over Whatsapp (+1 914-960-0230, Whatsapp is encrypted), or by regular cell phone (+91 8448-527008). You can also email me (dgatinsblock@gmail.com). I am not looking for a formal interview, and everything will stay between us.\n\nThanks,\n\nDaniel",
+      "type": "Generic"
+    }
+  ],
+  "title": "Daniel Block",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Pending",
+  "participants": [
+    "Daniel Block"
+  ],
+  "thread_path": "DanielBlock_040670e330"
+}

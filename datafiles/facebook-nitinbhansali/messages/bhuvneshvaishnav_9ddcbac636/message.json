@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhuvnesh Vaishnav",
+      "timestamp": 1365506176,
+      "content": "You missed a video chat with Bhuvnesh.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Bhuvnesh Vaishnav",
+      "timestamp": 1346515149,
+      "content": "You missed a video chat with Bhuvnesh.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Bhuvnesh Vaishnav",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bhuvnesh Vaishnav"
+  ],
+  "thread_path": "BhuvneshVaishnav_9ddcbac636"
+}

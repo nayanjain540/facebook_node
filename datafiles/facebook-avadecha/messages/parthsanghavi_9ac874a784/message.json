@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1521364847,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Sanghavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Sanghavi"
+  ],
+  "thread_path": "ParthSanghavi_9ac874a784"
+}

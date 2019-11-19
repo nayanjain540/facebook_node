@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330932,
+      "content": "Sakshi, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbuWl\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324452124,
+      "content": "ssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324452118,
+      "content": "hi.. wA",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sakshi Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sakshi Jain"
+  ],
+  "thread_path": "SakshiJain_23eeb3898e"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Swayam Aundhkar",
+      "timestamp": 1494558668,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Swayam Aundhkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Swayam Aundhkar"
+  ],
+  "thread_path": "SwayamAundhkar_86be551e63"
+}

@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1428918131,
+      "content": "Samir rane sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1428918128,
+      "content": "Bhandarkar pandit and  rane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhishek Dhotre",
+      "timestamp": 1428772777,
+      "content": "which all classes have u taken?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhishek Dhotre",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Abhishek Dhotre"
+  ],
+  "thread_path": "AbhishekDhotre_395537e1d3"
+}

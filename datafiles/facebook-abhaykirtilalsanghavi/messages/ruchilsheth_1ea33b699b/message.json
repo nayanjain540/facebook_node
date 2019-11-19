@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ruchil Sheth",
+      "timestamp": 1492144028,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruchil Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ruchil Sheth"
+  ],
+  "thread_path": "RuchilSheth_1ea33b699b"
+}

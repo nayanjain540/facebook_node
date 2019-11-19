@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Utkarsh Kothari",
+      "timestamp": 1478515289,
+      "content": "Happy Bday Bro!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Utkarsh Kothari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Utkarsh Kothari"
+  ],
+  "thread_path": "UtkarshKothari_11fbe4f22e"
+}

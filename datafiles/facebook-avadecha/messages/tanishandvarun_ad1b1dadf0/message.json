@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender_name": "Tanish Shah",
+      "timestamp": 1517858675,
+      "content": "Varun Parmar Anuj Vadecha",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tanish and Varun",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Tanish Shah",
+    "Varun Parmar"
+  ],
+  "thread_path": "TanishandVarun_ad1b1dadf0"
+}

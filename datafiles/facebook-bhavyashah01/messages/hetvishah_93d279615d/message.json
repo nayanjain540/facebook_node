@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hetvi Shah",
+      "timestamp": 1498789540,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hetvi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hetvi Shah"
+  ],
+  "thread_path": "HetviShah_93d279615d"
+}

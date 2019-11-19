@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shripal Varia",
+      "timestamp": 1379087131,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shripal Varia",
+      "timestamp": 1379087127,
+      "content": "GUI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1379080671,
+      "content": "hiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shripal Varia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Shripal Varia"
+  ],
+  "thread_path": "ShripalVaria_053e8ff2e1"
+}

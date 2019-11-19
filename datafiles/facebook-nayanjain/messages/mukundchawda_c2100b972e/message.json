@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mukund Chawda",
+      "timestamp": 1496156321,
+      "content": "Mukund Chawda just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mukund Chawda",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mukund Chawda"
+  ],
+  "thread_path": "MukundChawda_c2100b972e"
+}

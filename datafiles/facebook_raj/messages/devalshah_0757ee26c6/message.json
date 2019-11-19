@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Deval Shah",
+      "timestamp": 1369243998,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Deval Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Deval Shah"
+  ],
+  "thread_path": "DevalShah_0757ee26c6"
+}

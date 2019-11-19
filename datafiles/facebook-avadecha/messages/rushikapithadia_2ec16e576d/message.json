@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1486837358,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rushika Pithadia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rushika Pithadia"
+  ],
+  "thread_path": "RushikaPithadia_2ec16e576d"
+}

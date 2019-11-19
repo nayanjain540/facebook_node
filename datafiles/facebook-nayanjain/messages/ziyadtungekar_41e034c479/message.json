@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1484991026,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ziyad Tungekar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ziyad Tungekar"
+  ],
+  "thread_path": "ZiyadTungekar_41e034c479"
+}

@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parina Muchhala",
+      "timestamp": 1492486501,
+      "content": "Sorry. Couldn't come anyways. I'll gift separately",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1492089264,
+      "content": "Okay because we were planning to gift something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parina Muchhala",
+      "timestamp": 1492084046,
+      "content": "hey! not sure tbh... dad's not allowing x_x",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1491986787,
+      "content": "Hey listen u in for nayans housewarming?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parina Muchhala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parina Muchhala"
+  ],
+  "thread_path": "ParinaMuchhala_9f534039c6"
+}

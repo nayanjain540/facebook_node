@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dhwani Sanghavi",
+      "timestamp": 1489938802,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dhwani Sanghavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dhwani Sanghavi"
+  ],
+  "thread_path": "DhwaniSanghavi_34312d10e5"
+}

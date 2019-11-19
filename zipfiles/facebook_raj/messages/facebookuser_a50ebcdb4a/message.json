@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1332312364,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_a50ebcdb4a"
+}

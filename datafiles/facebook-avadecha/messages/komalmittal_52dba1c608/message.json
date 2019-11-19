@@ -1,0 +1,31 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331341785,
+      "content": "Komal, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbZoO\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Komal Mittal",
+      "timestamp": 1323437989,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323437713,
+      "content": "Komal missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Komal Mittal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Komal Mittal"
+  ],
+  "thread_path": "KomalMittal_52dba1c608"
+}

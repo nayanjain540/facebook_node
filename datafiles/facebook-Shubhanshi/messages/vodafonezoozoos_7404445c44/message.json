@@ -1,0 +1,21 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vodafone Zoozoos",
+      "timestamp": 1303458036,
+      "content": "The Zoozoos have invited Bipasha Basu over just for you fans.  \nWant to talk to her and listen to what she has to say? Just call 54545 from your Vodafone number on Friday, 22nd April between 5 pm \u00e2\u0080\u0093 6 pm!\n\nCall 54545 @ Rs 2/ min | Chat subscription @ Rs 15\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vodafone Zoozoos",
+      "timestamp": 1303457188,
+      "content": "The Zoozoos have invited Bipasha Basu over just for you fans.  \nWant to talk to her and listen to what she has to say?\nJust call 54545 from your Vodafone number on Friday, 22nd April between 5 pm \u00e2\u0080\u0093 6 pm!\n\nCall 54545 @ Rs 2/ min | Chat subscription @ Rs 15",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vodafone Zoozoos",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "VodafoneZoozoos_7404445c44"
+}

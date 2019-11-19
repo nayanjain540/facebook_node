@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Alpa Choksi Shah",
+      "timestamp": 1400824871,
+      "content": "Thanx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1400823132,
+      "content": "Happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Alpa Choksi Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Alpa Choksi Shah"
+  ],
+  "thread_path": "AlpaChoksiShah_57731ee197"
+}

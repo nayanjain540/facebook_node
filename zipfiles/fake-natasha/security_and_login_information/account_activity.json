@@ -1,0 +1,2566 @@
+{
+  "account_activity": [
+    {
+      "action": "Login",
+      "timestamp": 1529392731,
+      "ip_address": "203.192.213.29",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "l07r********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1529325359,
+      "ip_address": "182.56.86.252",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1529325347,
+      "ip_address": "182.56.86.252",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1529324763,
+      "ip_address": "2405:204:38e:9903:7dd1:6605:47ed:2b91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1529323442,
+      "ip_address": "2405:204:38e:9903:7dd1:6605:47ed:2b91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1529323433,
+      "ip_address": "2405:204:38e:9903:7dd1:6605:47ed:2b91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1529323072,
+      "ip_address": "2405:204:38e:9903:7dd1:6605:47ed:2b91",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1529161784,
+      "ip_address": "60.254.42.253",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1528990757,
+      "ip_address": "60.254.42.253",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1528979509,
+      "ip_address": "60.254.42.253",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1527612649,
+      "ip_address": "60.254.11.203",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1527406384,
+      "ip_address": "60.254.11.203",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1527336741,
+      "ip_address": "60.254.11.203",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1527171082,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1526816924,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1526575403,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1526038306,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1525850289,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1524909785,
+      "ip_address": "60.254.5.94",
+      "user_agent": "[FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748722;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1524304382,
+      "ip_address": "150.107.24.58",
+      "user_agent": "[FBAN/FB4A;FBAV/168.0.0.40.90;FBBV/103682763;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1523694133,
+      "ip_address": "60.254.5.133",
+      "user_agent": "[FBAN/FB4A;FBAV/167.0.0.42.94;FBBV/102203154;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1523086438,
+      "ip_address": "60.254.5.133",
+      "user_agent": "[FBAN/FB4A;FBAV/166.0.0.66.95;FBBV/101501194;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1522477355,
+      "ip_address": "60.254.5.183",
+      "user_agent": "[FBAN/FB4A;FBAV/165.0.0.53.93;FBBV/99791903;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1522424214,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1522336637,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521951489,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521891946,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521864036,
+      "ip_address": "60.254.5.183",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.44.95;FBBV/98618556;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/98618556;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521819011,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521687455,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521520098,
+      "ip_address": "60.254.42.143",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521462966,
+      "ip_address": "60.254.42.143",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521390205,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521301643,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521235624,
+      "ip_address": "60.254.5.131",
+      "user_agent": "[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845997;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/96845997;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521132124,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1521032774,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1520946495,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1520855174,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1520765217,
+      "ip_address": "60.254.11.211",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1520630699,
+      "ip_address": "60.254.11.211",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/95632808;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1520440317,
+      "ip_address": "60.254.11.211",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "5xOg********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1520013846,
+      "ip_address": "60.254.42.43",
+      "user_agent": "[FBAN/FB4A;FBAV/161.0.0.35.93;FBBV/94117312;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/94117312;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1519407871,
+      "ip_address": "60.254.11.177",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/93146056;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1518794717,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/90882265;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1518179709,
+      "ip_address": "2405:204:928c:9d7:f15f:d13d:48ff:2979",
+      "user_agent": "[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/90882265;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Session updated",
+      "timestamp": 1517554736,
+      "ip_address": "27.251.227.210",
+      "user_agent": "[FBAN/FB4A;FBAV/157.0.0.38.97;FBBV/89915721;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/89915721;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1500663080,
+      "ip_address": "60.254.42.196",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPAS23.12-15.5-1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36",
+      "datr_cookie": "Bk1y********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1484574409,
+      "ip_address": "60.254.42.41",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1484574163,
+      "ip_address": "60.254.42.41",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1482567972,
+      "ip_address": "60.254.44.171",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1482567845,
+      "ip_address": "60.254.44.171",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1482419250,
+      "ip_address": "60.254.5.176",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1482419161,
+      "ip_address": "60.254.5.176",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/106.0.0.26.68;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45904170;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "U_tY********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1481282649,
+      "ip_address": "60.254.44.53",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/105.0.0.23.137;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45323937;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1481282609,
+      "ip_address": "60.254.44.53",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/105.0.0.23.137;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45323937;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "GUvM********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1481143055,
+      "ip_address": "60.254.44.53",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/105.0.0.23.137;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45323937;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1481138749,
+      "ip_address": "60.254.44.53",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) [FBAN/FB4A;FBAV/105.0.0.23.137;FBPN/com.facebook.katana;FBLC/en_US;FBBV/45323937;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/6.0.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "GUvM********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471878138,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471878099,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471800795,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471800669,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471714535,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471714400,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/90.0.0.20.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/36474223;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471611262,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471611229,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471528384,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471528226,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471498555,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471498452,
+      "ip_address": "60.254.5.221",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471375467,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471375366,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471249903,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471249807,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471102899,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471102858,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1471082927,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1471082888,
+      "ip_address": "60.254.11.112",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/89.0.0.17.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/35810386;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1470227547,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/87.0.0.17.79;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34592786;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1470227427,
+      "ip_address": "60.254.5.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/87.0.0.17.79;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34592786;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1469964074,
+      "ip_address": "116.72.135.138",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/87.0.0.17.79;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34592786;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1469964030,
+      "ip_address": "116.72.135.138",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/87.0.0.17.79;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34592786;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1469679886,
+      "ip_address": "60.254.42.27",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1469679842,
+      "ip_address": "60.254.42.27",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1469535797,
+      "ip_address": "60.254.42.27",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1469535758,
+      "ip_address": "60.254.42.27",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1469204506,
+      "ip_address": "60.254.11.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1469204439,
+      "ip_address": "60.254.11.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/86.0.0.19.69;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/34022670;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1469018444,
+      "ip_address": "60.254.11.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/85.0.0.15.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/33678602;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1469016164,
+      "ip_address": "60.254.11.131",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/85.0.0.15.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/33678602;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1467803419,
+      "ip_address": "117.213.204.55",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/83.0.0.20.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32723415;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1467803377,
+      "ip_address": "117.213.204.55",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/83.0.0.20.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32723415;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1467483875,
+      "ip_address": "103.194.160.138",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/83.0.0.20.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32723415;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1467483812,
+      "ip_address": "103.194.160.138",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/83.0.0.20.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32723415;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1467292158,
+      "ip_address": "116.72.135.185",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1467292111,
+      "ip_address": "116.72.135.185",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1467127137,
+      "ip_address": "27.4.233.70",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1467127100,
+      "ip_address": "27.4.233.70",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1466706593,
+      "ip_address": "27.4.233.70",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1466706525,
+      "ip_address": "27.4.233.70",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/82.0.0.23.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/32429837;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1466516289,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/81.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31880467;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1466516229,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/81.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31880467;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1466079284,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/81.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31880467;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1466079224,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/81.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31880467;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1466079136,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
+      "datr_cookie": "k2Iw********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1466078441,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
+      "datr_cookie": "k2Iw********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1465973360,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/80.0.0.21.65;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31389928;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1465970927,
+      "ip_address": "60.254.11.20",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/80.0.0.21.65;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31389928;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1465307207,
+      "ip_address": "60.254.5.53",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/79.0.0.18.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31009815;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1920,height=1080};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1465307036,
+      "ip_address": "60.254.5.53",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/79.0.0.18.71;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/31009815;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1464059795,
+      "ip_address": "60.254.11.229",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/77.0.0.20.66;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/30034623;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1464016761,
+      "ip_address": "60.254.11.229",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/77.0.0.20.66;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/30034623;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1464016760,
+      "ip_address": "60.254.11.229",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/77.0.0.20.66;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/30034623;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1438538405,
+      "ip_address": "60.254.4.62",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1438537970,
+      "ip_address": "60.254.4.62",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1438238477,
+      "ip_address": "60.254.4.42",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1438237920,
+      "ip_address": "60.254.4.42",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1438188251,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1438187904,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1438103559,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1438103150,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/VODAFONE IN;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437844742,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437844451,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437762965,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437762903,
+      "ip_address": "60.254.4.46",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437590861,
+      "ip_address": "60.254.5.167",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437590310,
+      "ip_address": "60.254.5.167",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/38.0.0.47.240;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/13070158;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437286761,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437286310,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437243814,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437243274,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437200531,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437200001,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437160730,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437160283,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500 Build/JDQ39) [FBAN/FB4A;FBAV/37.0.0.48.234;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/12793209;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/GT-I9500;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437116633,
+      "ip_address": "60.254.5.129",
+      "user_agent": "[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061187;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/;FBPN/com.facebook.katana;FBDV/GT-I9500;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437116177,
+      "ip_address": "60.254.5.129",
+      "user_agent": "[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061187;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/;FBPN/com.facebook.katana;FBDV/GT-I9500;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1437072720,
+      "ip_address": "60.254.5.129",
+      "user_agent": "[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061187;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/;FBPN/com.facebook.katana;FBDV/GT-I9500;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1437072667,
+      "ip_address": "60.254.5.129",
+      "user_agent": "[FBAN/FB4A;FBAV/16.0.0.20.15;FBBV/4061187;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/;FBPN/com.facebook.katana;FBDV/GT-I9500;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "FmgQ********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436944826,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "qQmm********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436766677,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.0.2; XT1068 Build/LXB22.46-28; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "vFGj********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436725192,
+      "ip_address": "60.254.5.129",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "s6-i********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436596771,
+      "ip_address": "60.254.5.208",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "A7qg********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436510303,
+      "ip_address": "60.254.16.2",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "IGif********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436330856,
+      "ip_address": "60.254.4.51",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "U6uc********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436203640,
+      "ip_address": "60.254.11.80",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "Zbqa********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1436076966,
+      "ip_address": "116.72.135.132",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36",
+      "datr_cookie": "kcuY********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435993060,
+      "ip_address": "116.72.135.132",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1; XT1052 Build/LPA23.12-15; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.129 Mobile Safari/537.36",
+      "datr_cookie": "yIOX********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435905660,
+      "ip_address": "116.72.135.132",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.0.2; XT1068 Build/LXB22.46-28) [FBAN/FB4A;FBAV/36.0.0.39.166;FBPN/com.facebook.katana;FBLC/en_IN;FBBV/11877476;FBCR/DOLPHIN;FBMF/motorola;FBBD/motorola;FBDV/XT1068;FBSV/5.0.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1184};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435905599,
+      "ip_address": "116.72.135.132",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.0.2; XT1068 Build/LXB22.46-28) [FBAN/FB4A;FBAV/36.0.0.39.166;FBPN/com.facebook.katana;FBLC/en_IN;FBBV/11877476;FBCR/DOLPHIN;FBMF/motorola;FBBD/motorola;FBDV/XT1068;FBSV/5.0.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1184};FB_FW/1;]",
+      "datr_cookie": "_SSW********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435732755,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435732402,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435684979,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435684305,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435648243,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435647758,
+      "ip_address": "60.254.4.112",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435126055,
+      "ip_address": "116.72.135.202",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435125566,
+      "ip_address": "116.72.135.202",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1435077568,
+      "ip_address": "116.72.135.202",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1435077017,
+      "ip_address": "116.72.135.202",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434821634,
+      "ip_address": "60.254.5.124",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434821564,
+      "ip_address": "60.254.5.124",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)",
+      "datr_cookie": "MDtr********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434651267,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434651226,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434558490,
+      "ip_address": "60.254.16.104",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434558129,
+      "ip_address": "60.254.16.104",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434435501,
+      "ip_address": "60.254.16.104",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434435062,
+      "ip_address": "60.254.16.104",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434352998,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434352945,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434304595,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434303404,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434263957,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434263596,
+      "ip_address": "60.254.11.46",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434179700,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434179061,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434093345,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/VODAFONE IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434093277,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/VODAFONE IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1434003781,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1434003478,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433918581,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433918149,
+      "ip_address": "60.254.16.44",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/35.0.0.48.273;FBPN/com.facebook.katana;FBLC/en_US;FBBV/11209917;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433829537,
+      "ip_address": "1.38.12.17",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433829482,
+      "ip_address": "1.38.12.17",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433695551,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433694873,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433569968,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433569882,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433526900,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433526462,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433399472,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433399068,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433315972,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433315912,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433226720,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433226173,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1433142679,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1433142288,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432883952,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432883553,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) [FBAN/FB4A;FBAV/34.0.0.43.267;FBPN/com.facebook.katana;FBLC/en_US;FBBV/10743014;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432880443,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432880326,
+      "ip_address": "60.254.5.80",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432444264,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432444209,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432357760,
+      "ip_address": "116.72.135.139",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432357706,
+      "ip_address": "116.72.135.139",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432315909,
+      "ip_address": "116.72.135.139",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432315829,
+      "ip_address": "116.72.135.139",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432230979,
+      "ip_address": "1.38.4.11",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432230132,
+      "ip_address": "116.72.135.139",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432142569,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432142252,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432048869,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432048482,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1432020811,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1432020762,
+      "ip_address": "60.254.16.21",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431967123,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431966689,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431876991,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431876755,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431797375,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431797052,
+      "ip_address": "60.254.5.216",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431751705,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431751231,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431710152,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431709840,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431624455,
+      "ip_address": "49.32.0.240",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431624090,
+      "ip_address": "49.32.0.240",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/33.0.0.45.19;FBLC/en_US;FBBV/10120742;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431585324,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431585057,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431536875,
+      "ip_address": "1.38.14.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "goFT********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431536453,
+      "ip_address": "1.38.14.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431498448,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "o0NS********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431498033,
+      "ip_address": "60.254.4.52",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431411190,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431410732,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431326415,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431325935,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431270629,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431270265,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431195867,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431194657,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431162254,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431162152,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1431109009,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "7_BM********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1431108566,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430979564,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430979165,
+      "ip_address": "60.254.5.7",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430841508,
+      "ip_address": "49.32.0.220",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430841038,
+      "ip_address": "49.32.0.220",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430804309,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "40pI********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430803904,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430754095,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "QYxH********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430753593,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430715728,
+      "ip_address": "1.38.15.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TP1G********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430715168,
+      "ip_address": "60.254.16.14",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430667592,
+      "ip_address": "60.254.5.209",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430667267,
+      "ip_address": "60.254.5.209",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430628507,
+      "ip_address": "60.254.5.79",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "lA5F********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430628018,
+      "ip_address": "60.254.5.79",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430587851,
+      "ip_address": "60.254.5.79",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430587418,
+      "ip_address": "60.254.5.79",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430546167,
+      "ip_address": "60.254.5.110",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "ur9D********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430545752,
+      "ip_address": "60.254.5.110",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430499707,
+      "ip_address": "116.72.135.155",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430499337,
+      "ip_address": "116.72.135.155",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430374230,
+      "ip_address": "117.208.123.141",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430373744,
+      "ip_address": "117.208.123.141",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430329880,
+      "ip_address": "59.89.180.131",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430329351,
+      "ip_address": "59.89.180.131",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/32.0.0.23.15;FBLC/en_US;FBBV/9446363;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1430290103,
+      "ip_address": "117.220.117.180",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1430289486,
+      "ip_address": "117.220.117.180",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429942411,
+      "ip_address": "60.254.4.72",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429941240,
+      "ip_address": "60.254.4.72",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429893718,
+      "ip_address": "60.254.5.58",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429892747,
+      "ip_address": "1.38.13.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429857091,
+      "ip_address": "60.254.5.167",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429856596,
+      "ip_address": "60.254.5.167",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429805254,
+      "ip_address": "60.254.5.206",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429804919,
+      "ip_address": "60.254.5.206",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429762892,
+      "ip_address": "60.254.5.206",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429762501,
+      "ip_address": "60.254.5.206",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429723900,
+      "ip_address": "60.254.4.113",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429723464,
+      "ip_address": "60.254.4.113",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429679963,
+      "ip_address": "60.254.5.4",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429679519,
+      "ip_address": "60.254.5.4",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429630868,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429630512,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429607521,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429607146,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429595896,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429595444,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429554664,
+      "ip_address": "60.254.11.12",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429553859,
+      "ip_address": "1.38.15.1",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429515109,
+      "ip_address": "60.254.16.121",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429514619,
+      "ip_address": "60.254.16.121",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429465847,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/VODAFONE IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429465532,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/VODAFONE IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429422427,
+      "ip_address": "60.254.5.42",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429421988,
+      "ip_address": "60.254.5.42",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429374687,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429374318,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429339063,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429338567,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429289572,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429288728,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429254990,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429254582,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429250265,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429250100,
+      "ip_address": "60.254.5.33",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.20.13;FBLC/en_US;FBBV/9186115;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429186996,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429186919,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429172371,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429172110,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429171660,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429171599,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429171520,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "-********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429170474,
+      "ip_address": "60.254.5.228",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; Nexus 5 Build/LMY47I) [FBAN/FB4A;FBAV/31.0.0.19.13;FBLC/en_US;FBBV/9103542;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBDV/Nexus 5;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]",
+      "datr_cookie": "TyGx********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1429107875,
+      "ip_address": "116.72.135.187",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1429107755,
+      "ip_address": "116.72.135.187",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428919844,
+      "ip_address": "60.254.16.102",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428919217,
+      "ip_address": "60.254.16.102",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "eAkp********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428642433,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428642367,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428557419,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Api Session Terminated",
+      "timestamp": 1428557325,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Password Change",
+      "timestamp": 1428557319,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Mobile Session Terminated",
+      "timestamp": 1428557319,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428557229,
+      "ip_address": "60.254.5.217",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428478284,
+      "ip_address": "60.254.16.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428477524,
+      "ip_address": "60.254.16.74",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428474005,
+      "ip_address": "60.254.11.2",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428473897,
+      "ip_address": "60.254.11.2",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428386211,
+      "ip_address": "60.254.4.6",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428385828,
+      "ip_address": "60.254.4.6",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428324177,
+      "ip_address": "1.39.1.181",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428323919,
+      "ip_address": "1.39.1.181",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1428240602,
+      "ip_address": "116.72.155.11",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428240054,
+      "ip_address": "116.72.155.11",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1428226276,
+      "ip_address": "116.72.155.11",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427950376,
+      "ip_address": "60.254.5.56",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427950306,
+      "ip_address": "60.254.5.56",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427817272,
+      "ip_address": "60.254.16.57",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427817199,
+      "ip_address": "60.254.16.57",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427794000,
+      "ip_address": "1.39.1.195",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427793926,
+      "ip_address": "1.39.1.195",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427736755,
+      "ip_address": "116.72.135.210",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427736625,
+      "ip_address": "116.72.135.210",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427633020,
+      "ip_address": "116.72.135.210",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427632961,
+      "ip_address": "116.72.135.210",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427555763,
+      "ip_address": "60.254.11.22",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427555736,
+      "ip_address": "60.254.11.22",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427533845,
+      "ip_address": "1.39.2.68",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427533633,
+      "ip_address": "1.39.2.68",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427521840,
+      "ip_address": "60.254.11.22",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427521338,
+      "ip_address": "60.254.11.22",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427473627,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427473597,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427449175,
+      "ip_address": "1.39.3.4",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427449084,
+      "ip_address": "1.39.3.4",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508 [FBAN/FBIOS;FBAV/26.0.0.11.13;FBBV/7806348;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]",
+      "datr_cookie": "Lqhl********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427439375,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "C_cU********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427437341,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "C_cU********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427437238,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427437180,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Web Session Terminated",
+      "timestamp": 1427380686,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    },
+    {
+      "action": "Login",
+      "timestamp": 1427380540,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
+      "datr_cookie": "d_8T********************"
+    }
+  ]
+}

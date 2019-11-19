@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1335683699,
+      "content": "K nsae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohak Parab",
+      "timestamp": 1335683629,
+      "content": "chat with me in this profile",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohak Parab",
+      "timestamp": 1335683615,
+      "content": "i knw his password",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohak Parab",
+      "timestamp": 1335683607,
+      "content": "hey naman here",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohak Parab",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mohak Parab"
+  ],
+  "thread_path": "MohakParab_e07f5edc2e"
+}

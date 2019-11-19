@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1519409164,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hardik Thakkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hardik Thakkar"
+  ],
+  "thread_path": "HardikThakkar_c976465d2b"
+}

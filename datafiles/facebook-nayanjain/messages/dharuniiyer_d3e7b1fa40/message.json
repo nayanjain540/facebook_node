@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dharuni Iyer",
+      "timestamp": 1478631834,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dharuni Iyer",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dharuni Iyer"
+  ],
+  "thread_path": "DharuniIyer_d3e7b1fa40"
+}

@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1330709764,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Sevantibhai Sanghavi",
+      "timestamp": 1302101926,
+      "content": "Thanks abhay ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1302101677,
+      "content": "happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhay Sevantibhai Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Abhay Sevantibhai Sanghavi"
+  ],
+  "thread_path": "AbhaySevantibhaiSanghavi_1b85dcc0c9"
+}

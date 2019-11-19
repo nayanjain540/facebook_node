@@ -1,0 +1,59 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				document.getElementById('detailspoke').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function information() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+			document.getElementById('detailspoke').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function details() {
+			x=document.getElementById('detailspoke');
+			if (x.style.display === "none") {
+			document.getElementById('information').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}	
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Page Information</button>
+		<button onclick="details()">Poke Details</button>
+		#table-wrapper
+			table#information
+				tr
+					th Number of pokes
+					tr
+						td=articles.Number_of_pokes
+			
+			table#detailspoke
+				tr
+					th Name of poker
+					th Timestamp
+				each j,i in articles.pokes_from
+					tr
+						td=articles.pokes_from[i]
+						td=articles.poke_timestamp[i]

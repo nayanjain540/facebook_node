@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1523857105,
+      "content": "Hiiiii <3",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raj Sanghavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Raj Sanghavi"
+  ],
+  "thread_path": "RajSanghavi_52afc3bf7b"
+}

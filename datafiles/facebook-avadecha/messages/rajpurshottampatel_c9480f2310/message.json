@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1493436175,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raj Purshottam Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Raj Purshottam Patel"
+  ],
+  "thread_path": "RajPurshottamPatel_c9480f2310"
+}

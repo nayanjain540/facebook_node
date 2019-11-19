@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1370534133,
+      "content": "thanx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1370534124,
+      "content": "sme 2 u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1370534117,
+      "content": "bst of luck",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_6201da2eec"
+}

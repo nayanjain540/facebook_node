@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1434638162,
+      "content": "Heyy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aayushi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aayushi Shah"
+  ],
+  "thread_path": "AayushiShah_940b4e2462"
+}

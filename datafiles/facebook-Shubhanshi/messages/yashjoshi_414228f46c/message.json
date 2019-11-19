@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1335667542,
+      "content": "Hey mt iz at 9 rite??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Joshi",
+      "timestamp": 1325005112,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1324981414,
+      "content": "M busy cnt cht nw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Joshi",
+      "timestamp": 1324981253,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Joshi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Joshi"
+  ],
+  "thread_path": "YashJoshi_414228f46c"
+}

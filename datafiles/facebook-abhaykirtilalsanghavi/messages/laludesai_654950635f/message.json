@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Lalu Desai",
+      "timestamp": 1507884582,
+      "content": "You missed a video chat with Lalu.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Lalu Desai",
+      "timestamp": 1474617154,
+      "content": "You missed a video chat with Lalu.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Lalu Desai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Lalu Desai"
+  ],
+  "thread_path": "LaluDesai_654950635f"
+}

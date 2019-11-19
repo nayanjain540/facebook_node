@@ -1,0 +1,67 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521438363,
+      "content": "puchkr bata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521438361,
+      "content": "haaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1521438291,
+      "content": "Ronil resort ki baat Kar raha hai na?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1521438281,
+      "content": "Idea nahi hai puchna padega",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521438101,
+      "content": "9-10 log h...ek raat ka kitna pdega total sbka milakr??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521438087,
+      "sticker": {
+        "uri": "messages/stickers_used/851557_369239266556155_759568595_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1521437980,
+      "content": "Idea nahi hai but thoda costly hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521437938,
+      "content": "goa me jis resort me tumlog rukte ho uska kitna tak padega??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1521437921,
+      "content": "abe sunn",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mridul Gupta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mridul Gupta"
+  ],
+  "thread_path": "MridulGupta_760192734b"
+}

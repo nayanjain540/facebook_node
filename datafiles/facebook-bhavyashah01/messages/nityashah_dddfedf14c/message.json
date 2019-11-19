@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitya Shah",
+      "timestamp": 1424528905,
+      "content": "Which phone does your mom has",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1421411840,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitya Shah",
+      "timestamp": 1421411758,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitya Shah",
+      "timestamp": 1416323720,
+      "content": "mom deleted the pic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitya Shah",
+      "timestamp": 1416323712,
+      "content": "bhavya pls send me shashvats pic again",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nitya Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nitya Shah"
+  ],
+  "thread_path": "NityaShah_dddfedf14c"
+}

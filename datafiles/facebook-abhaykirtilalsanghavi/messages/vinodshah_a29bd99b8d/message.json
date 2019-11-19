@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vinod Shah",
+      "timestamp": 1496639050,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vinod Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Vinod Shah"
+  ],
+  "thread_path": "VinodShah_a29bd99b8d"
+}

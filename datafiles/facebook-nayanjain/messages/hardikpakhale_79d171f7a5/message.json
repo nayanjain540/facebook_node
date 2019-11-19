@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hardik Pakhale",
+      "timestamp": 1505068409,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hardik Pakhale",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hardik Pakhale"
+  ],
+  "thread_path": "HardikPakhale_79d171f7a5"
+}

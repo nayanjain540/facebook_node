@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jay Patel",
+      "timestamp": 1497511208,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jay Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jay Patel"
+  ],
+  "thread_path": "JayPatel_fd3a5771c3"
+}

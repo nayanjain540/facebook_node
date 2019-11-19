@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mahesh Mahadik",
+      "timestamp": 1382721279,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahesh Mahadik",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mahesh Mahadik"
+  ],
+  "thread_path": "MaheshMahadik_9700ca7a57"
+}

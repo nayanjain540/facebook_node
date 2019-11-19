@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pritesh Shah",
+      "timestamp": 1331309356,
+      "content": "Thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331309254,
+      "content": "Pritesh, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNXU9\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1325601473,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pritesh Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pritesh Shah"
+  ],
+  "thread_path": "PriteshShah_efedb942c5"
+}

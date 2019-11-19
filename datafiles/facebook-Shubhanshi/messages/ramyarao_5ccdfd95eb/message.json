@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336305364,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramya Rao",
+      "timestamp": 1336305345,
+      "content": "h",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336305272,
+      "content": "Div??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ramya Rao",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ramya Rao"
+  ],
+  "thread_path": "RamyaRao_5ccdfd95eb"
+}

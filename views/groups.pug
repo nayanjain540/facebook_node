@@ -1,0 +1,37 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function information() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Group Information</button>
+		#table-wrapper
+			table#information
+				tr
+					th Number of groups
+					th Number of comments in groups
+					tr
+						td=articles.Number_of_Groups_Joined
+						td=articles.Group_posts_and_comments					

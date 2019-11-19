@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Karnna Paleja",
+      "timestamp": 1319100362,
+      "content": "Hi :)\nwana be frnds?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karnna Paleja",
+      "timestamp": 1318071347,
+      "content": "Hi :)\nwana be frnds?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karnna Paleja",
+      "timestamp": 1317802242,
+      "content": "Hi :)\nwana be frnds?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karnna Paleja",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Karnna Paleja"
+  ],
+  "thread_path": "KarnnaPaleja_9e1a28c4f8"
+}

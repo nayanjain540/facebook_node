@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pranali Trivedi",
+      "timestamp": 1476375649,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pranali Trivedi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pranali Trivedi"
+  ],
+  "thread_path": "PranaliTrivedi_a29e4395f6"
+}

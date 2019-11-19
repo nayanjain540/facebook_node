@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1432228209,
+      "content": "Hii!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rea Bankaa",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rea Bankaa"
+  ],
+  "thread_path": "ReaBankaa_b445151754"
+}

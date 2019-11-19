@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1427119022,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lalita Bhansali",
+      "timestamp": 1427119011,
+      "content": "1 cr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lalita Bhansali",
+      "timestamp": 1427118906,
+      "content": "2400000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1427118896,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lalita Bhansali",
+      "timestamp": 1427118880,
+      "content": "hy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lalita Bhansali",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Lalita Bhansali"
+  ],
+  "thread_path": "LalitaBhansali_973d25be4a"
+}

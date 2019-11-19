@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saicharan Rao",
+      "timestamp": 1506598030,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saicharan Rao",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Saicharan Rao"
+  ],
+  "thread_path": "SaicharanRao_dc50a54956"
+}

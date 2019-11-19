@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1431265910,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1417029191,
+      "content": "Heyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1416840026,
+      "content": "Heyya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Natasha Tavaria",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Natasha Tavaria"
+  ],
+  "thread_path": "NatashaTavaria_86189e63b7"
+}

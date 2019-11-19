@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vidit Laijawala",
+      "timestamp": 1470758507,
+      "content": "Tera Workshop hua?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vidit Laijawala",
+      "timestamp": 1470758499,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vidit Laijawala",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Vidit Laijawala"
+  ],
+  "thread_path": "ViditLaijawala_f2c1e58e4a"
+}

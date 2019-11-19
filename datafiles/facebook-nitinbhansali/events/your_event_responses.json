@@ -1,0 +1,16 @@
+{
+  "event_responses": {
+    "events_joined": [
+      {
+        "name": "Nelson Mandela Day",
+        "start_timestamp": 1342582200,
+        "end_timestamp": 1350487800
+      },
+      {
+        "name": "Swastik Homoeopathy's Opening Ceremony",
+        "start_timestamp": 1335087000,
+        "end_timestamp": 1335101400
+      }
+    ]
+  }
+}

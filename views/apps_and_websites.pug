@@ -1,0 +1,15 @@
+html
+	head
+		include mystyle.css
+	body
+		<button>Page Information</button>
+		#table-wrapper
+			table#message
+				tr
+					th Number of Installed apps
+					th App_posts
+					th Admin Apps
+				tr
+					td=articles.number_of_installed_apps
+					td=articles.app_posts
+					td=articles.admined_apps

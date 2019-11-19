@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1326629827,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kajal Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Kajal Shah"
+  ],
+  "thread_path": "KajalShah_4bca34ec58"
+}

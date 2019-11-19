@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1488213541,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aman Dedhia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Aman Dedhia"
+  ],
+  "thread_path": "AmanDedhia_5245c6d6c3"
+}

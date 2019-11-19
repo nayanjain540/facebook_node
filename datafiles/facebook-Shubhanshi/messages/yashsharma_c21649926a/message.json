@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Sharma",
+      "timestamp": 1408205184,
+      "content": "Yo sup",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Sharma",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Sharma"
+  ],
+  "thread_path": "YashSharma_c21649926a"
+}

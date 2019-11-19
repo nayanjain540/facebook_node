@@ -1,0 +1,21 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1497725584,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Atharv Andewar",
+      "timestamp": 1497725147,
+      "type": "Generic"
+    }
+  ],
+  "title": "Atharv Andewar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Atharv Andewar"
+  ],
+  "thread_path": "AtharvAndewar_79426d3f19"
+}

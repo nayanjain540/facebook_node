@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1420202691,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1420202658,
+      "content": "sme to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1420202649,
+      "content": "Happy new year",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Gupta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rahul Gupta"
+  ],
+  "thread_path": "RahulGupta_b0fa77f66f"
+}

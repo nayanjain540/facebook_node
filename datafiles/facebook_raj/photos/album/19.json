@@ -1,0 +1,30 @@
+{
+  "name": "Webcam Photos",
+  "photos": [
+    {
+      "uri": "photos/WebcamPhotos_229229867117993/284553_229229870451326_7490226_n_229229870451326.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "iso_speed": 0,
+          "orientation": 0,
+          "original_width": 0,
+          "original_height": 0,
+          "upload_ip": "203.115.65.7"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/WebcamPhotos_229229867117993/284553_229229870451326_7490226_n_229229870451326.jpg",
+    "media_metadata": {
+      "photo_metadata": {
+        "iso_speed": 0,
+        "orientation": 0,
+        "original_width": 0,
+        "original_height": 0,
+        "upload_ip": "203.115.65.7"
+      }
+    }
+  },
+  "last_modified_timestamp": 1311005010
+}

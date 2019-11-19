@@ -1,0 +1,78 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pradnya Shendekar",
+      "timestamp": 1352819110,
+      "content": "Happy Diwali.. :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1352812388,
+      "content": "happy divali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433438,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433437,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433435,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433433,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433431,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433430,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433428,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433392,
+      "content": "go hme",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1346433386,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pradnya Shendekar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pradnya Shendekar"
+  ],
+  "thread_path": "PradnyaShendekar_dcb382d31e"
+}

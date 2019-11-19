@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parth Bane",
+      "timestamp": 1498937320,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Bane",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Bane"
+  ],
+  "thread_path": "ParthBane_54bcd0e670"
+}

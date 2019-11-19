@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1493373702,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pranav Pednekar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pranav Pednekar"
+  ],
+  "thread_path": "PranavPednekar_9ef028784c"
+}

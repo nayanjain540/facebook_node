@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yashodhan Nitin Wagle",
+      "timestamp": 1345913879,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yashodhan Nitin Wagle",
+      "timestamp": 1331464888,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1331464852,
+      "content": "M busy cnt chat nw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yashodhan Nitin Wagle",
+      "timestamp": 1331464834,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yashodhan Nitin Wagle",
+      "timestamp": 1330701882,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yashodhan Nitin Wagle",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yashodhan Nitin Wagle"
+  ],
+  "thread_path": "YashodhanNitinWagle_510064f6b2"
+}

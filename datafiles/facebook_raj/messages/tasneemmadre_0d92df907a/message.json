@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Tasneem Madre",
+      "timestamp": 1327723189,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1327723174,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Tasneem Madre",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Tasneem Madre"
+  ],
+  "thread_path": "TasneemMadre_0d92df907a"
+}

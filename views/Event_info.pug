@@ -1,0 +1,63 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('eventdetails').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "none";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function numstats() {
+			x=document.getElementById('numstats');
+			if (x.style.display === "none") {
+				document.getElementById('eventdetails').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}	
+		function eventdetails() {
+			x=document.getElementById('eventdetails');
+			if (x.style.display === "none") {
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="eventdetails()">Event_Details</button>
+		<button onclick="numstats()">Num_Stats</button>
+		#table-wrapper
+			table#eventdetails
+				tr
+					th Name
+					th Start_Timestamp
+					th End_Timestamp
+				each j,i in articles.event_details 
+					tr
+						td=articles.event_details[i][1]
+						td=articles.event_details[i][3]
+						td=articles.event_details[i][5]
+			table#numstats
+				tr
+					th Length_of_event_invited
+					th Event_responsed_to
+				tr
+					td=articles.length_of_event_invited
+					td=articles.event_response				
+

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1462764708,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shriya Joshi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shriya Joshi"
+  ],
+  "thread_path": "ShriyaJoshi_33884e7f8c"
+}

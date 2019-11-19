@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1516438097,
+      "content": "Itna zyaada bhi scratches ka issue nai hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Murtaza Hathiyari",
+      "timestamp": 1516431168,
+      "content": "Is the glass body durability",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Murtaza Hathiyari",
+      "timestamp": 1516431124,
+      "content": "The only thing that is holding me back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1516431056,
+      "content": "You need a cover",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1516431051,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Murtaza Hathiyari",
+      "timestamp": 1516430332,
+      "content": "Honor glass bodies are prone to scratches?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Murtaza Hathiyari",
+      "timestamp": 1516430307,
+      "content": "Bro, ek suggestion chahiye tha",
+      "type": "Generic"
+    }
+  ],
+  "title": "Murtaza Hathiyari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Murtaza Hathiyari"
+  ],
+  "thread_path": "MurtazaHathiyari_90fa3fb505"
+}

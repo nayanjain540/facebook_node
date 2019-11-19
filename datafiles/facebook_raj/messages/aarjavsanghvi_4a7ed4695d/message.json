@@ -1,0 +1,47 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1327415822,
+      "content": "lets play alone on a table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aarjav Sanghvi",
+      "timestamp": 1327415803,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1327415797,
+      "content": "hi arjav",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1323425693,
+      "content": "play poker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aarjav Sanghvi",
+      "timestamp": 1323425661,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1323425652,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aarjav Sanghvi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Aarjav Sanghvi"
+  ],
+  "thread_path": "AarjavSanghvi_4a7ed4695d"
+}

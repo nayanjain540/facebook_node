@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1496833762,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "N S Vaishnavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "N S Vaishnavi"
+  ],
+  "thread_path": "NSVaishnavi_2e7937c177"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rohit Kodavala",
+      "timestamp": 1424493761,
+      "content": "Hi i want to be be a friendship with you",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rohit Kodavala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rohit Kodavala"
+  ],
+  "thread_path": "RohitKodavala_b62f749f2b"
+}

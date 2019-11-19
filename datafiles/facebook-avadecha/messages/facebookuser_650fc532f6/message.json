@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1429720757,
+      "content": "hi\n\nI love to be your Friend",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_650fc532f6"
+}

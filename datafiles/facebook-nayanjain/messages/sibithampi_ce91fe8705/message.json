@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sibi Thampi",
+      "timestamp": 1474653948,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sibi Thampi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sibi Thampi"
+  ],
+  "thread_path": "SibiThampi_ce91fe8705"
+}

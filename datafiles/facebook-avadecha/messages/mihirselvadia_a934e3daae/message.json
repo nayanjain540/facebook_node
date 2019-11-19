@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331312856,
+      "content": "Mihir, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUv87\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324045863,
+      "content": "Mihir missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Mihir Selvadia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mihir Selvadia"
+  ],
+  "thread_path": "MihirSelvadia_a934e3daae"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1487433561,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chirag Dayani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Chirag Dayani"
+  ],
+  "thread_path": "ChiragDayani_e71c6be704"
+}

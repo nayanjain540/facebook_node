@@ -1,0 +1,78 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mahima Gupta",
+      "timestamp": 1444314394,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314348,
+      "content": "Till where have ull done in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Gupta",
+      "timestamp": 1444314318,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Gupta",
+      "timestamp": 1444314313,
+      "content": "Os full",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314303,
+      "content": "And html",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314297,
+      "content": "C++",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314294,
+      "content": "Operatingsystem ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314287,
+      "content": "Everything donr till now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Gupta",
+      "timestamp": 1444314265,
+      "content": "UK d protion of paper 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1444314260,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahima Gupta",
+      "timestamp": 1444314249,
+      "content": "Hy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahima Gupta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mahima Gupta"
+  ],
+  "thread_path": "MahimaGupta_ab98b7968f"
+}

@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1334739957,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1332570928,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_6b154c44a6"
+}

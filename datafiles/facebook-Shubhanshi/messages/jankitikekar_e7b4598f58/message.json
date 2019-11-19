@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Janki Tikekar",
+      "timestamp": 1415336858,
+      "content": "happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Janki Tikekar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Janki Tikekar"
+  ],
+  "thread_path": "JankiTikekar_e7b4598f58"
+}

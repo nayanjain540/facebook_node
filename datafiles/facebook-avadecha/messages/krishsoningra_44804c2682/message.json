@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Krish Soningra",
+      "timestamp": 1468430941,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krish Soningra",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Krish Soningra"
+  ],
+  "thread_path": "KrishSoningra_44804c2682"
+}

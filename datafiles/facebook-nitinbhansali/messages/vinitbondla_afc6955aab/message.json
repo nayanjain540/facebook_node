@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1415385200,
+      "content": "by",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vinit Bondla",
+      "timestamp": 1415385191,
+      "content": "Chaal bye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1415385175,
+      "content": "ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vinit Bondla",
+      "timestamp": 1415384817,
+      "content": "Happy brithday nitin",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vinit Bondla",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Vinit Bondla"
+  ],
+  "thread_path": "VinitBondla_afc6955aab"
+}

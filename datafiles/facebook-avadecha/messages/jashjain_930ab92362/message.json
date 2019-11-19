@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1465484973,
+      "content": "You accepted Jash's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jash Jain",
+      "timestamp": 1452990467,
+      "content": "Happy Birthday Anuj :*",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jash Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jash Jain"
+  ],
+  "thread_path": "JashJain_930ab92362"
+}

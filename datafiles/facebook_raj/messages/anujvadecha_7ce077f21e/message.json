@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Say hello to Anuj.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anuj Vadecha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Anuj Vadecha"
+  ],
+  "thread_path": "AnujVadecha_7ce077f21e"
+}

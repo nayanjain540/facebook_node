@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1491980038,
+      "type": "Generic"
+    }
+  ],
+  "title": "Nayan and Raj",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nayan Jain",
+    "Raj Sanghavi"
+  ],
+  "thread_path": "NayanandRaj_5948f36c78"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kirit Kapadia",
+      "timestamp": 1525714511,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kirit Kapadia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kirit Kapadia"
+  ],
+  "thread_path": "KiritKapadia_8a348b7cdb"
+}

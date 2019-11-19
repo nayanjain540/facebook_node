@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Uppal Shah",
+      "timestamp": 1493134908,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Uppal Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Uppal Shah"
+  ],
+  "thread_path": "UppalShah_20bdc991ef"
+}

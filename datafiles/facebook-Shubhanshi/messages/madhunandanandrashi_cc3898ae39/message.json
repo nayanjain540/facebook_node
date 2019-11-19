@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rashi Nangia",
+      "timestamp": 1375282668,
+      "content": "hey!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Madhunandan and Rashi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Madhunandan Jayaram",
+    "Rashi Nangia"
+  ],
+  "thread_path": "MadhunandanandRashi_cc3898ae39"
+}

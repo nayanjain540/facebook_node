@@ -1,0 +1,22 @@
+{
+  "name": "SMAAASH Photos",
+  "photos": [
+    {
+      "uri": "photos/SMAAASHPhotos_1170363003004670/13221749_1170363013004669_5587970326734864248_n_1170363013004669.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "95.170.92.15"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/SMAAASHPhotos_1170363003004670/13221749_1170363013004669_5587970326734864248_n_1170363013004669.jpg",
+    "media_metadata": {
+      "photo_metadata": {
+        "upload_ip": "95.170.92.15"
+      }
+    }
+  },
+  "last_modified_timestamp": 1462894344
+}

@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344092100,
+      "content": "ssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riddhi Kothari",
+      "timestamp": 1344092048,
+      "content": "hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344092037,
+      "content": "hi...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riddhi Kothari",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Riddhi Kothari"
+  ],
+  "thread_path": "RiddhiKothari_9244457d98"
+}

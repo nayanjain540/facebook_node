@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pappu Shah",
+      "timestamp": 1472624390,
+      "content": "Pappu Shah just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pappu Shah",
+      "timestamp": 1471679672,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pappu Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pappu Shah"
+  ],
+  "thread_path": "PappuShah_62615a120e"
+}

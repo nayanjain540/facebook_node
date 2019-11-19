@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Deepak Jain",
+      "timestamp": 1345030016,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Deepak Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Deepak Jain"
+  ],
+  "thread_path": "DeepakJain_8e5c58af4f"
+}

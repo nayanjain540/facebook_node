@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Naveen Kadam",
+      "timestamp": 1526231654,
+      "content": "Naveen added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Naveen Kadam",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Pending",
+  "participants": [
+    "Naveen Kadam"
+  ],
+  "thread_path": "NaveenKadam_bcf2cb52ad"
+}

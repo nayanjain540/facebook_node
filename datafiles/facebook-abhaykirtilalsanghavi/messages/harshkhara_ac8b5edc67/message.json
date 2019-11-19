@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harsh Khara",
+      "timestamp": 1339252699,
+      "content": "hi ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsh Khara",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Harsh Khara"
+  ],
+  "thread_path": "HarshKhara_ac8b5edc67"
+}

@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331320094,
+      "content": "Kiran, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUaIz\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kiran Jain",
+      "timestamp": 1328886097,
+      "content": "Hi everyone this is a message from the creator of facebook and it tells you a little bit about what is going to happen to facebook on the 15th of March. Please don't send this back to the person you recieved it from. Dear facebook members, Facebook is soppose to be closing down March 15 it is recently becoming very overpopulated. there ............have been many members complaining that facebook is becoming very slow. Records show that there are many active facebook members and, ... and on the other side, many new members.We will be sending this message around to see if members are active or not. If you are active please send to 15 other users using copy+paste to show that you are still active. *Those who do not send this message within 2 weeks will be deleted without hesitation to make more space.\n\nSend this message to all of your friends to show that you are still active and you will not be deleted",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kiran Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kiran Jain"
+  ],
+  "thread_path": "KiranJain_d739907795"
+}

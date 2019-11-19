@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ramya Potlabattini",
+      "timestamp": 1369465562,
+      "content": "hw r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1369465554,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ramya Potlabattini",
+      "timestamp": 1369465546,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ramya Potlabattini",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ramya Potlabattini"
+  ],
+  "thread_path": "RamyaPotlabattini_315488fdfc"
+}

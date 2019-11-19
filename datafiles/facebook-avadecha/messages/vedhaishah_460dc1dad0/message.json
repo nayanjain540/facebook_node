@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1490986042,
+      "sticker": {
+        "uri": "messages/stickers_used/10173499_272698232904442_1171729405_n_144885315685735.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1490985982,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vedhai Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Vedhai Shah"
+  ],
+  "thread_path": "VedhaiShah_460dc1dad0"
+}

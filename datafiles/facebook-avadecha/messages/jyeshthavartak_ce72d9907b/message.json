@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jyeshtha Vartak",
+      "timestamp": 1500217254,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jyeshtha Vartak",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jyeshtha Vartak"
+  ],
+  "thread_path": "JyeshthaVartak_ce72d9907b"
+}

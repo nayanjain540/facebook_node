@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pratham Marfatia",
+      "timestamp": 1495688334,
+      "content": "Pratham Marfatia just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Marfatia",
+      "timestamp": 1495688334,
+      "content": "Pratham Marfatia just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pratham Marfatia",
+      "timestamp": 1492659210,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pratham Marfatia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pratham Marfatia"
+  ],
+  "thread_path": "PrathamMarfatia_09f28e1704"
+}

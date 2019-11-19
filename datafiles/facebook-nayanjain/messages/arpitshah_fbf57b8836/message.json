@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Arpit Shah",
+      "timestamp": 1425715012,
+      "content": "Hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arpit Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Arpit Shah"
+  ],
+  "thread_path": "ArpitShah_fbf57b8836"
+}

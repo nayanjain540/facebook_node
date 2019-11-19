@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Darshan Thakor",
+      "timestamp": 1523117180,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Darshan Thakor",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Darshan Thakor"
+  ],
+  "thread_path": "DarshanThakor_c54f55a8e6"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1338452990,
+      "content": "Hey, I'm playing Draw My Thing! right now. Come join me! https://apps.facebook.com/drawmything/?app_data=jfb%2F100003169309900&y=c&t=85475a9b&st2=fb",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_a7286745d3"
+}

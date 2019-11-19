@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubu Jain",
+      "timestamp": 1336580742,
+      "content": "I cum onlyn...itz jus dat our times dnt match I gues!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Atharva Pai",
+      "timestamp": 1336498935,
+      "content": "hey , \nssup ?\n dun cm online nwadayz ?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Atharva and Shubu",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Atharva Pai",
+    "Shubu Jain"
+  ],
+  "thread_path": "AtharvaandShubu_89438cb1d3"
+}

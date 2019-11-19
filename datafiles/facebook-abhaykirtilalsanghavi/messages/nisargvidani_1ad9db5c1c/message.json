@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nisarg Vidani",
+      "timestamp": 1465097657,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nisarg Vidani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nisarg Vidani"
+  ],
+  "thread_path": "NisargVidani_1ad9db5c1c"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aarushi Jain",
+      "timestamp": 1333438873,
+      "content": "hie",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aarushi Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Aarushi Jain"
+  ],
+  "thread_path": "AarushiJain_227f18cc28"
+}

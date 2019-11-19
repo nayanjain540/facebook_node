@@ -1,0 +1,31 @@
+{
+  "messages": [
+    {
+      "sender_name": "Punit Patel",
+      "timestamp": 1518086127,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Punit Patel",
+      "timestamp": 1516764594,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tanish Shah",
+      "timestamp": 1515046945,
+      "content": "Anuj Vadecha Nayan Jain Punit Patel Raj Sanghavi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nayan, Raj, Tanish and Punit",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nayan Jain",
+    "Raj Sanghavi",
+    "Tanish Shah",
+    "Punit Patel"
+  ],
+  "thread_path": "NayanRajTanishandPunit_81c58ac7cc"
+}

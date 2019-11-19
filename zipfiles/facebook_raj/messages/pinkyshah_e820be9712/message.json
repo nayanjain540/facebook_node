@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pinky Shah",
+      "timestamp": 1510554590,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pinky Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pinky Shah"
+  ],
+  "thread_path": "PinkyShah_e820be9712"
+}

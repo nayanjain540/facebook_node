@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1464787438,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nayan Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nayan Jain"
+  ],
+  "thread_path": "NayanJain_e8e1ad81e3"
+}

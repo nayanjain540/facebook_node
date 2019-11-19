@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1520354708,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krishna Diamond",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Krishna Diamond"
+  ],
+  "thread_path": "KrishnaDiamond_4146814a76"
+}

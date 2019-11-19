@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kinjal Sheth",
+      "timestamp": 1495517452,
+      "content": "Kinjal Sheth just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kinjal Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Kinjal Sheth"
+  ],
+  "thread_path": "KinjalSheth_03e10b034d"
+}

@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saheel Kamble",
+      "timestamp": 1397899142,
+      "content": "u r in dsrv??????????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saheel Kamble",
+      "timestamp": 1396161576,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126361877548609_1351776047_n_126361874215276.png"
+      },
+      "type": "Generic"
+    }
+  ],
+  "title": "Saheel Kamble",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Saheel Kamble"
+  ],
+  "thread_path": "SaheelKamble_9d5ab9f48a"
+}

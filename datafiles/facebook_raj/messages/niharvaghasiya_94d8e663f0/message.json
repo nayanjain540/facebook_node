@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1490262528,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nihar Vaghasiya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nihar Vaghasiya"
+  ],
+  "thread_path": "NiharVaghasiya_94d8e663f0"
+}

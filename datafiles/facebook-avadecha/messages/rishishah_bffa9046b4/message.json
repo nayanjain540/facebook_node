@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331312858,
+      "content": "Rishi, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUv25\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rishi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rishi Shah"
+  ],
+  "thread_path": "RishiShah_bffa9046b4"
+}

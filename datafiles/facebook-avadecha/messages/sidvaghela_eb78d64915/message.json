@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sid Vaghela",
+      "timestamp": 1490364670,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sid Vaghela",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sid Vaghela"
+  ],
+  "thread_path": "SidVaghela_eb78d64915"
+}

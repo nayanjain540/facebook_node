@@ -1,0 +1,96 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330254141,
+      "content": "bye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330254126,
+      "content": "Chal buh bye....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330254109,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330254098,
+      "content": "Wc...<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330254065,
+      "content": "thnx 4 liking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330254054,
+      "content": "Yaa...I saw...!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330254042,
+      "content": "updating status",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330254020,
+      "content": "Nm.....jus chattin wid few frnz......wbu??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330253964,
+      "content": "n wht u doing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330253951,
+      "content": "Same here....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330253931,
+      "content": "nm u say",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330253924,
+      "content": "Ssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1330253922,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chandni Manwani",
+      "timestamp": 1330253911,
+      "content": "hie",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chandni Manwani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chandni Manwani"
+  ],
+  "thread_path": "ChandniManwani_7fe62509c7"
+}

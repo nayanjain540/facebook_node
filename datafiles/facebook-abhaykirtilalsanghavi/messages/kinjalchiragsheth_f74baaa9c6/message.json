@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1471238983,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kinjal Chirag Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Kinjal Chirag Sheth"
+  ],
+  "thread_path": "KinjalChiragSheth_f74baaa9c6"
+}

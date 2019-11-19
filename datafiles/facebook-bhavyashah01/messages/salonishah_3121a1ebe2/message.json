@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1491725802,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saloni Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Saloni Shah"
+  ],
+  "thread_path": "SaloniShah_3121a1ebe2"
+}

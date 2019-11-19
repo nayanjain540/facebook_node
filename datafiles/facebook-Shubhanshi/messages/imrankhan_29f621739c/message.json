@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Imran Khan",
+      "timestamp": 1504374924,
+      "content": "Hiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Imran Khan",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Pending",
+  "participants": [
+    "Imran Khan"
+  ],
+  "thread_path": "ImranKhan_29f621739c"
+}

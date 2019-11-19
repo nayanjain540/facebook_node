@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1339172760,
+      "content": "\r\nKay!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1339172731,
+      "content": "Srry m busy cnt chat nw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1339172692,
+      "content": "\r\nHey..",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_9252b8e367"
+}

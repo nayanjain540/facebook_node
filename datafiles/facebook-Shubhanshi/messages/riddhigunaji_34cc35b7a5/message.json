@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1338826336,
+      "content": "B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riddhi Gunaji",
+      "timestamp": 1338826321,
+      "content": "n u??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riddhi Gunaji",
+      "timestamp": 1338826317,
+      "content": "c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1338826225,
+      "content": "Hey div?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riddhi Gunaji",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Riddhi Gunaji"
+  ],
+  "thread_path": "RiddhiGunaji_34cc35b7a5"
+}

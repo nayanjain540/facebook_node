@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Veeraj Gala",
+      "timestamp": 1359477994,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Veeraj Gala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Veeraj Gala"
+  ],
+  "thread_path": "VeerajGala_279b9a99d2"
+}

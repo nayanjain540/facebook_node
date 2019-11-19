@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Riya Saraf",
+      "timestamp": 1489633499,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riya Saraf",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Riya Saraf"
+  ],
+  "thread_path": "RiyaSaraf_47e2cecd89"
+}

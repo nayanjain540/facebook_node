@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Unnati Shah",
+      "timestamp": 1490262507,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Unnati Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Unnati Shah"
+  ],
+  "thread_path": "UnnatiShah_b9c11ca4a6"
+}

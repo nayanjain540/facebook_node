@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sanju Gajjar",
+      "timestamp": 1315371825,
+      "content": "Hi i am sanju.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanju Gajjar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sanju Gajjar"
+  ],
+  "thread_path": "SanjuGajjar_6676c08a73"
+}

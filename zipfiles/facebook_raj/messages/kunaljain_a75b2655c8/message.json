@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kunal Jain",
+      "timestamp": 1343319986,
+      "content": "hiiiiiiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kunal Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Kunal Jain"
+  ],
+  "thread_path": "KunalJain_a75b2655c8"
+}

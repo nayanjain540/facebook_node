@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1469771374,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pritesh Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pritesh Sanghavi"
+  ],
+  "thread_path": "PriteshSanghavi_3a3e35f4c4"
+}

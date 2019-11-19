@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jinay Jhaveri",
+      "timestamp": 1490330162,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jinay Jhaveri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jinay Jhaveri"
+  ],
+  "thread_path": "JinayJhaveri_08cebe39e5"
+}

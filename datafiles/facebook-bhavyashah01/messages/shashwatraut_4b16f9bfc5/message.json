@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shashwat Raut",
+      "timestamp": 1474047209,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shashwat Raut",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shashwat Raut"
+  ],
+  "thread_path": "ShashwatRaut_4b16f9bfc5"
+}

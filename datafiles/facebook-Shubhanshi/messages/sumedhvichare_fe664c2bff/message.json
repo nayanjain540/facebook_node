@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sumedh Vichare",
+      "timestamp": 1364377622,
+      "content": "happy holi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sumedh Vichare",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sumedh Vichare"
+  ],
+  "thread_path": "SumedhVichare_fe664c2bff"
+}

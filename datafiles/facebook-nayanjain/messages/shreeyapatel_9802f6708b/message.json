@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shreeya Patel",
+      "timestamp": 1501322086,
+      "content": "Shreeya Patel just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreeya Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shreeya Patel"
+  ],
+  "thread_path": "ShreeyaPatel_9802f6708b"
+}

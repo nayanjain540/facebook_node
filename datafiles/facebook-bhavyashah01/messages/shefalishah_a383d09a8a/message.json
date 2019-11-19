@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1486633843,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shefali Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shefali Shah"
+  ],
+  "thread_path": "ShefaliShah_a383d09a8a"
+}

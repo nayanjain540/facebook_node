@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1473348725,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nitin Bhansali",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nitin Bhansali"
+  ],
+  "thread_path": "NitinBhansali_830c54addc"
+}

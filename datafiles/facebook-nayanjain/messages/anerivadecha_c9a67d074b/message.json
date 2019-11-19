@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aneri Vadecha",
+      "timestamp": 1526712517,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aneri Vadecha",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aneri Vadecha"
+  ],
+  "thread_path": "AneriVadecha_c9a67d074b"
+}

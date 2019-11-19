@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Preetika Saxena",
+      "timestamp": 1332603676,
+      "content": "Heyya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Preetika Saxena",
+      "timestamp": 1332178177,
+      "content": "Hiee",
+      "type": "Generic"
+    }
+  ],
+  "title": "Preetika Saxena",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Preetika Saxena"
+  ],
+  "thread_path": "PreetikaSaxena_d59b6fe3cf"
+}

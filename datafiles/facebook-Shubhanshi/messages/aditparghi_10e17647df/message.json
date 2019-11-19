@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Adit Parghi",
+      "timestamp": 1413966167,
+      "content": "Hey!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adit Parghi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Adit Parghi"
+  ],
+  "thread_path": "AditParghi_10e17647df"
+}

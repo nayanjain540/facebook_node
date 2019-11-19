@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amir Vora",
+      "timestamp": 1381589916,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amir Vora",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amir Vora"
+  ],
+  "thread_path": "AmirVora_53f9d6cd67"
+}

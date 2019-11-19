@@ -1,0 +1,64 @@
+{
+  "poll_votes": [
+    {
+      "timestamp": 1511842894,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Yes",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Nayan Jain voted on CiS \u00ce\u00b8  : Commonsense is seriously Complex's poll."
+    },
+    {
+      "timestamp": 1341502990,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "D Bradman",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Nayan Jain voted on HowZat Cricket's poll."
+    },
+    {
+      "timestamp": 1321097527,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Yes",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Nayan Jain voted on adidas's poll."
+    }
+  ]
+}

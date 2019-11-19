@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1414160107,
+      "content": "hi sme to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhaskar Annaldas",
+      "timestamp": 1414160095,
+      "content": "Happy diwali yaar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhaskar Annaldas",
+      "timestamp": 1414160085,
+      "content": "Hiiii ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhaskar Annaldas",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bhaskar Annaldas"
+  ],
+  "thread_path": "BhaskarAnnaldas_2b178cd6cb"
+}

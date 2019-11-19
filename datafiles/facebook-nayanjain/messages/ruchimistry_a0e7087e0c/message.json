@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556893,
+      "content": "good studies n al",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556877,
+      "content": "So wassup?? How's life??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556862,
+      "content": "yea!! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556833,
+      "content": "Nothing!!it good to see a nice senior;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556805,
+      "content": "ya so?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556797,
+      "content": "Sometimes with kashish",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556789,
+      "content": "Toh let's say whenever you were there I've seen you!!:p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556729,
+      "content": "bt i rarely go there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556722,
+      "content": "yea!?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556711,
+      "content": "I've seen you soo many times near angrewadi!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchi Mistry",
+      "timestamp": 1392556667,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1392556654,
+      "content": "Heyy!!:)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruchi Mistry",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ruchi Mistry"
+  ],
+  "thread_path": "RuchiMistry_a0e7087e0c"
+}

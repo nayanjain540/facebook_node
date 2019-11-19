@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1494603766,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paridhi Kataria",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Paridhi Kataria"
+  ],
+  "thread_path": "ParidhiKataria_bb0243b0c9"
+}

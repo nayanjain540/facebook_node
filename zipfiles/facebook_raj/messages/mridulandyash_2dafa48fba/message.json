@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mridul Gupta",
+      "timestamp": 1453308155,
+      "type": "Generic"
+    }
+  ],
+  "title": "Mridul and Yash",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mridul Gupta",
+    "Yash Dhage"
+  ],
+  "thread_path": "MridulandYash_2dafa48fba"
+}

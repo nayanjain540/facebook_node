@@ -1,0 +1,177 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "none";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+		function numstats() {
+			x=document.getElementById('numstats');
+			if (x.style.display === "none") {
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}	
+		function sentfriends() {
+			x=document.getElementById('sentfriends');
+			if (x.style.display === "none") {
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+			
+		function totfriends() {
+			x=document.getElementById('totfriends');
+			if (x.style.display === "none") {
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+		function recfriends() {
+			x=document.getElementById('recfriends');
+			if (x.style.display === "none") {
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+		function rejfriends() {
+			x=document.getElementById('rejfriends');
+			if (x.style.display === "none") {
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('delfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}	
+		function delfriends() {
+			x=document.getElementById('delfriends');
+			if (x.style.display === "none") {
+				document.getElementById('recfriends').style.display="none";
+				document.getElementById('rejfriends').style.display="none";
+				document.getElementById('totfriends').style.display="none";
+				document.getElementById('sentfriends').style.display="none";
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}	
+		
+		
+
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="totfriends()">TotalFriends</button>
+		<button onclick="recfriends()">RecievedFriends</button>
+		<button onclick="rejfriends()">RejectedFriends</button>
+		<button onclick="delfriends()">DeletedFriends</button>
+		<button onclick="sentfriends()">SentFriends</button>
+		<button onclick="numstats()">CLICK FOR STATS</button>
+		#table-wrapper
+			table#totfriends 
+				tr
+					th FriendsName
+					th TimestampofAddition
+				each j,i in articles.total_friends
+					tr
+						td=articles.total_friends[i][0]
+						td=articles.total_friends[i][1]
+			table#recfriends 
+				tr
+					th RecievedFriendsName
+					th TimestampofAddition
+				each j,i in articles.received_friends
+					tr
+						td=articles.received_friends[i][0]
+						td=articles.received_friends[i][1]
+			table#rejfriends 
+				tr
+					th RejecteddFriendsName
+					th TimestampofRemoval
+				each j,i in articles.rejected_friends
+					tr
+						td=articles.rejected_friends[i][0]
+						td=articles.rejected_friends[i][1]									
+			table#delfriends 
+				tr
+					th DeletedFriendsName
+					th TimestampofRemoval
+				each j,i in articles.deleted_friends
+					tr
+						td=articles.deleted_friends[i][0]
+						td=articles.deleted_friends[i][1]
+			table#sentfriends 
+				tr
+					th SentFriendsName
+					th TimestampofAdded
+				each j,i in articles.sent_requests
+					tr
+						td=articles.sent_requests[i][0]
+						td=articles.sent_requests[i][1]	
+			table#numstats
+				tr
+					td LengthOfFriends
+					td LengthofRecieved
+					td LengthofRejected
+					td LengthofDeleted
+					td LengthofSent
+				tr
+					td=articles.lengthoffriends								
+					td=articles.lengthofreceived
+					td=articles.lengthofrejected
+					td=articles.lengthofdeleted
+					td=articles.lengthofsent

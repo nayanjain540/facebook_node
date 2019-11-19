@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1463124100,
+      "content": "Thank u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sankit Shah",
+      "timestamp": 1463063505,
+      "content": "Happy bday bhavya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sankit Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sankit Shah"
+  ],
+  "thread_path": "SankitShah_8f49fff7ad"
+}

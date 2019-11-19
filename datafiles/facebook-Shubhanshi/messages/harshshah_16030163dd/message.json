@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harsh Shah",
+      "timestamp": 1471757743,
+      "content": "Heyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Shah",
+      "timestamp": 1396894055,
+      "content": "Hello :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsh Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harsh Shah"
+  ],
+  "thread_path": "HarshShah_16030163dd"
+}

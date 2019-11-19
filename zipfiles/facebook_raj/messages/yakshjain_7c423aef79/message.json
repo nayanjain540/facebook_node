@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yaksh Jain",
+      "timestamp": 1320559087,
+      "content": "ohhhk\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1320559072,
+      "content": "wait one sec there is a problem i am calling you in 5 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1320558807,
+      "content": "The video chat ended.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Yaksh Jain",
+      "timestamp": 1320558772,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1320558762,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yaksh Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Yaksh Jain"
+  ],
+  "thread_path": "YakshJain_7c423aef79"
+}

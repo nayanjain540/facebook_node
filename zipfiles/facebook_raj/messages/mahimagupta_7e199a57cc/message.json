@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1490262529,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahima Gupta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mahima Gupta"
+  ],
+  "thread_path": "MahimaGupta_7e199a57cc"
+}

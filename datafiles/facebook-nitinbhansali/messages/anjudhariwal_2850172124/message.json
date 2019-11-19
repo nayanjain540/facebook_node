@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anju Dhariwal",
+      "timestamp": 1505549740,
+      "content": "You missed a call from Anju.",
+      "call_duration": 60,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1503599553,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anju Dhariwal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Anju Dhariwal"
+  ],
+  "thread_path": "AnjuDhariwal_2850172124"
+}

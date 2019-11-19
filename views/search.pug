@@ -1,0 +1,17 @@
+html
+	head
+		include mystyle.css
+	body
+		block content
+			h1 #{title}
+			form(method='POST', action="/homepage")
+				br
+				label Enter Name Of Datafile:
+				br
+				br
+				input.form-control(name='title',type='text')
+				br
+				br
+				input.btn.btn-primary(type='submit',value='submit')
+		br
+		a(href='/adminside') Upload your folder people ,who's up for some viewing :p	

@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Akshay Jain",
+      "timestamp": 1334656879,
+      "content": "aur bata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parth Dhami",
+      "timestamp": 1334656875,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334656865,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parth Dhami",
+      "timestamp": 1334656861,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Akshay Jain",
+      "timestamp": 1334656847,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth and Akshay",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Dhami",
+    "Akshay Jain"
+  ],
+  "thread_path": "ParthandAkshay_e9e79f6892"
+}

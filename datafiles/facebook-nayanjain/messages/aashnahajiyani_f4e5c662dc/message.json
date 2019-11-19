@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aashna Hajiyani",
+      "timestamp": 1503435143,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aashna Hajiyani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aashna Hajiyani"
+  ],
+  "thread_path": "AashnaHajiyani_f4e5c662dc"
+}

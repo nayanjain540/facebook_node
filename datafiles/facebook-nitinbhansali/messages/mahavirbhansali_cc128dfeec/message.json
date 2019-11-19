@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1352816364,
+      "content": "hd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mahavir Bhansali",
+      "timestamp": 1352816153,
+      "content": "ghewarchandsa",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahavir Bhansali",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mahavir Bhansali"
+  ],
+  "thread_path": "MahavirBhansali_cc128dfeec"
+}

@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1413209003,
+      "content": "Hiii:)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1412136920,
+      "content": "Heyya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nirali Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nirali Patel"
+  ],
+  "thread_path": "NiraliPatel_ea86748b82"
+}

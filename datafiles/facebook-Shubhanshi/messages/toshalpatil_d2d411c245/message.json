@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1316013323,
+      "content": "This provs tht u r saniya!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Toshal Patil",
+      "timestamp": 1316013304,
+      "content": "HI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1316013294,
+      "content": "LolZzzZ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1316013290,
+      "content": "Hey saniya...!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Toshal Patil",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Toshal Patil"
+  ],
+  "thread_path": "ToshalPatil_d2d411c245"
+}

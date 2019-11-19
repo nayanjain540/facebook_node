@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sandip Shah",
+      "timestamp": 1495856276,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sandip Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sandip Shah"
+  ],
+  "thread_path": "SandipShah_7bfaebe72a"
+}

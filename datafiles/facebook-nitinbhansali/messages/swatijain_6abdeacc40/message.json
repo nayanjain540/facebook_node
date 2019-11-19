@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1347971620,
+      "content": "kaise ho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1347971599,
+      "content": "hello bhabhie jiiiiiiiiiiiiiiiiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Swati Jain",
+      "timestamp": 1347960843,
+      "content": "hello nitin ji",
+      "type": "Generic"
+    }
+  ],
+  "title": "Swati Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Swati Jain"
+  ],
+  "thread_path": "SwatiJain_6abdeacc40"
+}

@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sanjay Sanghavi",
+      "timestamp": 1359537018,
+      "content": "happy birthday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1308582527,
+      "content": "many many happy returns of the day. happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanjay Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sanjay Sanghavi"
+  ],
+  "thread_path": "SanjaySanghavi_a60714c384"
+}

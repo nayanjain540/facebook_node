@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Elton Valladares",
+      "timestamp": 1515084730,
+      "type": "Generic"
+    }
+  ],
+  "title": "Elton Valladares",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Elton Valladares"
+  ],
+  "thread_path": "EltonValladares_5d64519bc5"
+}

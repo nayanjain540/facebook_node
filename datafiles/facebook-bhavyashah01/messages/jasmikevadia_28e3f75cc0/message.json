@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1467108822,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jasmi Kevadia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jasmi Kevadia"
+  ],
+  "thread_path": "JasmiKevadia_28e3f75cc0"
+}

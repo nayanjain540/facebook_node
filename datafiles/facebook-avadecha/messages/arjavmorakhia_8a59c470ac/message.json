@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Arjav Morakhia",
+      "timestamp": 1360320852,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Arjav Morakhia",
+      "timestamp": 1358612377,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Arjav Morakhia",
+      "timestamp": 1358148953,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Arjav Morakhia",
+      "timestamp": 1353940106,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arjav Morakhia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Arjav Morakhia"
+  ],
+  "thread_path": "ArjavMorakhia_8a59c470ac"
+}

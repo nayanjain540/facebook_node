@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Brinda Ashar",
+      "timestamp": 1491119919,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Brinda Ashar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Brinda Ashar"
+  ],
+  "thread_path": "BrindaAshar_f69f4abada"
+}

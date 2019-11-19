@@ -1,0 +1,35 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mishika Sanghvi",
+      "timestamp": 1337668149,
+      "content": "nuin baby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1337668134,
+      "content": "wassup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mishika Sanghvi",
+      "timestamp": 1337668117,
+      "content": "hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1337668098,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mishika Sanghvi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mishika Sanghvi"
+  ],
+  "thread_path": "MishikaSanghvi_5cd0482a69"
+}

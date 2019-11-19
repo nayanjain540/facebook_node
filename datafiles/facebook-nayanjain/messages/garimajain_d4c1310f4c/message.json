@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1418148007,
+      "content": "Heyya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Garima Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Garima Jain"
+  ],
+  "thread_path": "GarimaJain_d4c1310f4c"
+}

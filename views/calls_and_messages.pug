@@ -1,0 +1,74 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('calls').style.display="none";
+				document.getElementById('knownmessages').style.display="none";
+
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+
+		function calls() {
+			x=document.getElementById('calls');
+			if (x.style.display === "none") {
+				document.getElementById('knownmessages').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function message() {
+			x=document.getElementById('knownmessages');
+			if (x.style.display === "none") {
+				document.getElementById('calls').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="calls()">Calls</button>
+		<button onclick="message()">Messages</button>
+
+		#table-wrapper
+			table#calls
+				tr
+					th Name
+					th Number
+					th Number_of_Times_Contacted
+					th Incoming
+					th Outgoing
+					th Missed
+				each j,i in articles.calls
+					tr
+						td=articles.calls[i][1]
+						td=articles.calls[i][5]
+						td=articles.calls[i][3]
+						td=articles.calls[i][9]
+						td=articles.calls[i][11]
+						td=articles.calls[i][13]
+
+			table#knownmessages
+				tr
+					th Name
+					th NumberofMessages
+				each j,i in articles.messages_information_known
+					tr
+						td=articles.messages_information_known[i][0]
+						td=articles.messages_information_known[i][1].length

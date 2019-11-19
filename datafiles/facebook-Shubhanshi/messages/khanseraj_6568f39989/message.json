@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Khan Seraj",
+      "timestamp": 1526995035,
+      "content": "Hi beautiful",
+      "type": "Generic"
+    }
+  ],
+  "title": "Khan Seraj",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Khan Seraj"
+  ],
+  "thread_path": "KhanSeraj_6568f39989"
+}

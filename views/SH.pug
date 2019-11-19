@@ -1,0 +1,15 @@
+html
+	head
+		include mystyle.css
+		script
+	body
+		h3 Search_History
+		#table-wrapper
+			table#messages
+				tr
+					th Name
+					th NumberofTimessearched
+					th Type
+				tr
+					each j,i in search
+						td=search[i]

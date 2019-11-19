@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1388907320,
+      "content": "hmm.. :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dishi Sanghvi",
+      "timestamp": 1388907310,
+      "content": "Um sorry. Mistake.\nCorrected it:p\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1388907236,
+      "content": "well itz a crop top n nt crock top",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dishi Sanghvi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dishi Sanghvi"
+  ],
+  "thread_path": "DishiSanghvi_d012fa395a"
+}

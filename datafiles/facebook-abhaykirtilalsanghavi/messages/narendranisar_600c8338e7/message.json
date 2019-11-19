@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1517942046,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Narendra Nisar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Narendra Nisar"
+  ],
+  "thread_path": "NarendraNisar_600c8338e7"
+}

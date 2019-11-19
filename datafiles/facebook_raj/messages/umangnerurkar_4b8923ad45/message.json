@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Say hello to Umang.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Umang Nerurkar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Umang Nerurkar"
+  ],
+  "thread_path": "UmangNerurkar_4b8923ad45"
+}

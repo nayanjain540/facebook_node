@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rushabh Ghoda",
+      "timestamp": 1381486302,
+      "content": "hii sweetu mare friend b no gi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rushabh Ghoda",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rushabh Ghoda"
+  ],
+  "thread_path": "RushabhGhoda_a9c79af847"
+}

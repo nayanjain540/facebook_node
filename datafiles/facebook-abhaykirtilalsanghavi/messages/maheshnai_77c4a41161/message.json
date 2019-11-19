@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mahesh Nai",
+      "timestamp": 1506271581,
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahesh Nai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mahesh Nai"
+  ],
+  "thread_path": "MaheshNai_77c4a41161"
+}

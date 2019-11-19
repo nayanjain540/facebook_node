@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Himani Pawar",
+      "timestamp": 1500545542,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Himani Pawar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Himani Pawar"
+  ],
+  "thread_path": "HimaniPawar_89d06ae692"
+}

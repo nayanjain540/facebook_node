@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sujit Dhami",
+      "timestamp": 1317826023,
+      "content": "I am parth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sujit Dhami",
+      "timestamp": 1317826018,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sujit Dhami",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sujit Dhami"
+  ],
+  "thread_path": "SujitDhami_0edcc80c9f"
+}

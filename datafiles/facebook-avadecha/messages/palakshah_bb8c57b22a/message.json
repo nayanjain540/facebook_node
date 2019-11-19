@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331327313,
+      "content": "Palak, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbyOt\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323951079,
+      "content": "Palak missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Palak Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Palak Shah"
+  ],
+  "thread_path": "PalakShah_bb8c57b22a"
+}

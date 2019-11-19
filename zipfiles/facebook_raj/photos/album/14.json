@@ -1,0 +1,126 @@
+{
+  "name": "MY VISIT TO ARNALA BEACH",
+  "photos": [
+    {
+      "uri": "photos/MYVISITTOARNALABEACH_292497800791199/377402_292498370791142_634507911_n_292498370791142.jpg",
+      "creation_timestamp": 1321835697,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "Samsung",
+          "camera_model": "GT-S3653",
+          "taken_timestamp": 1321835697,
+          "modified_timestamp": 1321835697,
+          "exposure": "1/1000",
+          "focal_length": "2795/1024",
+          "f_stop": "27/10",
+          "iso_speed": 0,
+          "orientation": 1,
+          "original_width": 640,
+          "original_height": 0,
+          "upload_ip": "203.115.67.31"
+        }
+      }
+    },
+    {
+      "uri": "photos/MYVISITTOARNALABEACH_292497800791199/377457_292498307457815_377922100_n_292498307457815.jpg",
+      "creation_timestamp": 1321835680,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "Samsung",
+          "camera_model": "GT-S3653",
+          "taken_timestamp": 1321835680,
+          "modified_timestamp": 1321835680,
+          "exposure": "1/1000",
+          "focal_length": "2795/1024",
+          "f_stop": "27/10",
+          "iso_speed": 0,
+          "orientation": 1,
+          "original_width": 640,
+          "original_height": 0,
+          "upload_ip": "203.115.67.31"
+        }
+      }
+    },
+    {
+      "uri": "photos/MYVISITTOARNALABEACH_292497800791199/378027_292498237457822_1562641864_n_292498237457822.jpg",
+      "creation_timestamp": 1321835605,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "Samsung",
+          "camera_model": "GT-S3653",
+          "taken_timestamp": 1321835605,
+          "modified_timestamp": 1321835605,
+          "exposure": "4/1000",
+          "focal_length": "2795/1024",
+          "f_stop": "27/10",
+          "iso_speed": 0,
+          "orientation": 1,
+          "original_width": 640,
+          "original_height": 0,
+          "upload_ip": "203.115.67.31"
+        }
+      }
+    },
+    {
+      "uri": "photos/MYVISITTOARNALABEACH_292497800791199/313498_292498054124507_820929263_n_292498054124507.jpg",
+      "creation_timestamp": 1321835547,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "Samsung",
+          "camera_model": "GT-S3653",
+          "taken_timestamp": 1321835547,
+          "modified_timestamp": 1321835547,
+          "exposure": "3/1000",
+          "focal_length": "2795/1024",
+          "f_stop": "27/10",
+          "iso_speed": 0,
+          "orientation": 1,
+          "original_width": 640,
+          "original_height": 0,
+          "upload_ip": "203.115.67.31"
+        }
+      }
+    },
+    {
+      "uri": "photos/MYVISITTOARNALABEACH_292497800791199/387559_292497984124514_562167230_n_292497984124514.jpg",
+      "creation_timestamp": 1321835507,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "Samsung",
+          "camera_model": "GT-S3653",
+          "taken_timestamp": 1321835507,
+          "modified_timestamp": 1321835507,
+          "exposure": "5/1000",
+          "focal_length": "2795/1024",
+          "f_stop": "27/10",
+          "iso_speed": 0,
+          "orientation": 1,
+          "original_width": 640,
+          "original_height": 0,
+          "upload_ip": "203.115.67.31"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/MYVISITTOARNALABEACH_292497800791199/377402_292498370791142_634507911_n_292498370791142.jpg",
+    "creation_timestamp": 1321835697,
+    "media_metadata": {
+      "photo_metadata": {
+        "camera_make": "Samsung",
+        "camera_model": "GT-S3653",
+        "taken_timestamp": 1321835697,
+        "modified_timestamp": 1321835697,
+        "exposure": "1/1000",
+        "focal_length": "2795/1024",
+        "f_stop": "27/10",
+        "iso_speed": 0,
+        "orientation": 1,
+        "original_width": 640,
+        "original_height": 0,
+        "upload_ip": "203.115.67.31"
+      }
+    }
+  },
+  "last_modified_timestamp": 1351425459
+}

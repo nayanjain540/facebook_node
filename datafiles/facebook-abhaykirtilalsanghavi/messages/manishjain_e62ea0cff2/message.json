@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Manish Jain",
+      "timestamp": 1490072332,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Manish Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Manish Jain"
+  ],
+  "thread_path": "ManishJain_e62ea0cff2"
+}

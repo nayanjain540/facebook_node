@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aditya Mody",
+      "timestamp": 1331049308,
+      "content": "Hey Nayan, check out this new browser called RockMelt. I think you'll like it!\n\nhttp://www.rockmelt.com/?dl=f04542190dc538c344808ce852ab11a5784854ea&cid=default%3Anuf&f=firstUse\n\nAditya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aditya Mody",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aditya Mody"
+  ],
+  "thread_path": "AdityaMody_a9bc31a695"
+}

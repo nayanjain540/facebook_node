@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1486385688,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Variya Rupal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Variya Rupal"
+  ],
+  "thread_path": "VariyaRupal_c8e4acc981"
+}

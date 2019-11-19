@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Shah",
+      "timestamp": 1501261372,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Shah",
+      "timestamp": 1495565670,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Shah",
+      "timestamp": 1478488516,
+      "content": "Hbu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Shah",
+      "timestamp": 1409599156,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Shah",
+      "timestamp": 1407519111,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Shah"
+  ],
+  "thread_path": "YashShah_06464b835c"
+}

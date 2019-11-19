@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1489811826,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arpit Dayani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Arpit Dayani"
+  ],
+  "thread_path": "ArpitDayani_e2ee0f53ab"
+}

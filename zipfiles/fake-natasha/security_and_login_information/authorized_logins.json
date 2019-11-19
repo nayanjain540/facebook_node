@@ -1,0 +1,18 @@
+{
+  "recognized_devices": [
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1434651226,
+      "ip_address": "60.254.5.228",
+      "user_agent": "[FBAN/FB4A;FBAV/31.0.0.19.13;FBBV/9103542;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Vodafone IN;FBMF/LGE;FBBD/google;FBPN/com.facebook.katana;FBDV/Nexus 5;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for iPhone",
+      "created_timestamp": 0,
+      "updated_timestamp": 1428323920,
+      "ip_address": "116.72.135.207",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B435 [FBAN/FBIOS;FBAV/18.1.0.14.11;FBBV/5295262;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.1.1;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_US;FBOP/5]"
+    }
+  ]
+}

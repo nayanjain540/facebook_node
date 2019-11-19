@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chinmay Salvi",
+      "timestamp": 1415345370,
+      "content": "Hey....\nHappy wala happy bday....:-P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chinmay Salvi",
+      "timestamp": 1413317206,
+      "content": "Hi.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chinmay Salvi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chinmay Salvi"
+  ],
+  "thread_path": "ChinmaySalvi_256b196dd8"
+}

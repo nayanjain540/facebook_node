@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jash Parikh",
+      "timestamp": 1501826344,
+      "content": "Jash Parikh just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jash Parikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jash Parikh"
+  ],
+  "thread_path": "JashParikh_696b396bef"
+}

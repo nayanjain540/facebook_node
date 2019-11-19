@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1414242128,
+      "content": "Wassup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1414242027,
+      "content": "Hey dude",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krushika Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Krushika Shah"
+  ],
+  "thread_path": "KrushikaShah_a40b219f98"
+}

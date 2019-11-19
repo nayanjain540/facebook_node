@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jasmine Bharucha",
+      "timestamp": 1474291888,
+      "content": "Jasmine Bharucha accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1375118314,
+      "content": "hey I am amita's daughter ... she wants to contact you... plz accept my frnd request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1375118314,
+      "content": "hey I am amita's daughter ... she wants to contact you... plz accept my frnd request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1375118314,
+      "content": "hey I am amita's daughter ... she wants to contact you... plz accept my frnd request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1375118314,
+      "content": "hey I am amita's daughter ... she wants to contact you... plz accept my frnd request",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1375118313,
+      "content": "hey I am amita's daughter ... she wants to contact you... plz accept my frnd request",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jasmine Bharucha",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jasmine Bharucha"
+  ],
+  "thread_path": "JasmineBharucha_8310ad3920"
+}

@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Sanghavi",
+      "timestamp": 1358412495,
+      "content": "Is it your birthday today ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Sanghavi",
+      "timestamp": 1351051489,
+      "content": "Thanks anuj.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1350979149,
+      "content": "Happy birthday Yash many many happy returns of the day",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1308053971,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Sanghavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Sanghavi"
+  ],
+  "thread_path": "YashSanghavi_2c1304f777"
+}

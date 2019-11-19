@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rashmi Jain",
+      "timestamp": 1498943796,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rashmi Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rashmi Jain"
+  ],
+  "thread_path": "RashmiJain_44c2fcd519"
+}

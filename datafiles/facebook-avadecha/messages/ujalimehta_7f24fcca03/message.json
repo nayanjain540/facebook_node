@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331345411,
+      "content": "Ujali, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vE34x\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1307780941,
+      "content": "How's life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1307780926,
+      "content": "Ujala 4 bundled wala",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ujali Mehta",
+      "timestamp": 1307780914,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1307780902,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ujali Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ujali Mehta"
+  ],
+  "thread_path": "UjaliMehta_7f24fcca03"
+}

@@ -1,0 +1,16 @@
+html
+	head
+		include mystyle.css
+		script
+	body
+		h3 Facebook Message Interaction
+		#table-wrapper
+			table#messages
+				tr
+					th Name
+					th Sent
+					th Profile_Name
+					th Received
+				tr
+					each j,i in messages
+						td=messages[i]

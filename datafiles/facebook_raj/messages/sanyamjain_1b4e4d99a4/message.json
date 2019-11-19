@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sanyam Jain",
+      "timestamp": 1490262512,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanyam Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sanyam Jain"
+  ],
+  "thread_path": "SanyamJain_1b4e4d99a4"
+}

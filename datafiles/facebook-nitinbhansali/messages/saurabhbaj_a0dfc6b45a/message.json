@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1486264393,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saurabh Baj",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Saurabh Baj"
+  ],
+  "thread_path": "SaurabhBaj_a0dfc6b45a"
+}

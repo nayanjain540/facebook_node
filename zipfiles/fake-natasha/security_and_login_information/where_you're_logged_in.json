@@ -1,0 +1,43 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1529392730,
+      "ip_address": "203.192.213.29",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "l07r********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1526038306,
+      "updated_timestamp": 1529161784,
+      "ip_address": "60.254.42.253",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "B3_1********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1520765217,
+      "updated_timestamp": 1525850289,
+      "ip_address": "60.254.11.42",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "Bgml********************",
+      "device": "Android",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1484574166,
+      "updated_timestamp": 1524909785,
+      "ip_address": "60.254.5.94",
+      "user_agent": "[FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748722;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    }
+  ]
+}

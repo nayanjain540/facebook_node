@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411839672,
+      "content": "Heyya ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411666181,
+      "content": "Hiiiiiiii;)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rutvi Vithani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rutvi Vithani"
+  ],
+  "thread_path": "RutviVithani_837d0fad16"
+}

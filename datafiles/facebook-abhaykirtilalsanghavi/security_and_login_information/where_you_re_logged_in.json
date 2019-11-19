@@ -1,0 +1,458 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530285499,
+      "ip_address": "183.87.47.49",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "e19f********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1530249667,
+      "ip_address": "42.106.225.169",
+      "user_agent": "[FBAN/FB4A;FBAV/178.0.0.57.86;FBBV/115496535;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/0;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "w8E1********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1530075405,
+      "ip_address": "42.107.129.30",
+      "user_agent": "[FBAN/FB4A;FBAV/178.0.0.48.86;FBBV/115193268;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/0;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "DRkz********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516634197,
+      "updated_timestamp": 1529991082,
+      "ip_address": "42.107.146.25",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; BND-AL10 Build/HONORBND-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FBAN/FB4A;FBAV/177.0.0.57.105;FBBV/114690086;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/114838372;FB_FW/2;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "VQBm********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1528543796,
+      "updated_timestamp": 1529760754,
+      "ip_address": "111.119.219.48",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; BND-AL10 Build/HONORBND-AL10) [FBAN/Orca-Android;FBAV/171.0.0.28.108;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/114359494;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBDV/BND-AL10;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2040};FB_FW/1;] FBBK/1",
+      "datr_cookie": "8ksu********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1529672718,
+      "ip_address": "42.106.249.145",
+      "user_agent": "[FBAN/FB4A;FBAV/177.0.0.57.105;FBBV/114690086;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/0;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "DvQs********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528943930,
+      "ip_address": "42.107.147.137",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/112316275;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "OtUh********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528551889,
+      "ip_address": "2405:204:212b:c5db:b778:ea51:445e:2195",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983748;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/112316275;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 3S;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "0dkb********************",
+      "device": "Xiaomi Redmi 3S",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528549610,
+      "ip_address": "2405:204:212b:c5db:b778:ea51:445e:2195",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983748;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 3S;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "6tAb********************",
+      "device": "Xiaomi Redmi 3S",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528548600,
+      "ip_address": "49.34.154.177",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/112316275;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-Mwb********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528533917,
+      "ip_address": "2405:204:212b:c5db:7171:3da4:37ae:4af3",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983748;FBDM/{density=2.0,width=1280,height=720};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 3S;FBSV/6.0.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "nZMb********************",
+      "device": "Xiaomi Redmi 3S",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528526962,
+      "ip_address": "157.32.60.157",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "cngb********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528526646,
+      "ip_address": "157.32.106.187",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10) [FBAN/FB4A;FBAV/175.0.0.40.97;FBPN/com.facebook.katana;FBLC/en_US;FBBV/111983749;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBDV/Moto G (5) Plus;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "NXcb********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1527743464,
+      "ip_address": "42.107.149.226",
+      "user_agent": "[FBAN/FB4A;FBAV/173.0.0.62.99;FBBV/109748286;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/110058120;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "6IMP********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1525844234,
+      "ip_address": "42.107.139.12",
+      "user_agent": "[FBAN/FB4A;FBAV/170.0.0.52.95;FBBV/105856850;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/106318734;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Cony********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525768932,
+      "ip_address": "2405:205:c904:3c27:19e1:c50e:fa63:5883",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "02Lx********************",
+      "device": "Android",
+      "location": "Vadodara, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525604756,
+      "ip_address": "2405:204:8081:848a:80fc:59b1:6537:f886",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "geHu********************",
+      "device": "Android",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525601607,
+      "ip_address": "2405:204:8081:848a:80fc:59b1:6537:f886",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "N9Xu********************",
+      "device": "Android",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525596024,
+      "ip_address": "2405:204:8081:848a:3f88:e3b0:a7dc:7871",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "ab_u********************",
+      "device": "Android",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525588267,
+      "ip_address": "2405:204:8081:848a:3f88:e3b0:a7dc:7871",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "G6Hu********************",
+      "device": "Android",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525543935,
+      "ip_address": "2405:204:8309:1708:a81b:3320:9928:bedf",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "6_Pt********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525422889,
+      "ip_address": "139.5.22.205",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "_hrs********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525404261,
+      "ip_address": "139.5.22.205",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "NdLr********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525332722,
+      "ip_address": "2405:204:8109:1462:e2f5:1788:61ed:b113",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "1rrq********************",
+      "device": "Android",
+      "location": "Palanpur, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525258840,
+      "ip_address": "139.5.22.210",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "RJrp********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525251149,
+      "ip_address": "139.5.22.210",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "KXzp********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525232857,
+      "ip_address": "139.5.23.174",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "wzTp********************",
+      "device": "Android",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525077575,
+      "ip_address": "2405:205:c94a:389d:3a23:4a25:df69:f242",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "JNbm********************",
+      "device": "Android",
+      "location": "Diyodar, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525068871,
+      "ip_address": "2405:205:c94a:389d:3a23:4a25:df69:f242",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "JrTm********************",
+      "device": "Android",
+      "location": "Diyodar, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525061613,
+      "ip_address": "2405:204:8288:6cfe:8806:67f4:4493:e4ed",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "yJfm********************",
+      "device": "Android",
+      "location": "Limbdi, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525021801,
+      "ip_address": "2405:204:8288:6cfe:8806:67f4:4493:e4ed",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "Svzl********************",
+      "device": "Android",
+      "location": "Limbdi, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525006259,
+      "ip_address": "2405:204:8288:6cfe:19cf:bf1b:3b6d:5522",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "kL_l********************",
+      "device": "Android",
+      "location": "Limbdi, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1525006196,
+      "ip_address": "2405:204:8288:6cfe:19cf:bf1b:3b6d:5522",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "TL_l********************",
+      "device": "Android",
+      "location": "Limbdi, India"
+    },
+    {
+      "name": "Android",
+      "created_timestamp": 1524986019,
+      "ip_address": "2405:204:8288:6cfe:19cf:bf1b:3b6d:5522",
+      "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Redmi 3S Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.116 Mobile Safari/537.36",
+      "datr_cookie": "KnDl********************",
+      "device": "Android",
+      "location": "Limbdi, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1522386735,
+      "ip_address": "42.107.150.70",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.44.95;FBBV/98618556;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/99598292;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "L8e9********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521085720,
+      "ip_address": "103.51.27.110",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/96802250;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "GO2p********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519987156,
+      "ip_address": "183.87.47.74",
+      "user_agent": "[FBAN/FB4A;FBAV/161.0.0.35.93;FBBV/94117298;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/94117298;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "1CmZ********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519317824,
+      "ip_address": "111.119.219.50",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/93146056;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "QPOO********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519187557,
+      "ip_address": "111.119.219.55",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/92451898;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ZfaM********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518543049,
+      "ip_address": "183.87.49.28",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=2040};FBLC/en_GB;FBRV/91889149;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/BND-AL10;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ySCD********************",
+      "device": "Huawei Honor 7X",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1515855073,
+      "updated_timestamp": 1516624116,
+      "ip_address": "42.107.17.98",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570978;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBRV/85070460;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ISil********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1515678798,
+      "ip_address": "42.107.5.193",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570978;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBRV/84570978;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "TmxX********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1514214640,
+      "ip_address": "42.107.4.63",
+      "user_agent": "[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374841;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBRV/82651122;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "8BRB********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1506398580,
+      "ip_address": "42.107.41.149",
+      "user_agent": "[FBAN/FB4A;FBAV/142.0.0.29.92;FBBV/72571728;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/72571728;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "dNHJ********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1504498783,
+      "updated_timestamp": 1506398456,
+      "ip_address": "42.107.41.149",
+      "user_agent": "[FBAN/FB4A;FBAV/142.0.0.29.92;FBBV/72571728;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/72571728;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ISil********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1504418461,
+      "ip_address": "42.109.93.143",
+      "user_agent": "[FBAN/FB4A;FBAV/139.0.0.22.93;FBBV/69940304;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/69940304;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "nZqr********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503995999,
+      "ip_address": "103.54.98.98",
+      "user_agent": "[FBAN/FB4A;FBAV/138.0.0.19.93;FBBV/69169418;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/69169418;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Xyil********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503292745,
+      "ip_address": "49.33.108.14",
+      "user_agent": "[FBAN/FB4A;FBAV/137.0.0.24.91;FBBV/68238703;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBRV/68238703;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "SW2a********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1501908590,
+      "ip_address": "42.109.33.189",
+      "user_agent": "[FBAN/FB4A;FBAV/135.0.0.22.90;FBBV/66730572;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/66730572;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "bk6F********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1499777964,
+      "ip_address": "42.109.1.62",
+      "user_agent": "[FBAN/FB4A;FBAV/130.0.0.45.70;FBBV/63303660;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/63303660;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "rMtk********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    }
+  ]
+}

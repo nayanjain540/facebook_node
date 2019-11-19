@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1422347663,
+      "content": "Ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jeevan Choudhary",
+      "timestamp": 1422347634,
+      "content": "Happy birthday to you",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jeevan Choudhary",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jeevan Choudhary"
+  ],
+  "thread_path": "JeevanChoudhary_bc4ff9bf54"
+}

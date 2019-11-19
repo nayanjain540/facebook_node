@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sagar Dhopte",
+      "timestamp": 1442489430,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagar Dhopte",
+      "timestamp": 1424144942,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1424110850,
+      "content": "Gud urs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagar Dhopte",
+      "timestamp": 1424110277,
+      "content": "viva college and how about studies",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1424110158,
+      "content": "Jaihind u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagar Dhopte",
+      "timestamp": 1424110144,
+      "content": "which college you are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1424110102,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagar Dhopte",
+      "timestamp": 1424110087,
+      "content": "hiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sagar Dhopte",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sagar Dhopte"
+  ],
+  "thread_path": "SagarDhopte_ab6970a9a6"
+}

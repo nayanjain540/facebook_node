@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ronak Kumawat",
+      "timestamp": 1399896062,
+      "content": "Heyy =))",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ronak Kumawat",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ronak Kumawat"
+  ],
+  "thread_path": "RonakKumawat_0d93946b48"
+}

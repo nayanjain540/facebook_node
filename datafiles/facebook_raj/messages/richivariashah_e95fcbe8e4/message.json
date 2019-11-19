@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Richi Varia Shah",
+      "timestamp": 1493011632,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Richi Varia Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Richi Varia Shah"
+  ],
+  "thread_path": "RichiVariaShah_e95fcbe8e4"
+}

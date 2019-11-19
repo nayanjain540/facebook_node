@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Two Bro's Pizza",
+      "timestamp": 1529154509,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Two Bro's Pizza",
+      "timestamp": 1529154508,
+      "content": "Hi Anuj! Please let us know how we can help you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Two Bro's Pizza",
+      "timestamp": 1529154507,
+      "content": "You opened this conversation through an ad. When you reply, Two Bro's Pizza will see your public info and which ad you clicked on.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Two Bro's Pizza",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "TwoBrosPizza_56201649cb"
+}

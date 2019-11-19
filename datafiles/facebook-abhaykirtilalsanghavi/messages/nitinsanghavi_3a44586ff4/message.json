@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Sanghavi",
+      "timestamp": 1490072335,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nitin Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nitin Sanghavi"
+  ],
+  "thread_path": "NitinSanghavi_3a44586ff4"
+}

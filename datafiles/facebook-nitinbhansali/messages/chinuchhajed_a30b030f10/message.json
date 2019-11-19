@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1413651591,
+      "content": "Welcne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Chinu Chhajed",
+      "timestamp": 1413650855,
+      "content": "tnx nitin bhaya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chinu Chhajed",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chinu Chhajed"
+  ],
+  "thread_path": "ChinuChhajed_a30b030f10"
+}

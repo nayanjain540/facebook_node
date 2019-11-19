@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aakarshan Rastogi",
+      "timestamp": 1519554652,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aakarshan Rastogi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aakarshan Rastogi"
+  ],
+  "thread_path": "AakarshanRastogi_23f87e12d2"
+}

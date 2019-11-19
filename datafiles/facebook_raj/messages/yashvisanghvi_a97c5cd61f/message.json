@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1340443354,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yashvi Sanghvi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Yashvi Sanghvi"
+  ],
+  "thread_path": "YashviSanghvi_a97c5cd61f"
+}

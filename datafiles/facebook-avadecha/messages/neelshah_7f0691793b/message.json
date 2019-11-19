@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Neel Shah",
+      "timestamp": 1473392456,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neel Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neel Shah"
+  ],
+  "thread_path": "NeelShah_7f0691793b"
+}

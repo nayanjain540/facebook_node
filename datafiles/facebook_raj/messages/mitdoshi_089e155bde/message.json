@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mit Doshi",
+      "timestamp": 1345393681,
+      "content": "hi raj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mit Doshi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mit Doshi"
+  ],
+  "thread_path": "MitDoshi_089e155bde"
+}

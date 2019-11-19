@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amit Pandey",
+      "timestamp": 1521952660,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amit Pandey",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amit Pandey"
+  ],
+  "thread_path": "AmitPandey_f06f84e1fc"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubham Gosalia",
+      "timestamp": 1468230994,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shubham Gosalia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shubham Gosalia"
+  ],
+  "thread_path": "ShubhamGosalia_e07cae76a2"
+}

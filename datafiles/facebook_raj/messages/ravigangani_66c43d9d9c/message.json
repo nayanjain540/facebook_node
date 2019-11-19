@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1424764130,
+      "content": "Try out Messenger: http://fb.me/getmessenger",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ravi Gangani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ravi Gangani"
+  ],
+  "thread_path": "RaviGangani_66c43d9d9c"
+}

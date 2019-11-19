@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330940,
+      "content": "Neha, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbuJW\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neha Parekh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neha Parekh"
+  ],
+  "thread_path": "NehaParekh_64726c6cdb"
+}

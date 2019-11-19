@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mohit Gala",
+      "timestamp": 1381684907,
+      "content": "Hey!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohit Gala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mohit Gala"
+  ],
+  "thread_path": "MohitGala_0c1b66463e"
+}

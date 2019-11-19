@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Divya Shah",
+      "timestamp": 1392900238,
+      "content": "Hiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Divya Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Divya Shah"
+  ],
+  "thread_path": "DivyaShah_8bb8e1c57f"
+}

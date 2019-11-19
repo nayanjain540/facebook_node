@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ashwin Tantri",
+      "timestamp": 1515915925,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1484396042,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashwin Tantri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ashwin Tantri"
+  ],
+  "thread_path": "AshwinTantri_fe6204c8aa"
+}

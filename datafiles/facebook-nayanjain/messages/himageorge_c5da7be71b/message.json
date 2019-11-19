@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hima George",
+      "timestamp": 1498480976,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hima George",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hima George"
+  ],
+  "thread_path": "HimaGeorge_c5da7be71b"
+}

@@ -1,0 +1,41 @@
+{
+  "profile": {
+    "name": "Natasha Jain",
+    "emails": {
+      "emails": [
+        "natasha.jain503@ymail.com"
+      ],
+      "previous_emails": [
+        "100004758791955@facebook.com"
+      ]
+    },
+    "birthday": {
+      "year": 1990,
+      "month": 3,
+      "day": 15
+    },
+    "gender": {
+      "gender_option": "FEMALE",
+      "pronoun": "FEMALE"
+    },
+    "current_city": "Mumbai, Maharashtra",
+    "hometown": "Mumbai, Maharashtra",
+    "education_experiences": [
+      {
+        "name": "Adarsh English High School",
+        "graduated": true
+      }
+    ],
+    "pages": [
+      {
+        "name": "Other",
+        "pages": [
+          "Vodafone Zoozoos",
+          "Texas HoldEm Poker"
+        ]
+      }
+    ],
+    "registration_timestamp": 1354424231,
+    "profile_uri": "https://www.facebook.com/profile.php?id=100004758791955"
+  }
+}

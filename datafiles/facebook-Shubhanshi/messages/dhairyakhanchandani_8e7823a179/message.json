@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dhairya Khanchandani",
+      "timestamp": 1415362344,
+      "content": "Happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dhairya Khanchandani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dhairya Khanchandani"
+  ],
+  "thread_path": "DhairyaKhanchandani_8e7823a179"
+}

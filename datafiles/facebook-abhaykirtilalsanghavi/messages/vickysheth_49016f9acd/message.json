@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vicky Sheth",
+      "timestamp": 1359522848,
+      "content": "many many happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vicky Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Vicky Sheth"
+  ],
+  "thread_path": "VickySheth_49016f9acd"
+}

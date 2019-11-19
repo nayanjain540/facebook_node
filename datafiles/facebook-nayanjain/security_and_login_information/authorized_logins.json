@@ -1,0 +1,130 @@
+{
+  "recognized_devices": [
+    {
+      "name": "Tinder",
+      "created_timestamp": 0,
+      "updated_timestamp": 1517274013,
+      "ip_address": "49.33.163.128",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; Build/OPR6.170623.013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.123 Mobile Safari/537.36"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1428773039,
+      "ip_address": "120.61.165.137",
+      "user_agent": "[FBAN/FB4A;FBAV/29.0.0.23.13;FBBV/7888973;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/Vodafone IN;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2302;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for iPhone",
+      "created_timestamp": 0,
+      "updated_timestamp": 1425900702,
+      "ip_address": "111.91.75.93",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440 [FBAN/FBIOS;FBAV/25.0.0.11.10;FBBV/7293189;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/8.1.2;FBSS/2; FBCR/VodafoneIndia;FBID/phone;FBLC/en_GB;FBOP/5]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1412307911,
+      "ip_address": "120.61.164.241",
+      "user_agent": "[FBAN/FB4A;FBAV/17.0.0.23.16;FBBV/4257770;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/Vodafone IN;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2302;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1411668932,
+      "ip_address": "120.61.190.233",
+      "user_agent": "[FBAN/FB4A;FBAV/17.0.0.23.16;FBBV/4257770;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/Vodafone IN;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2302;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1404755597,
+      "ip_address": "120.61.172.251",
+      "user_agent": "[FBAN/FB4A;FBAV/11.0.0.11.23;FBBV/3002847;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/Vodafone IN;FBPN/com.facebook.katana;FBDV/D2302;FBSV/4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1401549764,
+      "ip_address": "120.61.193.79",
+      "user_agent": "[FBAN/FB4A;FBAV/3.7;FBBV/381653;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/Vodafone IN;FBPN/com.facebook.katana;FBDV/D2302;FBSV/4.3;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1396105291,
+      "ip_address": "120.61.193.34",
+      "user_agent": "[FBAN/FB4A;FBAV/7.0.0.26.28;FBBV/1698527;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONE;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1395988750,
+      "ip_address": "120.61.190.12",
+      "user_agent": "[FBAN/FB4A;FBAV/7.0.0.26.28;FBBV/1698523;FBDM/{density=1.5,width=800,height=480};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/GT-I9070;FBSV/2.3.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1388411190,
+      "ip_address": "120.60.226.205",
+      "user_agent": "[FBAN/FB4A;FBAV/4.0.0.26.3;FBBV/907084;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/TATA DOCOMO;FBPN/com.facebook.katana;FBDV/HTC Butterfly;FBSV/4.2.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1390663750,
+      "ip_address": "120.61.179.225",
+      "user_agent": "[FBAN/FB4A;FBAV/3.8;FBBV/495499;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/GT-I9070;FBSV/2.3.6;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1395842840,
+      "ip_address": "120.61.163.237",
+      "user_agent": "[FBAN/FB4A;FBAV/3.7;FBBV/381653;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1382613593,
+      "ip_address": "120.61.168.67",
+      "user_agent": "[FBAN/FB4A;FBAV/3.7;FBBV/381653;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1382374086,
+      "ip_address": "120.61.194.104",
+      "user_agent": "[FBAN/FB4A;FBAV/3.7;FBBV/381653;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1381508460,
+      "ip_address": "120.61.218.254",
+      "user_agent": "[FBAN/FB4A;FBAV/3.7;FBBV/381653;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1381159616,
+      "ip_address": "120.61.204.147",
+      "user_agent": "[FBAN/FB4A;FBAV/3.6.1;FBBV/334564;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONE;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1379766946,
+      "ip_address": "120.61.194.241",
+      "user_agent": "[FBAN/FB4A;FBAV/3.5;FBBV/288849;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Vodafone;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;]"
+    },
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1377093576,
+      "ip_address": "120.61.191.235",
+      "user_agent": "[FBAN/FB4A;FBAV/2.2;FBBV/121615;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/Andi4.5h;FBSV/4.0.4;]"
+    }
+  ]
+}

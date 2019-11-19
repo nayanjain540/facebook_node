@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1490788857,
+      "content": "Jigna Pritesh missed a call from you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Jigna Pritesh Shah",
+      "timestamp": 1449242197,
+      "content": "You missed a call from Jigna Pritesh.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Jigna Pritesh Shah",
+      "timestamp": 1449154429,
+      "content": "You missed a call from Jigna Pritesh.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Jigna Pritesh Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jigna Pritesh Shah"
+  ],
+  "thread_path": "JignaPriteshShah_cc6184a594"
+}

@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136062,
+      "content": "bhua",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136055,
+      "content": "s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136054,
+      "content": " nd kushal andbhu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136044,
+      "content": "hows param",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136037,
+      "content": "hows gaurav ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1310136015,
+      "content": "fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lalit Jain",
+      "timestamp": 1310135955,
+      "content": "Wat up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lalit Jain",
+      "timestamp": 1310135920,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lalit Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Lalit Jain"
+  ],
+  "thread_path": "LalitJain_2b6a026eb7"
+}

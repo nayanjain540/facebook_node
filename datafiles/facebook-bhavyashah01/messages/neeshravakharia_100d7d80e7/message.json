@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Neeshra Vakharia",
+      "timestamp": 1474919528,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neeshra Vakharia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neeshra Vakharia"
+  ],
+  "thread_path": "NeeshraVakharia_100d7d80e7"
+}

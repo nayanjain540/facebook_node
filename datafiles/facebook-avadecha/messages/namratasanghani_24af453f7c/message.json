@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Namrata Sanghani",
+      "timestamp": 1496312607,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Namrata Sanghani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Namrata Sanghani"
+  ],
+  "thread_path": "NamrataSanghani_24af453f7c"
+}

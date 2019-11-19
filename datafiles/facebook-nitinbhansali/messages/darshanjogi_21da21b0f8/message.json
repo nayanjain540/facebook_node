@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Darshan Jogi",
+      "timestamp": 1324301243,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Darshan Jogi",
+      "timestamp": 1320396157,
+      "content": "Hi ntini",
+      "type": "Generic"
+    }
+  ],
+  "title": "Darshan Jogi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Darshan Jogi"
+  ],
+  "thread_path": "DarshanJogi_21da21b0f8"
+}

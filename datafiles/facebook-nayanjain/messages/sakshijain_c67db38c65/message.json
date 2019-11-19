@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1356352564,
+      "content": "so 2 jus clear my doubt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1356352551,
+      "content": "keval was tellin m 2 cal u chinese on d last day at chedda ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1356352353,
+      "content": "y do ppl cal  u chinese?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sakshi Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sakshi Jain"
+  ],
+  "thread_path": "SakshiJain_c67db38c65"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nishit Patel",
+      "timestamp": 1510240973,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nishit Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nishit Patel"
+  ],
+  "thread_path": "NishitPatel_0a38f62d96"
+}

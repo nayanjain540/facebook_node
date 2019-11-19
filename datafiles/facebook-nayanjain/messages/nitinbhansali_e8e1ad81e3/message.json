@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1464787438,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nitin Bhansali",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nitin Bhansali"
+  ],
+  "thread_path": "NitinBhansali_e8e1ad81e3"
+}

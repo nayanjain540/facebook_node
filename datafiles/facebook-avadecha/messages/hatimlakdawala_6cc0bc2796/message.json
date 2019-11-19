@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1428296714,
+      "content": "No idea sirjee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hatim Lakdawala",
+      "timestamp": 1428296492,
+      "content": "you got any idea about the dates of the results",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hatim Lakdawala",
+      "timestamp": 1428296474,
+      "content": "yo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hatim Lakdawala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hatim Lakdawala"
+  ],
+  "thread_path": "HatimLakdawala_6cc0bc2796"
+}

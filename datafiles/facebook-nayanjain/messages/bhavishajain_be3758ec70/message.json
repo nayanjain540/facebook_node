@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1431868365,
+      "content": "Heyyy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhavisha Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bhavisha Jain"
+  ],
+  "thread_path": "BhavishaJain_be3758ec70"
+}

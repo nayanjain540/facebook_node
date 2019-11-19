@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender_name": "Godrej Powerplay",
+      "timestamp": 1305121036,
+      "content": "Visit us at facebook.com/GodrejPowerPlay to know more on 'How you can meet Mumbai Indians!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Godrej Powerplay",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "GodrejPowerplay_b4fa490490"
+}

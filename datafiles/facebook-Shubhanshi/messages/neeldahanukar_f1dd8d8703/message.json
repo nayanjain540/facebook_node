@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Neel Dahanukar",
+      "timestamp": 1330964170,
+      "content": "hi,can v b frndz",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neel Dahanukar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neel Dahanukar"
+  ],
+  "thread_path": "NeelDahanukar_f1dd8d8703"
+}

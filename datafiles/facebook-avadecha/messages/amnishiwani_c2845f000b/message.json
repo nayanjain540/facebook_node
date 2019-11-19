@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amni Shiwani",
+      "timestamp": 1528861989,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amni Shiwani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amni Shiwani"
+  ],
+  "thread_path": "AmniShiwani_c2845f000b"
+}

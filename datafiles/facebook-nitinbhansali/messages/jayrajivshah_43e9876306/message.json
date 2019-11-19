@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jay Rajiv Shah",
+      "timestamp": 1501421696,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jay Rajiv Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jay Rajiv Shah"
+  ],
+  "thread_path": "JayRajivShah_43e9876306"
+}

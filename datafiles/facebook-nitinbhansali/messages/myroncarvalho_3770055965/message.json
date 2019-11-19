@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Myron Carvalho",
+      "timestamp": 1474570199,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Myron Carvalho",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Myron Carvalho"
+  ],
+  "thread_path": "MyronCarvalho_3770055965"
+}

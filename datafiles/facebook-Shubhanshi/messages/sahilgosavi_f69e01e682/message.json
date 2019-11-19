@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sahil Gosavi",
+      "timestamp": 1509913394,
+      "content": "Wasupp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sahil Gosavi",
+      "timestamp": 1509913324,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sahil Gosavi",
+      "timestamp": 1509913319,
+      "type": "Generic"
+    }
+  ],
+  "title": "Sahil Gosavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sahil Gosavi"
+  ],
+  "thread_path": "SahilGosavi_f69e01e682"
+}

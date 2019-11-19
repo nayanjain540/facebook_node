@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hrithik Roshan",
+      "timestamp": 1305123718,
+      "content": "[Advertisement]\n\nWant to win a trip to Canada and a lot more prizes. Visit http://on.fb.me/iWwVCg and click 'Like' for more details.\n\nCheck it out now.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hrithik Roshan",
+      "timestamp": 1304659178,
+      "content": "[Advertisement]\n\nWanna win an awesome trip to Canada and a lot more other prizes. Visit http://on.fb.me/iWwVCg and click 'Like' for more details.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hrithik Roshan",
+      "timestamp": 1304264401,
+      "content": "Advertisement\n\nGet a chance to win an awesome trip to Canada and a lot more other prizes. Check out http://on.fb.me/a6I8ZZ and click 'Like' for more details.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hrithik Roshan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HrithikRoshan_bfe466210c"
+}

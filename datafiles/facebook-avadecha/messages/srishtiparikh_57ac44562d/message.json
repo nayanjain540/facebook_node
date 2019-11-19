@@ -1,0 +1,37 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331320102,
+      "content": "Srishti, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUaTA\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324093438,
+      "content": "Srishti missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Srishti Parikh",
+      "timestamp": 1319294138,
+      "content": "sht up hritika....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1319293955,
+      "content": "hello madia",
+      "type": "Generic"
+    }
+  ],
+  "title": "Srishti Parikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Srishti Parikh"
+  ],
+  "thread_path": "SrishtiParikh_57ac44562d"
+}

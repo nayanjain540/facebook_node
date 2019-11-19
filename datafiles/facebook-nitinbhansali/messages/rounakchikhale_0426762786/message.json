@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1349794600,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1348656545,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1348484275,
+      "content": "sun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1348484273,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rounak Chikhale",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rounak Chikhale"
+  ],
+  "thread_path": "RounakChikhale_0426762786"
+}

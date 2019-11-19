@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "sender_name": "India Community Digest",
+      "timestamp": 1309680176,
+      "content": "Read the post on iPal by Aravind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "India Community Digest",
+      "timestamp": 1309416936,
+      "content": "By Aravind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "India Community Digest",
+      "timestamp": 1309328018,
+      "content": "Share, spread and take part in the iPal revolution!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "India Community Digest",
+      "timestamp": 1308840681,
+      "content": "\n\n\n\n",
+      "type": "Generic"
+    }
+  ],
+  "title": "India Community Digest",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "IndiaCommunityDigest_984a3d839f"
+}

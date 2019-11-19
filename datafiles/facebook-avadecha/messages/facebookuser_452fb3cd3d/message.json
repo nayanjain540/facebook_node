@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1294144481,
+      "content": "U will see the Invite friends button on this page .....plz ivite every1",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "FacebookUser_452fb3cd3d"
+}

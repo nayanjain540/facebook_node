@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sanjay Kawar",
+      "timestamp": 1499178294,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanjay Kawar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sanjay Kawar"
+  ],
+  "thread_path": "SanjayKawar_df703fa1e0"
+}

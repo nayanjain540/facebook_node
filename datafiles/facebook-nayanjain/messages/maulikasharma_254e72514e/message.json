@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1430225198,
+      "content": "heyyy:D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1414259615,
+      "content": "Holla\u00e2\u009c\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1413201691,
+      "content": "Hiii:)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Maulika Sharma",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Maulika Sharma"
+  ],
+  "thread_path": "MaulikaSharma_254e72514e"
+}

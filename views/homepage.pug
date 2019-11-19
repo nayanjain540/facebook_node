@@ -1,0 +1,17 @@
+html
+	head
+		include mystyle.css
+	body
+		ol
+			each val,index in coll
+				li
+					a(href='/'+coll[index].name)=coll[index].name
+		form(method='POST', action="/onetoone")
+			br
+			label Enter Name Of Person:
+			br
+			br
+			input.form-control(name='onetoone',type='text')
+			br
+			br
+			input.btn.btn-primary(type='submit',value='submit')

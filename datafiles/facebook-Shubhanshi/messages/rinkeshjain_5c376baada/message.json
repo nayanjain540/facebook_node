@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rinkesh Jain",
+      "timestamp": 1394906176,
+      "content": "Hey \nBB pin?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rinkesh Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rinkesh Jain"
+  ],
+  "thread_path": "RinkeshJain_5c376baada"
+}

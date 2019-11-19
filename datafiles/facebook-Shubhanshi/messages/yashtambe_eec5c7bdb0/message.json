@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Tambe",
+      "timestamp": 1416075337,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Tambe",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Tambe"
+  ],
+  "thread_path": "YashTambe_eec5c7bdb0"
+}

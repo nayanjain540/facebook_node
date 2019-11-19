@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1451196357,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shail Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shail Shah"
+  ],
+  "thread_path": "ShailShah_2d12fb0891"
+}

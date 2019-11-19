@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jemin Patel",
+      "timestamp": 1406829989,
+      "content": "Hey?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jemin Patel",
+      "timestamp": 1402429319,
+      "content": "Knock knock ;)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jemin Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jemin Patel"
+  ],
+  "thread_path": "JeminPatel_d84c98ed12"
+}

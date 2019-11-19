@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Simrin Shah",
+      "timestamp": 1473066941,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Simrin Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Simrin Shah"
+  ],
+  "thread_path": "SimrinShah_1b0c4ffcae"
+}

@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shantanu Nayak",
+      "timestamp": 1414849641,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1413966143,
+      "content": "same to you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shantanu Nayak",
+      "timestamp": 1413955353,
+      "content": "Happy diwali :D",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shantanu Nayak",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shantanu Nayak"
+  ],
+  "thread_path": "ShantanuNayak_caa6cf6ab4"
+}

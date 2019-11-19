@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1466255778,
+      "sticker": {
+        "uri": "messages/stickers_used/851557_369239266556155_759568595_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1466255777,
+      "sticker": {
+        "uri": "messages/stickers_used/851557_369239266556155_759568595_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Zeel Shah",
+      "timestamp": 1465118906,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zeel Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Zeel Shah"
+  ],
+  "thread_path": "ZeelShah_3eb0c14dc4"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Akshay Jain",
+      "timestamp": 1318135089,
+      "content": "Hi, I am akshay. Shubhanshi do you make friendship with me.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Akshay Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Akshay Jain"
+  ],
+  "thread_path": "AkshayJain_114f8f588a"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1496140481,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nihar Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nihar Shah"
+  ],
+  "thread_path": "NiharShah_da00028913"
+}

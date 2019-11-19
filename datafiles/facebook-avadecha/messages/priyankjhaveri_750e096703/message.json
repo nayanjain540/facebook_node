@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330937,
+      "content": "Priyank, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbuWM\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Priyank Jhaveri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Priyank Jhaveri"
+  ],
+  "thread_path": "PriyankJhaveri_750e096703"
+}

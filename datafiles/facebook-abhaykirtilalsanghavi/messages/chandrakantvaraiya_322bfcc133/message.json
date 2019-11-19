@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chandrakant Varaiya",
+      "timestamp": 1520873271,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chandrakant Varaiya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Chandrakant Varaiya"
+  ],
+  "thread_path": "ChandrakantVaraiya_322bfcc133"
+}

@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1343472370,
+      "content": "you are fake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1343472294,
+      "content": "what happened making me fool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1343471937,
+      "content": "i dont think so becaus e any celibryty dont send his number",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1343471915,
+      "content": "really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pradipsinh Rajput",
+      "timestamp": 1343471899,
+      "content": "9714336695 call me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1343471877,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pradipsinh Rajput",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pradipsinh Rajput"
+  ],
+  "thread_path": "PradipsinhRajput_f0fe81ed60"
+}

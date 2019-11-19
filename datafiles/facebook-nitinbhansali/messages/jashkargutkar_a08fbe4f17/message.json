@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jash Kargutkar",
+      "timestamp": 1491759574,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jash Kargutkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jash Kargutkar"
+  ],
+  "thread_path": "JashKargutkar_a08fbe4f17"
+}

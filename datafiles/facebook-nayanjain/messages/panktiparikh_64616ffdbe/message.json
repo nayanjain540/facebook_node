@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1430225661,
+      "content": "yoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1425657080,
+      "content": "ssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pankti Parikh",
+      "timestamp": 1425241792,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1425060690,
+      "content": "Hey there \u00f3\u00be\u008c\u00a8",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pankti Parikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pankti Parikh"
+  ],
+  "thread_path": "PanktiParikh_64616ffdbe"
+}

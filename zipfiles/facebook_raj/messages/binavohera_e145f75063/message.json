@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bina Vohera",
+      "timestamp": 1370357699,
+      "content": "hiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bina Vohera",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Bina Vohera"
+  ],
+  "thread_path": "BinaVohera_e145f75063"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Say hello to Rahul.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Sanghvi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rahul Sanghvi"
+  ],
+  "thread_path": "RahulSanghvi_46a115c806"
+}

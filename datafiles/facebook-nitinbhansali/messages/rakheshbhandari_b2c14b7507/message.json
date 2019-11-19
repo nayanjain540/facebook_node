@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rakhesh Bhandari",
+      "timestamp": 1402849111,
+      "content": "Rakhesh called you.",
+      "call_duration": 249690,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Rakhesh Bhandari",
+      "timestamp": 1402849111,
+      "content": "You missed a call from Rakhesh.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Rakhesh Bhandari",
+      "timestamp": 1402848776,
+      "content": "Rakhesh called you.",
+      "call_duration": 15187,
+      "type": "Call"
+    }
+  ],
+  "title": "Rakhesh Bhandari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rakhesh Bhandari"
+  ],
+  "thread_path": "RakheshBhandari_b2c14b7507"
+}

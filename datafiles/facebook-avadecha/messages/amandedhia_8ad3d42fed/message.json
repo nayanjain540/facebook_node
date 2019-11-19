@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1492000447,
+      "content": "https://youtu.be/nhiwD87dSWA",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aman Dedhia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aman Dedhia"
+  ],
+  "thread_path": "AmanDedhia_8ad3d42fed"
+}

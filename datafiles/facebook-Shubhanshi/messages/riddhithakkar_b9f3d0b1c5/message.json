@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904119,
+      "content": "B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riddhi Thakkar",
+      "timestamp": 1336904099,
+      "content": "nd urs ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riddhi Thakkar",
+      "timestamp": 1336904094,
+      "content": "a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904068,
+      "content": "Div?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riddhi Thakkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Riddhi Thakkar"
+  ],
+  "thread_path": "RiddhiThakkar_b9f3d0b1c5"
+}

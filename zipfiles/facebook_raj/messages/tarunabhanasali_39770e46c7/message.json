@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Taruna Bhanasali",
+      "timestamp": 1338213177,
+      "content": "sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Taruna Bhanasali",
+      "timestamp": 1337609551,
+      "content": "vidhi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Taruna Bhanasali",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Taruna Bhanasali"
+  ],
+  "thread_path": "TarunaBhanasali_39770e46c7"
+}

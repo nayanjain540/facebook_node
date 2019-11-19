@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1514948798,
+      "content": "Happy New Year \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amit Yadav",
+      "timestamp": 1514749100,
+      "content": "Happy New Year bro",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amit Yadav",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Amit Yadav"
+  ],
+  "thread_path": "AmitYadav_cfbc14ebcc"
+}

@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Samkit Mody",
+      "timestamp": 1360069841,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331309269,
+      "content": "Samkit, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNX5H\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Samkit Mody",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Samkit Mody"
+  ],
+  "thread_path": "SamkitMody_a691077dfe"
+}

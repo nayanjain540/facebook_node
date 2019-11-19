@@ -1,0 +1,38 @@
+{
+  "event_responses": {
+    "events_joined": [
+      {
+        "name": "Live Screening - India vs Pakistan",
+        "start_timestamp": 1496566800,
+        "end_timestamp": 1496597400
+      },
+      {
+        "name": "Khanvel Resort, Silvassa, Gujarat",
+        "start_timestamp": 1377734400,
+        "end_timestamp": 1377963000
+      },
+      {
+        "name": "E.V.S Trip",
+        "start_timestamp": 1340584200,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Fulham vs Manchester United",
+        "start_timestamp": 1282518000,
+        "end_timestamp": 1282525200
+      }
+    ],
+    "events_interested": [
+      {
+        "name": "Mumbai Underwater Festival 2017",
+        "start_timestamp": 1494041400,
+        "end_timestamp": 1494160200
+      },
+      {
+        "name": "Fresher's DJ NIGHT",
+        "start_timestamp": 1474461000,
+        "end_timestamp": 1474471800
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1500545549,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Jain"
+  ],
+  "thread_path": "YashJain_dab09d94f7"
+}

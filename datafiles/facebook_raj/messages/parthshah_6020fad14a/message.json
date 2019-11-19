@@ -1,0 +1,35 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parth Shah",
+      "timestamp": 1390794646,
+      "content": "Happie b'dayy dhaniya ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parth Shah",
+      "timestamp": 1340527617,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1340527597,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1324530940,
+      "content": "hi parth bhai",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Shah"
+  ],
+  "thread_path": "ParthShah_6020fad14a"
+}

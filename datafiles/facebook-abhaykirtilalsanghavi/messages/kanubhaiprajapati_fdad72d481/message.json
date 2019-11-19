@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kanubhai Prajapati",
+      "timestamp": 1524053228,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kanubhai Prajapati",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Kanubhai Prajapati"
+  ],
+  "thread_path": "KanubhaiPrajapati_fdad72d481"
+}

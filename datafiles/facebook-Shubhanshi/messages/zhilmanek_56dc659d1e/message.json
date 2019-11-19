@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Zhil Manek",
+      "timestamp": 1335096374,
+      "content": ":P",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Zhil Manek",
+      "timestamp": 1335096286,
+      "content": "hi! whats up?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zhil Manek",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Zhil Manek"
+  ],
+  "thread_path": "ZhilManek_56dc659d1e"
+}

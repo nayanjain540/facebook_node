@@ -1,0 +1,456 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530890119,
+      "ip_address": "183.87.49.11",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+      "datr_cookie": "e19f********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530105005,
+      "updated_timestamp": 1530797764,
+      "ip_address": "49.33.50.200",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "o4wz********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1530711402,
+      "ip_address": "2405:204:20a5:a769:1649:87c8:f38:5837",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.1; Redmi Note 5 Pro MIUI/V9.2.13.0.NEIMIEK) [FBAN/FB4A;FBAV/178.0.0.57.86;FBPN/com.facebook.katana;FBLC/en_IN;FBBV/115496535;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Redmi Note 5 Pro;FBSV/7.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=1080,height=2030};FB_FW/1;]",
+      "datr_cookie": "as08********************",
+      "device": "Xiaomi Redmi Note 5 Pro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1530612836,
+      "ip_address": "49.32.96.82",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.1; Redmi Note 5 Pro MIUI/V9.2.13.0.NEIMIEK) [FBAN/FB4A;FBAV/178.0.0.57.86;FBPN/com.facebook.katana;FBLC/en_IN;FBBV/115496535;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Redmi Note 5 Pro;FBSV/7.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.75,width=2030,height=1080};FB_FW/1;]",
+      "datr_cookie": "zDQ1********************",
+      "device": "Xiaomi Redmi Note 5 Pro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530214157,
+      "ip_address": "183.87.47.49",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "_jY1********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Safari",
+      "created_timestamp": 1530085690,
+      "updated_timestamp": 1530190428,
+      "ip_address": "203.192.213.121",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56",
+      "datr_cookie": "0YEr********************",
+      "device": "Mac",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530085054,
+      "ip_address": "183.87.47.49",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "sT4z********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1530085025,
+      "ip_address": "183.87.47.49",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "lT4z********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528922338,
+      "updated_timestamp": 1529781310,
+      "ip_address": "49.32.83.190",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "1oAh********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528529618,
+      "updated_timestamp": 1528873750,
+      "ip_address": "49.34.142.153",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 [FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/112316275;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "FMMg********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528555897,
+      "ip_address": "49.34.170.9",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/112316275;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "eekb********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528529643,
+      "ip_address": "157.32.87.243",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/112316275;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "64Ib********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528388240,
+      "ip_address": "49.33.25.61",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "hFoZ********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524935967,
+      "updated_timestamp": 1527369004,
+      "ip_address": "49.33.19.233",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "pRnR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1525847060,
+      "ip_address": "49.33.157.14",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-8; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "BJTy********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523868567,
+      "ip_address": "49.33.43.202",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "jWPU********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523735454,
+      "ip_address": "49.33.232.165",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "kVvS********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523735305,
+      "ip_address": "103.51.27.110",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "8lrS********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523681711,
+      "ip_address": "103.51.27.110",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "oInR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523681625,
+      "ip_address": "49.33.233.180",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "TYnR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523659739,
+      "ip_address": "49.33.137.148",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "yzPR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523659702,
+      "ip_address": "103.51.27.110",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "qzPR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523658791,
+      "ip_address": "103.51.27.110",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "HDDR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523656811,
+      "ip_address": "49.33.191.117",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "YijR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523656742,
+      "ip_address": "49.33.191.117",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "GijR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1523656715,
+      "ip_address": "49.33.191.117",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "_ifR********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521919349,
+      "ip_address": "49.32.177.144",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4) [FBAN/FB4A;FBAV/164.0.0.44.95;FBPN/com.facebook.katana;FBLC/en_US;FBBV/98618556;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBDV/Moto G (5) Plus;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "daW2********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521752801,
+      "ip_address": "183.87.47.100",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.44.95;FBBV/98618556;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/98618556;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "4Rq0********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521752742,
+      "ip_address": "183.87.47.100",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4) [FBAN/FB4A;FBAV/164.0.0.44.95;FBPN/com.facebook.katana;FBLC/en_US;FBBV/98618556;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBDV/Moto G (5) Plus;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "phq0********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521059708,
+      "ip_address": "103.51.27.110",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/95632808;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "fIep********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520701305,
+      "ip_address": "49.33.164.61",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-4) [FBAN/FB4A;FBAV/162.0.0.45.94;FBPN/com.facebook.katana;FBLC/en_US;FBBV/95632808;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBDV/Moto G (5) Plus;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "eQ-k********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519894387,
+      "ip_address": "49.33.83.213",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/93146056;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "c7-X********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511107067,
+      "updated_timestamp": 1519580894,
+      "ip_address": "49.33.132.159",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/93146056;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "3vaS********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519193271,
+      "ip_address": "111.119.219.55",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/91889149;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "twyN********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518078312,
+      "ip_address": "49.33.220.246",
+      "user_agent": "[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/90882265;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "aAl8********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1517504804,
+      "ip_address": "49.33.244.135",
+      "user_agent": "[FBAN/FB4A;FBAV/157.0.0.38.97;FBBV/89915721;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/89915721;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "JElz********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516452029,
+      "ip_address": "183.87.49.27",
+      "user_agent": "[FBAN/FB4A;FBAV/155.0.0.36.96;FBBV/87995190;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/87995190;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "vThj********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516433099,
+      "ip_address": "49.33.245.95",
+      "user_agent": "[FBAN/FB4A;FBAV/154.0.0.33.385;FBBV/87107448;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/87595196;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "y-5i********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511715937,
+      "updated_timestamp": 1513873673,
+      "ip_address": "49.34.91.168",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/84570984;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-6kR********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Surat, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511107078,
+      "ip_address": "49.33.123.243",
+      "user_agent": "[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156282;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/80156282;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "BqoR********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1508847151,
+      "ip_address": "183.87.49.29",
+      "user_agent": "[FBAN/FB4A;FBAV/147.0.0.44.75;FBBV/76755482;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/76755482;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Ly7v********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1507861736,
+      "ip_address": "49.33.224.70",
+      "user_agent": "[FBAN/FB4A;FBAV/144.0.0.27.91;FBBV/74024807;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/74024807;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "6CTg********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1505127250,
+      "ip_address": "49.33.119.214",
+      "user_agent": "[FBAN/FB4A;FBAV/140.0.0.24.91;FBBV/70897377;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/70897377;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Umu2********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503606389,
+      "updated_timestamp": 1504696698,
+      "ip_address": "49.33.213.122",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPN25.137-67; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/139.0.0.26.93;]",
+      "datr_cookie": "eCx_********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1502734684,
+      "ip_address": "49.33.105.147",
+      "user_agent": "[FBAN/FB4A;FBAV/136.0.0.22.91;FBBV/67437982;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBRV/67842004;FBCR/Vodafone IN;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5) Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "XOmR********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1501088471,
+      "updated_timestamp": 1501694108,
+      "ip_address": "183.87.49.17",
+      "user_agent": "[FBAN/FB4A;FBAV/135.0.0.22.90;FBBV/66730572;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBRV/66730572;FBCR/Vodafone IN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I8552;FBSV/4.1.2;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "nAiC********************",
+      "device": "Samsung Galaxy Grand Quattro",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1498816926,
+      "updated_timestamp": 1500817714,
+      "ip_address": "2405:204:202e:77dd:164f:7680:8fce:3ef3",
+      "user_agent": "Mozilla/5.0 (Linux; Android 5.1.1; 2014818 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/133.0.0.19.83;]",
+      "datr_cookie": "niFW********************",
+      "device": "Xiaomi Redmi 2",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1498360814,
+      "updated_timestamp": 1500227455,
+      "ip_address": "2405:204:2005:b0d2:a173:2a7a:97a3:c8ac",
+      "user_agent": "[FBAN/FB4A;FBAV/129.0.0.29.67;FBBV/62307559;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/62307559;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 3S;FBSV/6.0.1;FBBK/0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "3ytP********************",
+      "device": "Xiaomi Redmi 3S",
+      "location": "Navi Mumbai (New Mumbai), India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1499443263,
+      "ip_address": "2405:204:211d:2b4c:5200:7a32:4f69:987b",
+      "user_agent": "[FBAN/FB4A;FBAV/130.0.0.45.70;FBBV/63303701;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/63303701;FBCR/Jio 4G;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/2014818;FBSV/5.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "P7Bf********************",
+      "device": "Xiaomi Redmi 2",
+      "location": "Dombivli, India"
+    }
+  ]
+}

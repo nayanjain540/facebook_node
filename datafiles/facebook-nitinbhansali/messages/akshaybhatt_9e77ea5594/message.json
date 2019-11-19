@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Akshay Bhatt",
+      "timestamp": 1504177349,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Akshay Bhatt",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Akshay Bhatt"
+  ],
+  "thread_path": "AkshayBhatt_9e77ea5594"
+}

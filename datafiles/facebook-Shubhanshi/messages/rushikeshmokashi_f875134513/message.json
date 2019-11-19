@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rushikesh Mokashi",
+      "timestamp": 1368116618,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rushikesh Mokashi",
+      "timestamp": 1350126521,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1338480488,
+      "content": "Div??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rushikesh Mokashi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rushikesh Mokashi"
+  ],
+  "thread_path": "RushikeshMokashi_f875134513"
+}

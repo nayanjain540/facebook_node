@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "sender_name": "WittyFeed",
+      "timestamp": 1512391769,
+      "content": "Hi, I\u00e2\u0080\u0099m an AI-based assistant for Wittyfeed.\nI\u00e2\u0080\u0099ll send you a digest of trending stories once a day. Send a message \"Menu\" and click on Manage Subscription.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "WittyFeed",
+      "timestamp": 1512391768,
+      "type": "Generic"
+    }
+  ],
+  "title": "WittyFeed",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "WittyFeed_50b777c37e"
+}

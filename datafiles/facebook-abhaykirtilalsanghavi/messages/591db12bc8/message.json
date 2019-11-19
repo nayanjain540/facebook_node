@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "timestamp": 1490331780,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    ""
+  ],
+  "thread_path": "591db12bc8"
+}

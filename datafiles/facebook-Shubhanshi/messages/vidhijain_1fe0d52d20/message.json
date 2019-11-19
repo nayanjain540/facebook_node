@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vidhi Jain",
+      "timestamp": 1388311650,
+      "content": "hiiiiiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vidhi Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Vidhi Jain"
+  ],
+  "thread_path": "VidhiJain_1fe0d52d20"
+}

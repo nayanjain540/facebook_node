@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Malaika Shah",
+      "timestamp": 1506973311,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Malaika Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Malaika Shah"
+  ],
+  "thread_path": "MalaikaShah_9a0f63c8c5"
+}

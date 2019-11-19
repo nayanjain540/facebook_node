@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amita Sanghavi",
+      "timestamp": 1519927019,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amita Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Amita Sanghavi"
+  ],
+  "thread_path": "AmitaSanghavi_d68f8f3fa8"
+}

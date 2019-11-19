@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nishi Shah",
+      "timestamp": 1490262513,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nishi Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Nishi Shah"
+  ],
+  "thread_path": "NishiShah_be4102853f"
+}

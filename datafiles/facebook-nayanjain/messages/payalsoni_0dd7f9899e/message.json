@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1442774475,
+      "content": "Hiii ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Payal Soni",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Payal Soni"
+  ],
+  "thread_path": "PayalSoni_0dd7f9899e"
+}

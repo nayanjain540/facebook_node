@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1356869252,
+      "content": "happy birthday\n",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ankit Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ankit Shah"
+  ],
+  "thread_path": "AnkitShah_6cf7615f4c"
+}

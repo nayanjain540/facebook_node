@@ -1,0 +1,256 @@
+{
+  "profile": {
+    "name": "Nayan Jain",
+    "emails": {
+      "emails": [
+        "nayanjain540@gmail.com"
+      ],
+      "previous_emails": [
+        "nayan.jain.77@facebook.com",
+        "nayanjain19298@yahoo.com"
+      ]
+    },
+    "birthday": {
+      "year": 1998,
+      "month": 2,
+      "day": 19
+    },
+    "gender": {
+      "gender_option": "MALE",
+      "pronoun": "MALE"
+    },
+    "current_city": "Mumbai, Maharashtra",
+    "hometown": "Mumbai, Maharashtra",
+    "family_members": [
+      {
+        "name": "Avanti Jain",
+        "relation": "Sister"
+      },
+      {
+        "name": "Siddharth Jain",
+        "relation": "Cousin"
+      },
+      {
+        "name": "Naman Jain",
+        "relation": "Cousin"
+      },
+      {
+        "name": "Saloni Jain",
+        "relation": "Family member"
+      },
+      {
+        "name": "Trupti Jain",
+        "relation": "Family member"
+      },
+      {
+        "name": "Dhaval Jain",
+        "relation": "Cousin"
+      }
+    ],
+    "education_experiences": [
+      {
+        "name": "Gopi Birla Memorial School",
+        "graduated": true
+      },
+      {
+        "name": "K. J. Somaiya College of Engineering",
+        "start_date": {
+          "year": 2016
+        },
+        "end_date": {
+          "year": 2020
+        },
+        "graduated": false
+      },
+      {
+        "name": "Jai Hind College, Mumbai",
+        "start_date": {
+          "year": 2013
+        },
+        "end_date": {
+          "year": 2016
+        },
+        "graduated": true
+      },
+      {
+        "name": "gopi birla memorial school",
+        "graduated": true
+      }
+    ],
+    "phone_numbers": [
+      {
+        "phone_type": "Mobile",
+        "phone_number": "099202 62298",
+        "verified": true
+      }
+    ],
+    "pages": [
+      {
+        "name": "Music",
+        "pages": [
+          "Virgin Radio Lebanon",
+          "R1L",
+          "Eminem world"
+        ]
+      },
+      {
+        "name": "Movies",
+        "pages": [
+          "Step Up Movie",
+          "Step Up 2: The Streets"
+        ]
+      },
+      {
+        "name": "Television",
+        "pages": [
+          "Rick and Morty Memes",
+          "Chhote Miyan Dhaakad"
+        ]
+      },
+      {
+        "name": "Other",
+        "pages": [
+          "TSEC CodeStorm - Campus Chapter of CodeChef",
+          "Resonance Eduventures",
+          "E-Cell IIT Madras",
+          "CiS \u00ce\u00b8  : Commonsense is seriously Complex",
+          "The Window Project",
+          "Kshitij",
+          "KJSCE - Illuminati",
+          "HaramiPun",
+          "Dank Memes Melt Steel Beams",
+          "UnErase Poetry",
+          "The Trexplorers",
+          "What's The Score? by ScoopWhoop",
+          "Chutiyo Ki Kami Nahi",
+          "Tribe of Dardanaak Jokes",
+          "KJSCE Shutter Bugs",
+          "Movielogues",
+          "Desi Humor",
+          "YOUth - Through the Lens",
+          "KJSCE SKREAM",
+          "BB Ki Vines",
+          "Norinder Mudi",
+          "PlayGround +",
+          "Willa Holland",
+          "Tumblr Made Me Do It",
+          "BloomBox, E-Cell (KJSCE)",
+          "Slam n Dunk",
+          "ScoopWhoop",
+          "Aquant",
+          "The Indian Idiot",
+          "JUST Imagine",
+          "Bollywood Blush",
+          "Gal Gadot",
+          "All India Bakchod",
+          "Daniel Amos",
+          "Quik2C",
+          "Gopi Birla Memorial School",
+          "Diply Facts",
+          "Dekh Bhai",
+          "Adriana Lima",
+          "Physics Central",
+          "Science Communication & Visualisation - somersault18:24",
+          "ABC Science",
+          "WIRED Science",
+          "Make In India",
+          "Awesome Inventions",
+          "Jacqueline Fernandez",
+          "y so mean?",
+          "The Logical Indian",
+          "Pentagon Eventors",
+          "Electronics360",
+          "Sonakshi Sinha",
+          "Sri Sri Radha Rasabihari Temple, ISKCON Juhu, Mumbai (Official)",
+          "Jai Hind College Confessions",
+          "We Are Humanity",
+          "Pok\u00c3\u00a9mon",
+          "The Mind Unleashed",
+          "Dhanishta gold",
+          "Irina Shayk",
+          "Aunty Acid",
+          "Penny",
+          "ScienceDump",
+          "Architecture & Design",
+          "Hugh Jackman",
+          "Mobile88.Com",
+          "Irwincardozo Comics.",
+          "Sony Mobile",
+          "Narendra Modi",
+          "Aapka bavarchi",
+          "Cricket Addictor",
+          "Sanket Shah Photography",
+          "AsapSCIENCE",
+          "Mandatory",
+          "good day maam..........  wy do we have to stand in all the periods............een or legs pain...",
+          "Emma Watson",
+          "Kapil Sharma Latest Jokes",
+          "Funny Or Die",
+          "Bollywood Classroom",
+          "Bombastic",
+          "Unbelievable facts",
+          "RVCJ Media",
+          "Places to See Before You Die",
+          "Loling",
+          "P GANG",
+          "GBMS Farewell 2013\"",
+          "Vardhman Fantasy - World's Most Affordable Theme Park",
+          "GBMS Farewell 2013",
+          "Interact club of GBMS",
+          "Fest-O-Birla",
+          "Continue Reading",
+          "AppBrain",
+          "9GAG",
+          "Kiloo Games",
+          "HowZat Cricket",
+          "FarmVille",
+          "Texas HoldEm Poker"
+        ]
+      },
+      {
+        "name": "Favorite Sports",
+        "pages": [
+          "Basketball"
+        ]
+      },
+      {
+        "name": "Favorite Athletes",
+        "pages": [
+          "Rahul Dravid",
+          "Ajinkya Rahane",
+          "David Beckham"
+        ]
+      },
+      {
+        "name": "TV shows watched",
+        "pages": [
+          "Mahabharat"
+        ]
+      }
+    ],
+    "groups": [
+      "Gbms  iz   was n always will rock",
+      "10A!!",
+      "Farewell 9ths",
+      "Anti-Anshuman",
+      "Family",
+      "jain Family",
+      "Sonic gang",
+      "9A Roxx!!!!!",
+      "anti mama faekology agency",
+      "The MAMA and CHOPPER boys and girls",
+      "TRAILBLAZERS ROXXX!!!",
+      "\u00c6\u0092\u00d1\u008f!\u00ce\u00b5\u00d0\u00b8d\u00e0\u00b8\u00a3 \u00c6\u0092\u00cf\u0083\u00d1\u008f\u00ce\u00b5v\u00ce\u00b5\u00c2\u00ae",
+      "FRiends",
+      "freaking,aweosome,rocking,bindass all qualities=7c",
+      "GbMs eX-10ths 2014 OnLy",
+      "Loot Deals",
+      "\u00e0\u00a4\u00a8\u00e0\u00a4\u00bf\u00e0\u00a4\u00b5\u00e0\u00a5\u0087\u00e0\u00a4\u00b6 \u00e0\u00a4\u0095\u00e0\u00a5\u0087 \u00e0\u00a4\u00ae\u00e0\u00a4\u00be\u00e0\u00a4\u00b8\u00e0\u00a5\u008d\u00e0\u00a4\u009f\u00e0\u00a4\u00b0 \u00e0\u00a4\u009c\u00e0\u00a5\u0080",
+      "G O jain network-FB",
+      "Handball premier league",
+      "Awsome"
+    ],
+    "registration_timestamp": 1257595510,
+    "profile_uri": "https://www.facebook.com/nayan.jain.77"
+  }
+}

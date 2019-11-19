@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bilal Munaf",
+      "timestamp": 1489726113,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bilal Munaf",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bilal Munaf"
+  ],
+  "thread_path": "BilalMunaf_bb8fcee95b"
+}

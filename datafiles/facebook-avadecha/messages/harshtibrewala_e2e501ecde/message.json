@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harsh Tibrewala",
+      "timestamp": 1360077800,
+      "content": "Click n download",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Tibrewala",
+      "timestamp": 1360077795,
+      "content": "Harsh Tibrewala, I'm using hike, an awesome new free messaging app! Download the app at http://get.hike.in/ to start messaging me for free!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331338178,
+      "content": "Harsh Tibrewala, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbRgJ\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1325693803,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Tibrewala",
+      "timestamp": 1325692667,
+      "content": "Hola",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1310993155,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsh Tibrewala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harsh Tibrewala"
+  ],
+  "thread_path": "HarshTibrewala_e2e501ecde"
+}

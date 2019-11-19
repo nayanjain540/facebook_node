@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1490812218,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Purvesh Shirgaonkar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Purvesh Shirgaonkar"
+  ],
+  "thread_path": "PurveshShirgaonkar_7de611e409"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Cover Photos",
+  "photos": [
+    {
+      "uri": "photos/your_posts/13217501_1199906236697651_4021662526943577988_o_1199906236697651.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "modified_timestamp": 1463121430,
+          "iso_speed": 0,
+          "orientation": 0,
+          "original_width": 1280,
+          "original_height": 0,
+          "upload_ip": "60.243.98.253"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/13116424_1199905650031043_1993776265996637475_o_1199905650031043.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "modified_timestamp": 1463121367,
+          "iso_speed": 0,
+          "orientation": 0,
+          "original_width": 1280,
+          "original_height": 0,
+          "upload_ip": "60.243.98.253"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/your_posts/13217501_1199906236697651_4021662526943577988_o_1199906236697651.jpg",
+    "media_metadata": {
+      "photo_metadata": {
+        "modified_timestamp": 1463121430,
+        "iso_speed": 0,
+        "orientation": 0,
+        "original_width": 1280,
+        "original_height": 0,
+        "upload_ip": "60.243.98.253"
+      }
+    }
+  },
+  "last_modified_timestamp": 1463121436
+}

@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pritesh Shah",
+      "timestamp": 1331274981,
+      "content": "Thnks for yur warm wishes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1328718952,
+      "content": "happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pritesh Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pritesh Shah"
+  ],
+  "thread_path": "PriteshShah_1b2642a0b4"
+}

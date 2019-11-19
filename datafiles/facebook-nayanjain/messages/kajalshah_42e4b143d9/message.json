@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1444489050,
+      "content": "I don't know you but then too Happy Bday !!party hard ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1444411823,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kajal Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kajal Shah"
+  ],
+  "thread_path": "KajalShah_42e4b143d9"
+}

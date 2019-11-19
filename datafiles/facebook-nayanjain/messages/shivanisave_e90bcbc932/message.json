@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shivani Save",
+      "timestamp": 1477906915,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shivani Save",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shivani Save"
+  ],
+  "thread_path": "ShivaniSave_e90bcbc932"
+}

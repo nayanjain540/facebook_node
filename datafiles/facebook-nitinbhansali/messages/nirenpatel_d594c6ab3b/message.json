@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Niren Patel",
+      "timestamp": 1499950951,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Niren Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Niren Patel"
+  ],
+  "thread_path": "NirenPatel_d594c6ab3b"
+}

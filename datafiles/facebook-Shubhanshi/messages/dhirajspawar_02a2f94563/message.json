@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dhiraj S Pawar",
+      "timestamp": 1413617318,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dhiraj S Pawar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dhiraj S Pawar"
+  ],
+  "thread_path": "DhirajSPawar_02a2f94563"
+}

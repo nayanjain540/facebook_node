@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chintan Jain",
+      "timestamp": 1350570090,
+      "content": "You missed a video chat with Chintan.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Chintan Jain",
+      "timestamp": 1350570046,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chintan Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chintan Jain"
+  ],
+  "thread_path": "ChintanJain_7a2a41213e"
+}

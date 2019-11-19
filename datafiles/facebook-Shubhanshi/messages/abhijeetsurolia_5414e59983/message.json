@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhijeet Surolia",
+      "timestamp": 1430637910,
+      "content": "Heya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhijeet Surolia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Abhijeet Surolia"
+  ],
+  "thread_path": "AbhijeetSurolia_5414e59983"
+}

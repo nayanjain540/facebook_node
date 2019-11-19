@@ -1,0 +1,43 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anvsh Ali",
+      "timestamp": 1410073354,
+      "content": "You missed a call from Anvsh.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Anvsh Ali",
+      "timestamp": 1318350160,
+      "content": "its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1318188297,
+      "content": "Srry 4 d late rply",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1318188293,
+      "content": "Hey.......",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvsh Ali",
+      "timestamp": 1318187926,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anvsh Ali",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Anvsh Ali"
+  ],
+  "thread_path": "AnvshAli_22d2f9c4b5"
+}

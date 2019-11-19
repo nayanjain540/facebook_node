@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515656312,
+      "content": "i am more active there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515656309,
+      "content": "please can you dm me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515656305,
+      "content": "perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1515557565,
+      "content": "Hows life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1515557559,
+      "content": "How are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1515557554,
+      "content": "Im good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515557031,
+      "content": "i just checked messenger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515557024,
+      "content": "how are you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1515512977,
+      "content": "Ssup?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1515512938,
+      "content": "Achaanak?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1515511784,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1468580711,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saloni Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Saloni Shah"
+  ],
+  "thread_path": "SaloniShah_31b190b80f"
+}

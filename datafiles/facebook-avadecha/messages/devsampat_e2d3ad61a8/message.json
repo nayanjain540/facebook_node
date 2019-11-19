@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334578,
+      "content": "Dev, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYKm\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dev Sampat",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dev Sampat"
+  ],
+  "thread_path": "DevSampat_e2d3ad61a8"
+}

@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shanay Shah",
+      "timestamp": 1387105366,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shanay Shah",
+      "timestamp": 1387105321,
+      "content": "u in whc skul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shanay Shah",
+      "timestamp": 1387105313,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shanay Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shanay Shah"
+  ],
+  "thread_path": "ShanayShah_52d8885bac"
+}

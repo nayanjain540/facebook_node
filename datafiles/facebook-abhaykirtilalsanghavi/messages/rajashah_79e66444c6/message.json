@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raja Shah",
+      "timestamp": 1466957710,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raja Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Raja Shah"
+  ],
+  "thread_path": "RajaShah_79e66444c6"
+}

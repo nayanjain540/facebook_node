@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Lalitbhai Shah",
+      "timestamp": 1524053226,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lalitbhai Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Lalitbhai Shah"
+  ],
+  "thread_path": "LalitbhaiShah_02527abf55"
+}

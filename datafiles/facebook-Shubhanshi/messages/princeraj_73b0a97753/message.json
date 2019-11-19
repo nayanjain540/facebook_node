@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Prince Raj",
+      "timestamp": 1336289768,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prince Raj",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Prince Raj"
+  ],
+  "thread_path": "PrinceRaj_73b0a97753"
+}

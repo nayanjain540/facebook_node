@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1400523773,
+      "content": "Thanks re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajendra Varma",
+      "timestamp": 1400523737,
+      "content": "Congrats dude....!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rajendra Varma",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rajendra Varma"
+  ],
+  "thread_path": "RajendraVarma_b5e894b165"
+}

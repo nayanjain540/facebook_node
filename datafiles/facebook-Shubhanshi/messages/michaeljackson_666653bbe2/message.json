@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender_name": "Michael Jackson",
+      "timestamp": 1307650034,
+      "content": "On June 14th 9:00 am EST, MJ Facebook fans from around the globe will get the first look at the largest crowdsourced video ever made! \u00e2\u0080\u0098The Behind The Mask Project\u00e2\u0080\u0099 brought together people of all cultures and languages, and now you are officially invited to watch this music video\u00e2\u0080\u0099s world premiere. Be sure to RSVP to this event and tell your friends!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Jackson",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "MichaelJackson_666653bbe2"
+}

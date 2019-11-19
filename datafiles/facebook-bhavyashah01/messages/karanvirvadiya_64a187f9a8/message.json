@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Karan Virvadiya",
+      "timestamp": 1489726116,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karan Virvadiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Karan Virvadiya"
+  ],
+  "thread_path": "KaranVirvadiya_64a187f9a8"
+}

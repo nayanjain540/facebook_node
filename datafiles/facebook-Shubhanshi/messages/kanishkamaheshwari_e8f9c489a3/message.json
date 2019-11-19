@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kanishka Maheshwari",
+      "timestamp": 1363966572,
+      "content": "hi ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kanishka Maheshwari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kanishka Maheshwari"
+  ],
+  "thread_path": "KanishkaMaheshwari_e8f9c489a3"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saish Rane",
+      "timestamp": 1483103093,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saish Rane",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Pending",
+  "participants": [
+    "Saish Rane"
+  ],
+  "thread_path": "SaishRane_320be6755b"
+}

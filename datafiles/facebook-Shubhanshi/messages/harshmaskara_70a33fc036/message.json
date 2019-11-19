@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harsh Maskara",
+      "timestamp": 1378568166,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsh Maskara",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harsh Maskara"
+  ],
+  "thread_path": "HarshMaskara_70a33fc036"
+}

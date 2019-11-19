@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "sender_name": "Naitik Gala",
+      "timestamp": 1336904831,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904820,
+      "content": "N I dnt knw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904807,
+      "content": "Sagar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904804,
+      "content": "Nidhi patel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Naitik Gala",
+      "timestamp": 1336904782,
+      "content": "do u know any1 in h",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904750,
+      "content": "B",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Naitik Gala",
+      "timestamp": 1336904738,
+      "content": "h and urs ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336904684,
+      "content": "Div?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Naitik Gala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Naitik Gala"
+  ],
+  "thread_path": "NaitikGala_29d947793b"
+}

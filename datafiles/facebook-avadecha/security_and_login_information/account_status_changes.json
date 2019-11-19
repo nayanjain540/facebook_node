@@ -1,0 +1,60 @@
+{
+  "account_status_changes": [
+    {
+      "status": "Account deactivated",
+      "timestamp": 1314715840
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1314788581
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1408278217
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1408288754
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1408288860
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1408362269
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1412156594
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1412167609
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1428917551
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1428917862
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1447052583
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1447059268
+    },
+    {
+      "status": "Account deactivated",
+      "timestamp": 1452005029
+    },
+    {
+      "status": "Account reactivated",
+      "timestamp": 1452236524
+    }
+  ]
+}

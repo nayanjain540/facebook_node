@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Zim Anmol",
+      "timestamp": 1434810365,
+      "content": "Bro",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zim Anmol",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Zim Anmol"
+  ],
+  "thread_path": "ZimAnmol_44fa7e40a4"
+}

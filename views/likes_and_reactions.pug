@@ -1,0 +1,190 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('anger').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+
+		function like() {
+			x=document.getElementById('like');
+			if (x.style.display === "none") {
+				document.getElementById('haha').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('anger').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function haha() {
+			x=document.getElementById('haha');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('anger').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function anger() {
+			x=document.getElementById('anger');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	
+		function wow() {
+			x=document.getElementById('wow');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('anger').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function sorry() {
+			x=document.getElementById('sorry');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('anger').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function dorothy() {
+			x=document.getElementById('dorothy');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('love').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('anger').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function love() {
+			x=document.getElementById('love');
+			if (x.style.display === "none") {
+				document.getElementById('like').style.display="none";
+				document.getElementById('dorothy').style.display="none";
+				document.getElementById('haha').style.display="none";
+				document.getElementById('wow').style.display="none";
+				document.getElementById('sorry').style.display="none";
+				document.getElementById('anger').style.display="none";
+				
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="like()">Like</button>
+		<button onclick="haha()">Haha</button>
+		<button onclick="love()">Love</button>
+		<button onclick="anger()">Anger</button>
+		<button onclick="wow()">Wow</button>
+		<button onclick="sorry()">Sorry</button>
+		<button onclick="dorothy()">Dorothy</button>
+		#table-wrapper
+			table#like
+				each j,i in articles.count_likes
+					tr 
+						td=i
+						td=j
+			table#haha
+				each j,i in articles.count_haha
+					tr 
+						td=i
+						td=j
+			table#love
+				each j,i in articles.count_love
+					tr 
+						td=i
+						td=j
+			table#anger
+				each j,i in articles.count_anger
+					tr 
+						td=i
+						td=j
+			table#wow
+				each j,i in articles.count_wow
+					tr 
+						td=i
+						td=j
+			table#sorry
+				each j,i in articles.count_sorry
+					tr 
+						td=i
+						td=j
+			table#dorothy
+				each j,i in articles.count_dorothy
+					tr 
+						td=i
+						td=j

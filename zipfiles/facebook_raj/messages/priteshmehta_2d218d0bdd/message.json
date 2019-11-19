@@ -1,0 +1,35 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pritesh Mehta",
+      "timestamp": 1356410788,
+      "content": "ohk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1356410783,
+      "content": "raj here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pritesh Mehta",
+      "timestamp": 1356410774,
+      "content": "varshil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pritesh Mehta",
+      "timestamp": 1356410771,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pritesh Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pritesh Mehta"
+  ],
+  "thread_path": "PriteshMehta_2d218d0bdd"
+}

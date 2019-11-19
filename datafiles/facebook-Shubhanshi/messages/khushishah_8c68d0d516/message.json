@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Khushi Shah",
+      "timestamp": 1360166546,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Khushi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Khushi Shah"
+  ],
+  "thread_path": "KhushiShah_8c68d0d516"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hetal Mehta",
+      "timestamp": 1300523032,
+      "content": "HAPPY HOLI\nBY MITSU........",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hetal Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Hetal Mehta"
+  ],
+  "thread_path": "HetalMehta_4eb6f519d1"
+}

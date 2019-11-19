@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Gurmeet Singh",
+      "timestamp": 1318187032,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1318186973,
+      "content": "Cnt cht nw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1318186965,
+      "content": "M busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gurmeet Singh",
+      "timestamp": 1318186938,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gurmeet Singh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Gurmeet Singh"
+  ],
+  "thread_path": "GurmeetSingh_f2bdd811f6"
+}

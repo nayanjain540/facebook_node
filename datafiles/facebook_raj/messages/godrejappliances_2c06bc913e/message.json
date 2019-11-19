@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "sender_name": "Godrej Appliances",
+      "timestamp": 1494828405,
+      "content": "Hi Raj,\n\nOur Twitter Team will be looking into this and you will hear from them soon.\nThanks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1494070470,
+      "content": "I had won #Sochkekhelahai contest on Twitter!\nMy Account-@rajsanghavi13\nI had sent all the details but have not yet received any reply from your team!please do help",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Godrej Appliances",
+      "timestamp": 1493479254,
+      "content": "Hi Raj, thanks for your message. We are not here right now, but we'll get back to you soon!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493479253,
+      "content": "When are the today's results going to be announced for #Sochkekhelahai contest?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Godrej Appliances",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "GodrejAppliances_2c06bc913e"
+}

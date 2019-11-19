@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Palash Desai",
+      "timestamp": 1396592288,
+      "content": "ssuupp....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Palash Desai",
+      "timestamp": 1396542473,
+      "content": "hi...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Palash Desai",
+      "timestamp": 1358614493,
+      "content": "hi...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Palash Desai",
+      "timestamp": 1344961131,
+      "content": "hi..",
+      "type": "Generic"
+    }
+  ],
+  "title": "Palash Desai",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Palash Desai"
+  ],
+  "thread_path": "PalashDesai_d8319cfbbe"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336665562,
+      "content": "Do I knw u??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nikita Sawant",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nikita Sawant"
+  ],
+  "thread_path": "NikitaSawant_0d9a73b9ca"
+}

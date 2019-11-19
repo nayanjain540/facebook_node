@@ -1,0 +1,46 @@
+{
+  "name": "July 18, 2011",
+  "photos": [
+    {
+      "uri": "photos/July182011_229226430451670/281513_229226560451657_2077433_n_229226560451657.jpg",
+      "creation_timestamp": 1204048124,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "NIKON CORPORATION",
+          "camera_model": "NIKON D200",
+          "taken_timestamp": 1204048124,
+          "modified_timestamp": 1204048124,
+          "exposure": "10/1250",
+          "focal_length": "600/10",
+          "f_stop": "80/10",
+          "iso_speed": 100,
+          "orientation": 0,
+          "original_width": 0,
+          "original_height": 0,
+          "upload_ip": "203.115.65.7"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/July182011_229226430451670/281513_229226560451657_2077433_n_229226560451657.jpg",
+    "creation_timestamp": 1204048124,
+    "media_metadata": {
+      "photo_metadata": {
+        "camera_make": "NIKON CORPORATION",
+        "camera_model": "NIKON D200",
+        "taken_timestamp": 1204048124,
+        "modified_timestamp": 1204048124,
+        "exposure": "10/1250",
+        "focal_length": "600/10",
+        "f_stop": "80/10",
+        "iso_speed": 100,
+        "orientation": 0,
+        "original_width": 0,
+        "original_height": 0,
+        "upload_ip": "203.115.65.7"
+      }
+    }
+  },
+  "last_modified_timestamp": 1347113281
+}

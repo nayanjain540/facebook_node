@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1519555634,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahesh Ambani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mahesh Ambani"
+  ],
+  "thread_path": "MaheshAmbani_a7de3c280d"
+}

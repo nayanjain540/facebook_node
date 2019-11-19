@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Punit Patel",
+      "timestamp": 1413552922,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Punit Patel",
+      "timestamp": 1398863653,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Punit Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Punit Patel"
+  ],
+  "thread_path": "PunitPatel_69f37169b7"
+}

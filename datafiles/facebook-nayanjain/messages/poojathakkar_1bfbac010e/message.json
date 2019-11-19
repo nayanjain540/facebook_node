@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1415557263,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1415199429,
+      "content": "Heyya ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pooja Thakkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pooja Thakkar"
+  ],
+  "thread_path": "PoojaThakkar_1bfbac010e"
+}

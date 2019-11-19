@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1371052766,
+      "content": "ghare shanthi thi chat kru chu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Timir Shah",
+      "timestamp": 1371052734,
+      "content": "Su kare chy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1371052572,
+      "content": "hi whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Timir Shah",
+      "timestamp": 1371044417,
+      "content": "Hi abhay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1361368450,
+      "content": "hiiiiiiiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Timir Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Timir Shah"
+  ],
+  "thread_path": "TimirShah_aa1cc4fa12"
+}

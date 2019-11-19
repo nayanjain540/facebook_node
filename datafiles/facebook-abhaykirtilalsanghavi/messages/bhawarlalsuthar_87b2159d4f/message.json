@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhawarlal Suthar",
+      "timestamp": 1519747005,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhawarlal Suthar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Bhawarlal Suthar"
+  ],
+  "thread_path": "BhawarlalSuthar_87b2159d4f"
+}

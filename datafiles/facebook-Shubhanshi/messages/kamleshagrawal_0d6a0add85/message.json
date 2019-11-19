@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kamlesh Agrawal",
+      "timestamp": 1418145516,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kamlesh Agrawal",
+      "timestamp": 1417890017,
+      "content": "Hi dear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kamlesh Agrawal",
+      "timestamp": 1417112389,
+      "content": "Hi shubhanshi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kamlesh Agrawal",
+      "timestamp": 1391946421,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kamlesh Agrawal",
+      "timestamp": 1359396109,
+      "content": "Hi subhansi ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kamlesh Agrawal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kamlesh Agrawal"
+  ],
+  "thread_path": "KamleshAgrawal_0d6a0add85"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Princess Divya",
+      "timestamp": 1319231530,
+      "content": "Hiiiiii!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Princess Divya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Princess Divya"
+  ],
+  "thread_path": "PrincessDivya_52aba1bf47"
+}

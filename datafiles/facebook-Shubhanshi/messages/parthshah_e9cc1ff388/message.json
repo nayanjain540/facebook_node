@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parth Shah",
+      "timestamp": 1314537890,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parth Shah",
+      "timestamp": 1314531498,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Shah"
+  ],
+  "thread_path": "ParthShah_e9cc1ff388"
+}

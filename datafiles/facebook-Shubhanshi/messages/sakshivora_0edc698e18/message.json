@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sakshi Vora",
+      "timestamp": 1320682089,
+      "content": "Happy b'day",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sakshi Vora",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sakshi Vora"
+  ],
+  "thread_path": "SakshiVora_0edc698e18"
+}

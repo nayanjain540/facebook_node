@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dhaval Doshi",
+      "timestamp": 1338472393,
+      "content": "hiya ...)\ndhawal hea... buzz me if v cn b frnz ...!!\n\ncheerz...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dhaval Doshi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dhaval Doshi"
+  ],
+  "thread_path": "DhavalDoshi_a04478199f"
+}

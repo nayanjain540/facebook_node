@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Veera",
+      "timestamp": 1472817628,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raj Veera",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Raj Veera"
+  ],
+  "thread_path": "RajVeera_f842f28306"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1468580363,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neeraja Vombatkere",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neeraja Vombatkere"
+  ],
+  "thread_path": "NeerajaVombatkere_d664089e06"
+}

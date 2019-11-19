@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rohit Falgotha",
+      "timestamp": 1322489803,
+      "content": "hiiiiiiii wats up",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rohit Falgotha",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rohit Falgotha"
+  ],
+  "thread_path": "RohitFalgotha_2a8e5573bd"
+}

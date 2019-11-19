@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mitsu Mehta",
+      "timestamp": 1492142726,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1492139275,
+      "content": "Gm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mitsu Mehta",
+      "timestamp": 1492133079,
+      "content": "Gm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1492111474,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mitsu Mehta",
+      "timestamp": 1491418795,
+      "content": "Hi mango",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mitsu Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mitsu Mehta"
+  ],
+  "thread_path": "MitsuMehta_dd7b77bed7"
+}

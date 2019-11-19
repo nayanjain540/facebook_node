@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ankit Sharma",
+      "timestamp": 1432142510,
+      "content": "whts going on yl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ankit Sharma",
+      "timestamp": 1432142299,
+      "content": "hy how r u yl !!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ankit Sharma",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ankit Sharma"
+  ],
+  "thread_path": "AnkitSharma_abec2d6b13"
+}

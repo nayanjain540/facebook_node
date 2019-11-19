@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Prem Mehta",
+      "timestamp": 1331786770,
+      "content": "hiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Prem Mehta",
+      "timestamp": 1331617372,
+      "content": "hiiiiiiiiiiiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331341776,
+      "content": "Prem, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbZO3\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prem Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Prem Mehta"
+  ],
+  "thread_path": "PremMehta_f6a8937ab8"
+}

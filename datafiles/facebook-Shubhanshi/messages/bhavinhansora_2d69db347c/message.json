@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bhavin Hansora",
+      "timestamp": 1329665660,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhavin Hansora",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bhavin Hansora"
+  ],
+  "thread_path": "BhavinHansora_2d69db347c"
+}

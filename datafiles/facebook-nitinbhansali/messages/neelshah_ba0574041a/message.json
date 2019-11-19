@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Neel Shah",
+      "timestamp": 1506001117,
+      "content": "Neel Shah just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Neel Shah",
+      "timestamp": 1472177778,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neel Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neel Shah"
+  ],
+  "thread_path": "NeelShah_ba0574041a"
+}

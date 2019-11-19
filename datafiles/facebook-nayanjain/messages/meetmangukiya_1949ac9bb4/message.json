@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Meet Mangukiya",
+      "timestamp": 1490320128,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Meet Mangukiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Meet Mangukiya"
+  ],
+  "thread_path": "MeetMangukiya_1949ac9bb4"
+}

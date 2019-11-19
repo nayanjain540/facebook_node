@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1434651845,
+      "content": "The yulins dog festival you shared is the worst thing read on the internet!!how can they be soo cruell!!!:(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1434637594,
+      "content": "Hey there!!:)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lamiya Nagarwala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Lamiya Nagarwala"
+  ],
+  "thread_path": "LamiyaNagarwala_9b79bfc2c9"
+}

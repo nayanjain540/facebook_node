@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Khushi Vora",
+      "timestamp": 1478510760,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Khushi Vora",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Khushi Vora"
+  ],
+  "thread_path": "KhushiVora_cd7288c0e2"
+}

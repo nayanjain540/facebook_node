@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Utkarsha Bhardwaja",
+      "timestamp": 1477883929,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Utkarsha Bhardwaja",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Utkarsha Bhardwaja"
+  ],
+  "thread_path": "UtkarshaBhardwaja_37f39aa285"
+}

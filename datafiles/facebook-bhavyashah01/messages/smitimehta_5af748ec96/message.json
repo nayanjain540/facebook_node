@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Smiti Mehta",
+      "timestamp": 1496325893,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Smiti Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Smiti Mehta"
+  ],
+  "thread_path": "SmitiMehta_5af748ec96"
+}

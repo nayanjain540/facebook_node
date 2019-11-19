@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anshika Jain",
+      "timestamp": 1471968520,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anshika Jain",
+      "timestamp": 1471757899,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anshika Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Anshika Jain"
+  ],
+  "thread_path": "AnshikaJain_dd5f1b157d"
+}

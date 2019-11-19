@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rajaram Dhakorkar",
+      "timestamp": 1356620795,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rajaram Dhakorkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rajaram Dhakorkar"
+  ],
+  "thread_path": "RajaramDhakorkar_9d1368a2f6"
+}

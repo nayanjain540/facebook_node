@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1466498878,
+      "content": "How do i know u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1466498877,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    ""
+  ],
+  "thread_path": "2eff12a731"
+}

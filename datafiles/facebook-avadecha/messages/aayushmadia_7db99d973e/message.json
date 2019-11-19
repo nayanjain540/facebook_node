@@ -1,0 +1,61 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aayush Madia",
+      "timestamp": 1359973698,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1359973689,
+      "content": "Hey ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aayush Madia",
+      "timestamp": 1359458605,
+      "content": "it showed u online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1359455184,
+      "content": "No i was der in school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aayush Madia",
+      "timestamp": 1359431240,
+      "content": "school nai gaya!?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330929,
+      "content": "AayuSh, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbuW0\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323949283,
+      "content": "Aayush missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1319293982,
+      "content": "hello shrushti",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aayush Madia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aayush Madia"
+  ],
+  "thread_path": "AayushMadia_7db99d973e"
+}

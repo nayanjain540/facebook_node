@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1395376799,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Archit Mehta",
+      "timestamp": 1395376105,
+      "content": "Hii dear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331312872,
+      "content": "Archit, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUv1s\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Archit Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Archit Mehta"
+  ],
+  "thread_path": "ArchitMehta_2b0057f4ab"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ganesh Murkar",
+      "timestamp": 1522692597,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ganesh Murkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ganesh Murkar"
+  ],
+  "thread_path": "GaneshMurkar_cbb380351d"
+}

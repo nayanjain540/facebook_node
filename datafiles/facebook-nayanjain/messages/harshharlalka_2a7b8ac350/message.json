@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harsh Harlalka",
+      "timestamp": 1479094857,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harsh Harlalka",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harsh Harlalka"
+  ],
+  "thread_path": "HarshHarlalka_2a7b8ac350"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Srijita Paul",
+      "timestamp": 1475344873,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Srijita Paul",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Srijita Paul"
+  ],
+  "thread_path": "SrijitaPaul_df6ac85c98"
+}

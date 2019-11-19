@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Shah",
+      "timestamp": 1494557388,
+      "content": "Raj Shah just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raj Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Raj Shah"
+  ],
+  "thread_path": "RajShah_0ef4e47e2e"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ayush Jain",
+      "timestamp": 1338479892,
+      "content": "Join a group chat with me on imo. Sign in here https://imo.im/",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ayush Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ayush Jain"
+  ],
+  "thread_path": "AyushJain_74a106da74"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1371808592,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Niriksh Bharti",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Niriksh Bharti"
+  ],
+  "thread_path": "NirikshBharti_69ebf90016"
+}

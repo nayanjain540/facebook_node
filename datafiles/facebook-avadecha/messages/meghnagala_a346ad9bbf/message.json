@@ -1,0 +1,37 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331309249,
+      "content": "Meghna, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNX7j\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323966413,
+      "content": "Meghna missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Meghna Gala",
+      "timestamp": 1321101604,
+      "content": "yukky",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1321018894,
+      "content": "hiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Meghna Gala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Meghna Gala"
+  ],
+  "thread_path": "MeghnaGala_a346ad9bbf"
+}

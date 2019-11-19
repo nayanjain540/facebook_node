@@ -1,0 +1,171 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1403278571,
+      "content": "Its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403274200,
+      "content": "I sent u da stickers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403274186,
+      "content": "By mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403267403,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361924215271_792446242_n_126361920881938.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403267402,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126362190881911_254357215_n_126362187548578.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403081540,
+      "content": "Thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1403076776,
+      "content": "Good superp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1403076764,
+      "content": "Congrats",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403062426,
+      "content": "Raj here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1403062420,
+      "content": "I got 91% in SSC boards",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1402411824,
+      "content": "hy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1402411807,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244785,
+      "content": "okkkkkkkkkkkkkkkkkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334244659,
+      "content": "studying but 9th std extra classes are gng on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244607,
+      "content": "so when u r going to come to bkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244578,
+      "content": "studing or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244563,
+      "content": "gooooooooooooooood ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334244540,
+      "content": "i am in 9th and priyanshi now in 5th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244511,
+      "content": "so finish ur exam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244468,
+      "content": "and priyanshi also",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244443,
+      "content": "now u r in wich std",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334244432,
+      "content": "all are fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244416,
+      "content": "how is ur mom ,dad and priyanshi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334244374,
+      "content": "fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rikita Shah",
+      "timestamp": 1334244351,
+      "content": "hi how r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1328711873,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rikita Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rikita Shah"
+  ],
+  "thread_path": "RikitaShah_5a5d3c45e8"
+}

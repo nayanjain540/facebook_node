@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1325436496,
+      "content": "Same 2 u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Yash Gaonkar",
+      "timestamp": 1325436425,
+      "content": "Hey Happy New Year...!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Gaonkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Gaonkar"
+  ],
+  "thread_path": "YashGaonkar_01f1675463"
+}

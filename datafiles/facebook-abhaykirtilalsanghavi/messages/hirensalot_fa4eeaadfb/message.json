@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Hiren Salot",
+      "timestamp": 1468551231,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hiren Salot",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Hiren Salot"
+  ],
+  "thread_path": "HirenSalot_fa4eeaadfb"
+}

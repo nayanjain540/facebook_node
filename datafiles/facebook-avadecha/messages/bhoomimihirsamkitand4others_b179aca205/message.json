@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Samkit Mody",
+      "timestamp": 1306755858,
+      "type": "Generic"
+    }
+  ],
+  "title": "Bhoomi, Mihir, Samkit and 4 others",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Bhoomi Pandit",
+    "Mihir Shah",
+    "Samkit Mody",
+    "Kushal Vagrecha",
+    "Niyushi Gala",
+    "Harsh Shah",
+    "Aksh Parmar"
+  ],
+  "thread_path": "BhoomiMihirSamkitand4others_b179aca205"
+}

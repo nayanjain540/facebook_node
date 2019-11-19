@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1361553948,
+      "content": "sleep fast and do cricket practice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rutul Shah",
+      "timestamp": 1309273148,
+      "content": "Su abhaymama on facebook ha",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rutul Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rutul Shah"
+  ],
+  "thread_path": "RutulShah_c6066ef102"
+}

@@ -1,0 +1,27 @@
+{
+  "messages": [
+    {
+      "sender_name": "WWE",
+      "timestamp": 1308516983,
+      "content": "Hello WWE Fans on Facebook,\nWe're just hours away from WWE Capitol Punishment TONIGHT at 8/7 CT on pay-per-view! \n\nCall your local cable or satellite provider to order the show, or you can watch the whole event LIVE streaming on WWE.com. Follow this link for the live stream: http://wwe.me/5kHtO.\n\nIf you can't watch the show, join the WWE Universe on Twitter discussing the event with the official hashtag: #WWECapPun\n\nYou can also join WWE Hall of Famer Howard Finkel on the official Capitol Punishment Live Chat on WWE.com at this link: http://wwe.me/5lhPy ... Join The Fink for live results and commentary from Washington D.C., plus our exclusive night-long match prediction and trivia game! \n\nEnjoy the show WWE Universe!! We'll see you tonight!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "WWE",
+      "timestamp": 1304289349,
+      "content": "WWE Extreme Rules is less than 2 hours away! If you want to watch all the action from Tampa LIVE at 8/7 CT, call your local cable or satellite operator to order, or visit this link to watch online in HD: http://wwe.me/4JLPU ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "WWE",
+      "timestamp": 1303764131,
+      "content": "It's TIME TO SHAKE THINGS UP AGAIN!! \nTonight on Monday Night Raw, it's the 2011 WWE Draft! Superstars from Monday Night Raw and Friday Night SmackDown will be eligible to switch brands. Who will find new homes? Find out LIVE TONIGHT at 9/8 CT on USA Network!!\n\nDon't miss the big WWE Draft Live Chat on WWE.com TONIGHT at 8:30 PM ET with WWE Hall of Fame ring announcer Howard Finkel, WWE Magazine, and more! LINK: http://wwe.me/4GF8H",
+      "type": "Generic"
+    }
+  ],
+  "title": "WWE",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "WWE_1cc96fdd25"
+}

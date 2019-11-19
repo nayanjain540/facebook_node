@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Jain",
+      "timestamp": 1342691349,
+      "content": "Hie",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Jain"
+  ],
+  "thread_path": "YashJain_9b72f736cd"
+}

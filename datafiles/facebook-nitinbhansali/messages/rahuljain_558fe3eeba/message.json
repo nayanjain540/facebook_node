@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rahul Jain",
+      "timestamp": 1390725890,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rahul Jain"
+  ],
+  "thread_path": "RahulJain_558fe3eeba"
+}

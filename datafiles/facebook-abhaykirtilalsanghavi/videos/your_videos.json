@@ -1,0 +1,17 @@
+{
+  "videos": [
+    {
+      "uri": "videos/18060448_1480972081934456_2916332534000254976_n_1322940374448476.mp4",
+      "creation_timestamp": 1492746113,
+      "media_metadata": {
+        "video_metadata": {
+          "upload_timestamp": 1492746097,
+          "upload_ip": "2405:204:2183:d8d:fdb7:59c9:e185:c9f0"
+        }
+      },
+      "thumbnail": {
+        "uri": "videos/thumbnails/18094102_1322941097781737_1577802011947040768_n.jpg"
+      }
+    }
+  ]
+}

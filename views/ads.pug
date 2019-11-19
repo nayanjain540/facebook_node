@@ -1,0 +1,61 @@
+html
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				document.getElementById('interacted').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function information() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+				document.getElementById('interacted').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function interactedad() {
+			x=document.getElementById('interacted');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	head
+		include mystyle.css
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Ads Information</button>
+		<button onclick="interactedad()">Ads Information</button>
+		#table-wrapper
+			table#information
+				tr
+					th Ads based on facebook activity
+					th Ads due to contact sharing
+					tr
+						td=articles.ads_based_on_facebook_activity
+						td=articles.ads_due_to_contact_sharing
+			table#interacted
+				tr
+					th Action on the ad
+					th Timestamp
+					
+				each j,i in articles.ads_interacted_with
+					tr
+						td=articles.ads_interacted_with[i][0]
+						td=articles.ads_interacted_with[i][1]	

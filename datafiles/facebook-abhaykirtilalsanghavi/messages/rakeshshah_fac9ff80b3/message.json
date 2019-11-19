@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rakesh Shah",
+      "timestamp": 1521911623,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rakesh Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rakesh Shah"
+  ],
+  "thread_path": "RakeshShah_fac9ff80b3"
+}

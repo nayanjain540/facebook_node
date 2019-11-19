@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1462764449,
+      "content": "Yash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Zainab Galabhaiwala",
+      "timestamp": 1462730557,
+      "content": "Whose birthday are u talking about ?\u00f3\u00be\u00b0\u0095",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Zainab Galabhaiwala",
+      "timestamp": 1462730520,
+      "content": "Zainab Galabhaiwala accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1461781785,
+      "content": "His bday was recently there?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zainab Galabhaiwala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Zainab Galabhaiwala"
+  ],
+  "thread_path": "ZainabGalabhaiwala_513f84fdd2"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ashish Baheti",
+      "timestamp": 1389456130,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashish Baheti",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ashish Baheti"
+  ],
+  "thread_path": "AshishBaheti_0684a7baf0"
+}

@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1359781577,
+      "content": "haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diya Roychowdhury",
+      "timestamp": 1359598483,
+      "content": "Sorry\nDidnt send that\nFriend was online frm my accnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diya Roychowdhury",
+      "timestamp": 1359587774,
+      "content": "tuja aayecha ghoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diya Roychowdhury",
+      "timestamp": 1359587765,
+      "content": "tu toh ekdum estudd nikla",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Diya Roychowdhury",
+      "timestamp": 1359587724,
+      "content": "hey chinal ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331345409,
+      "content": "Diya, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vE9LU\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Diya Roychowdhury",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Diya Roychowdhury"
+  ],
+  "thread_path": "DiyaRoychowdhury_cf6610dc4a"
+}

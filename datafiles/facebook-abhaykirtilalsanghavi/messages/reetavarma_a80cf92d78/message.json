@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Reeta Varma",
+      "timestamp": 1527571991,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Reeta Varma",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Reeta Varma"
+  ],
+  "thread_path": "ReetaVarma_a80cf92d78"
+}

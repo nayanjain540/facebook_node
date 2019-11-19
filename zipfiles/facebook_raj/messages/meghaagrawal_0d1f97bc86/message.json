@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1369032102,
+      "content": "ssup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Megha Agrawal",
+      "timestamp": 1369032089,
+      "content": "hie]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1369032074,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Megha Agrawal",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Megha Agrawal"
+  ],
+  "thread_path": "MeghaAgrawal_0d1f97bc86"
+}

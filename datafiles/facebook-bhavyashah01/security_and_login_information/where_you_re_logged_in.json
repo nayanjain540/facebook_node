@@ -1,0 +1,111 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1529418387,
+      "ip_address": "203.194.99.200",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "l07r********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome for iOS",
+      "created_timestamp": 1503823743,
+      "updated_timestamp": 1528966437,
+      "ip_address": "60.243.99.33",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/67.0.3396.69 Mobile/15F79 Safari/604.1",
+      "datr_cookie": "84Rb********************",
+      "device": "iPhone",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1504589278,
+      "updated_timestamp": 1528651127,
+      "ip_address": "60.243.99.33",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15F79 [FBAN/FBIOS;FBAV/175.0.0.47.102;FBBV/112197024;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4;FBSS/2;FBCR/VodafoneIndia;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]",
+      "datr_cookie": "d10d********************",
+      "device": "iPhone 6",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1510322680,
+      "updated_timestamp": 1527520875,
+      "ip_address": "42.109.16.213",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 [FBAN/MessengerForiOS;FBAV/167.0.0.57.96;FBBV/109575372;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.3.1;FBSS/2;FBCR/VodafoneIndia;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/0]",
+      "datr_cookie": "ax4M********************",
+      "device": "iPhone 6",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503457071,
+      "updated_timestamp": 1526811318,
+      "ip_address": "27.4.148.239",
+      "user_agent": "Instagram 44.0.0.17.95 (iPad4,1; iOS 10_3_3; en_IN; en-IN; scale=2.00; gamut=normal; 640x960) AppleWebKit/420+",
+      "datr_cookie": "tkoB********************",
+      "device": "iPad Air",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Mobile Safari",
+      "created_timestamp": 1512066854,
+      "updated_timestamp": 1526670055,
+      "ip_address": "27.4.148.239",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1",
+      "datr_cookie": "5sNl********************",
+      "device": "iPhone",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Mobile Safari",
+      "created_timestamp": 1524563406,
+      "ip_address": "27.4.148.239",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604.1",
+      "datr_cookie": "S1n0********************",
+      "device": "iPhone",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Unknown",
+      "created_timestamp": 1504502720,
+      "updated_timestamp": 1505739386,
+      "ip_address": "60.243.111.247",
+      "user_agent": "iOS/10.3.3 (14G60) dataaccessd/1.0",
+      "datr_cookie": "esK_********************",
+      "device": "Device type unknown",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Unknown",
+      "created_timestamp": 1504875457,
+      "ip_address": "60.243.111.247",
+      "user_agent": "accountsd/113 CFNetwork/811.5.4 Darwin/16.6.0",
+      "datr_cookie": "wZOy********************",
+      "device": "Device type unknown",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1482986035,
+      "updated_timestamp": 1499570377,
+      "ip_address": "27.4.159.74",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1; XT1033 Build/LPBS23.13-56-2) [FBAN/Orca-Android;FBAV/125.0.0.22.70;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/64199905;FBCR/null;FBMF/motorola;FBBD/motorola;FBDV/XT1033;FBSV/5.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1184};FB_FW/1;] FBBK/1",
+      "datr_cookie": "yaBh********************",
+      "device": "Motorola Moto G",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1481280840,
+      "updated_timestamp": 1499234697,
+      "ip_address": "27.4.159.74",
+      "user_agent": "[FBAN/FB4A;FBAV/130.0.0.45.70;FBBV/63303701;FBDM/{density=2.0,width=1196,height=720};FBLC/en_US;FBRV/63303701;FBCR/;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1033;FBSV/5.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "iYFc********************",
+      "device": "Motorola Moto G",
+      "location": "Mumbai, India"
+    }
+  ]
+}

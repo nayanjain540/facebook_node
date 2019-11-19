@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "sender_name": "Arnav Gupta",
+      "timestamp": 1513276124,
+      "content": "Chetan Isha Nayan Jyeshtha Ashwin",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jyeshtha, Ashwin, Arnav and 2 others",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jyeshtha Vartak",
+    "Ashwin Tantri",
+    "Arnav Gupta",
+    "Isha Doshi",
+    "Chetan Kachaliya"
+  ],
+  "thread_path": "JyeshthaAshwinArnavand2others_73b4aa1c5e"
+}

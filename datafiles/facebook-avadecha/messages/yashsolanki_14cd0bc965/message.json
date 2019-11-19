@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Solanki",
+      "timestamp": 1492449092,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Solanki",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Solanki"
+  ],
+  "thread_path": "YashSolanki_14cd0bc965"
+}

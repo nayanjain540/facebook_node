@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Viraj Shah",
+      "timestamp": 1321295320,
+      "content": "hey can you watch this video and tell me what happens after 25 seconds coz I could not",
+      "type": "Generic"
+    }
+  ],
+  "title": "Viraj Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Viraj Shah"
+  ],
+  "thread_path": "VirajShah_73434bdd58"
+}

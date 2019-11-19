@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Raj Sanghavi just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raj Sanghavi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Raj Sanghavi"
+  ],
+  "thread_path": "RajSanghavi_7ce077f21e"
+}

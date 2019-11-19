@@ -1,0 +1,27 @@
+{
+  "messages": [
+    {
+      "sender_name": "DesiHits.com",
+      "timestamp": 1310486942,
+      "content": "Listen to the latest Desi Hits! Remix, as Britney Spears and Sonu Nigam remix her track \"I Wanna Go\". \n\nhttp://www.desihits.com/remixes/britneyspears",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "DesiHits.com",
+      "timestamp": 1306851728,
+      "content": "After the HOT Desi remixes to \"Born This Way\", Lady Gaga is back with two more Desi remixes to \"Judas\".  Check out both versions from music duo Salim-Sulaiman and Bhangra producer Panjabi MC!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "DesiHits.com",
+      "timestamp": 1306289941,
+      "content": "Take a listen to the Bollywood (produced by Dj Lloyd) and Urban Desi remix (produced by Culture Shock) of Nicole Scherzinger latest hit single 'Right There'",
+      "type": "Generic"
+    }
+  ],
+  "title": "DesiHits.com",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "DesiHitscom_ccff4460f8"
+}

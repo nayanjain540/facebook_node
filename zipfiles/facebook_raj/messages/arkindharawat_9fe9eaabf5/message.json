@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Say hello to Arkin.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1482482670,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arkin Dharawat",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Arkin Dharawat"
+  ],
+  "thread_path": "ArkinDharawat_9fe9eaabf5"
+}

@@ -1,0 +1,57 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1306137158,
+      "content": "KKR take on MI in the playoffs on Wednesday looking for a win to move on the finals of the IPL-4...We request you to attend the game and support our team all the way...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1305876731,
+      "content": "KKR take on MI in their final league game at the Eden Gardens...We request you to attend the game and support our team!...Korbo Lorbo Jitbo Re!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1305443855,
+      "content": "KKR take on the Pune Warriors at the D.Y>Patil stadium in Navi Mumbai...We invite you to attend the match and support our team...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1304849889,
+      "content": "KKR take on RCB in Bangalore on the 14th May...We invite ou to attend the game and support our team...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1304670841,
+      "content": "KKR take on CSK at home...We invite you to attend the match and support our team!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1304222248,
+      "content": "KKR will look to keep up the momentum against DC on 03/05 at 8PM in Hyderabad.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1304068142,
+      "content": "We invite you to attend the KKR vs KXIP game on 30/04/11 at 8PM...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kolkata Knight Riders",
+      "timestamp": 1303643039,
+      "content": "KKR take on DD at the Ferozeshah Kotla on 28th April 2011...We invite you to attend the game and cheer for our team...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kolkata Knight Riders",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "KolkataKnightRiders_4ab81e23cd"
+}

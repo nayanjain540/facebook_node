@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "name": "Bhavya Shah",
+    "emails": {
+      "emails": [
+        "bhavya.shah01@yahoo.com"
+      ],
+      "previous_emails": [
+        "bhavya.shah01@facebook.com"
+      ]
+    },
+    "birthday": {
+      "year": 1990,
+      "month": 5,
+      "day": 12
+    },
+    "gender": {
+      "gender_option": "MALE",
+      "pronoun": "MALE"
+    },
+    "current_city": "Mumbai, Maharashtra",
+    "education_experiences": [
+      {
+        "name": "Gopi Birla Memorial School",
+        "graduated": true
+      }
+    ],
+    "phone_numbers": [
+      {
+        "phone_type": "Mobile",
+        "phone_number": "098209 23364",
+        "verified": true
+      }
+    ],
+    "username": "bhavya.shah01",
+    "pages": [
+      {
+        "name": "Other",
+        "pages": [
+          "Kapil sharma",
+          "Jacqueline Fernandez",
+          "Masoom vanigota",
+          "Gudtricks.IN"
+        ]
+      },
+      {
+        "name": "Games",
+        "pages": [
+          "Clash of Clans",
+          "Crazy Taxi",
+          "Real Steel World Robot Boxing",
+          "Crazy Taxi"
+        ]
+      }
+    ],
+    "groups": [
+      "Deesa Samaj",
+      "COMEDY DUBSMASH - A YOUTUBE CHANNEL",
+      "Learn Chemistry with Abhishek Jain",
+      "The studs",
+      "Bookers",
+      "Rockers",
+      "Gopi  birla",
+      "Group"
+    ],
+    "registration_timestamp": 1255255665,
+    "profile_uri": "https://www.facebook.com/bhavya.shah01"
+  }
+}

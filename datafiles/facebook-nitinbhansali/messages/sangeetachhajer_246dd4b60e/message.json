@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sangeeta Chhajer",
+      "timestamp": 1478109118,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sangeeta Chhajer",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sangeeta Chhajer"
+  ],
+  "thread_path": "SangeetaChhajer_246dd4b60e"
+}

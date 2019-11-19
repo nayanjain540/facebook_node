@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Divya Brahmbhatt",
+      "timestamp": 1500545541,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Divya Brahmbhatt",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Divya Brahmbhatt"
+  ],
+  "thread_path": "DivyaBrahmbhatt_9ab9e96983"
+}

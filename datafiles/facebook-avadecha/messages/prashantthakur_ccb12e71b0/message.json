@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Prashant Thakur",
+      "timestamp": 1494477396,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prashant Thakur",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Prashant Thakur"
+  ],
+  "thread_path": "PrashantThakur_ccb12e71b0"
+}

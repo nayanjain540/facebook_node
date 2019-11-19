@@ -1,0 +1,99 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				document.getElementById('family').style.display="none";
+				document.getElementById('category').style.display="none";
+				x.style.display = "none";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+
+		function information() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+				document.getElementById('category').style.display="none";
+				document.getElementById('family').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}	
+		function category() {
+			x=document.getElementById('category');
+			if (x.style.display === "none") {
+				document.getElementById('family').style.display="none";
+				document.getElementById('information').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+		function family() {
+			x=document.getElementById('family');
+			if (x.style.display === "none") {
+			 	document.getElementById('category').style.display="none";
+				document.getElementById('information').style.display="none";
+				x.style.display = "block";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Information</button>
+		<button onclick="category()">Category</button>
+		<button onclick="family()">Family</button>
+		#table-wrapper
+			table#information
+				tr
+					th Name
+					th Account_Creation_Timestamp
+					th Groups_Joined
+					th Education_Experience
+					th Family_Members
+					th Gender
+					th Birthdate
+				 
+					tr
+						td=articles.name
+						td=articles.date_of_joining
+						td=articles.no_of_groups_joined
+						td=articles.education_experience
+						td=articles.no_of_family_members
+						td=articles.gender_is
+						td=articles.date_of_birth
+			table#category
+				tr
+					th Interests
+					th No_Of_Pages
+					
+				each j,i in articles.category_names
+					tr
+						td=articles.category_names[i][0]
+						td=articles.category_names[i][1]
+
+			table#family
+				tr
+					th Name
+					th Relation
+					
+				each j,i in articles.family_members
+					tr
+						td=articles.family_members[i][0]
+						td=articles.family_members[i][1]
+						

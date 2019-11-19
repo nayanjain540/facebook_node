@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rishika Chhajed",
+      "timestamp": 1505817623,
+      "content": "Hello Nitin Bhaya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rishika Chhajed",
+      "timestamp": 1488782172,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rishika Chhajed",
+      "timestamp": 1488389838,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rishika Chhajed",
+      "timestamp": 1488389838,
+      "content": "Hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rishika Chhajed",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rishika Chhajed"
+  ],
+  "thread_path": "RishikaChhajed_853d95fca1"
+}

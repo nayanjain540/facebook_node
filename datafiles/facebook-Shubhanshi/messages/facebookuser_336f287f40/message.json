@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1309955931,
+      "content": "Dear Fan,\n\nWe are pleased to inform you about the much awaited Colgate Max Fresh Cricketer Meet Event where Virender Sehwag will meet all the winners of the contest. \n\nAttend the event to get real-time updates live from the event venue in Mumbai. Attend and RSVP now! \n\nRegards,\n\nColgate Max Fresh Team",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "FacebookUser_336f287f40"
+}

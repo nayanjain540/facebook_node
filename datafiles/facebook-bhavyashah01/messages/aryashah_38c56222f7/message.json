@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Arya Shah",
+      "timestamp": 1494926808,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arya Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Arya Shah"
+  ],
+  "thread_path": "AryaShah_38c56222f7"
+}

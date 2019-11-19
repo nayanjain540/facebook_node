@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Gene Parker",
+      "timestamp": 1450987882,
+      "content": "happy holiday to you and your family ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Gene Parker",
+      "timestamp": 1430499770,
+      "content": "Hello young lady",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gene Parker",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Gene Parker"
+  ],
+  "thread_path": "GeneParker_fd87cc3a27"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1341425761,
+      "content": "Aeroplane Land hote hi \"santa\" chillane laga:\n\"Banglore aaya, Banglore aaya\"!!\nAir Hostess: B silent sir..!!\nSanta: \"Ok\nanglore aaya, anglore aaya\"..!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_fa5ef157c5"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chintan Mehta",
+      "timestamp": 1473572223,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chintan Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chintan Mehta"
+  ],
+  "thread_path": "ChintanMehta_c9385783d6"
+}

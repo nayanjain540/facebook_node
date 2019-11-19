@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1356512675,
+      "content": "i am priyanshi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1356512658,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sneh Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sneh Sheth"
+  ],
+  "thread_path": "SnehSheth_8c7e3bdd4d"
+}

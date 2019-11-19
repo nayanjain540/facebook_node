@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amrutesh Taral",
+      "timestamp": 1517085824,
+      "content": "Juhi jaa na",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Tanish Shah",
+      "timestamp": 1517085805,
+      "content": "Amrutesh Taral Sneh Joshi Anuj Vadecha",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amrutesh, Sneh and Tanish",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amrutesh Taral",
+    "Sneh Joshi",
+    "Tanish Shah"
+  ],
+  "thread_path": "AmruteshSnehandTanish_a1de3ec57f"
+}

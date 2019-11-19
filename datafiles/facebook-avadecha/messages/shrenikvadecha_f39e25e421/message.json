@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shrenik Vadecha",
+      "timestamp": 1407615389,
+      "sticker": {
+        "uri": "messages/stickers_used/851577_246547505491999_862435009_n_227878347358915.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334570,
+      "content": "Shrenik, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYuj\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shrenik Vadecha",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shrenik Vadecha"
+  ],
+  "thread_path": "ShrenikVadecha_f39e25e421"
+}

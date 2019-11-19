@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raveena Shah",
+      "timestamp": 1283506558,
+      "content": "awsummmm!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rainish Vanigota",
+      "timestamp": 1282915918,
+      "content": "great!!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User, Aashay, Aagam and 7 others",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User",
+    "Aashay Desai",
+    "Aagam Parikh",
+    "Anusha Jain",
+    "Raveena Shah",
+    "Rainish Vanigota",
+    "Aayush Madia",
+    "Nigam Desai",
+    "Rohan Manderaker",
+    "Pranay Kankariya"
+  ],
+  "thread_path": "FacebookUserAashayAagamand7others_b6bd36a065"
+}

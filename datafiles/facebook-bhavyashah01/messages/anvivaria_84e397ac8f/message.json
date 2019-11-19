@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1474201926,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1471968103,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1465902025,
+      "content": "Nope not yet decided",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1465837968,
+      "content": "College decided",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1465834044,
+      "content": "Even they r fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1465827156,
+      "content": "And what about ur sisters",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1465827126,
+      "content": "Even I am fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1465827077,
+      "content": "Wbu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1465827076,
+      "content": "Fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1465827047,
+      "content": "How r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Bhavya Shah",
+      "timestamp": 1465827025,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anvi Varia",
+      "timestamp": 1465826978,
+      "content": "Hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anvi Varia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Anvi Varia"
+  ],
+  "thread_path": "AnviVaria_84e397ac8f"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sneha Yadav",
+      "timestamp": 1498420148,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sneha Yadav",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sneha Yadav"
+  ],
+  "thread_path": "SnehaYadav_1aa37e8080"
+}

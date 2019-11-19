@@ -1,0 +1,15 @@
+html
+	head
+		include mystyle.css
+		script
+	body
+		h3 All the names stored in address book on first name basis:
+		#table-wrapper
+			table#contact_info
+				tr
+					th Name
+					th Number
+				each j,i in arr1
+					tr
+						td=arr1[i]
+						td=arr2[i]

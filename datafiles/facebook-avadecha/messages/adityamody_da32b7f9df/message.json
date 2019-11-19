@@ -1,0 +1,61 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331304326,
+      "content": "thnx good suggestion for the browser\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Mody",
+      "timestamp": 1331060156,
+      "content": "Hey Anuj, check out this new browser called RockMelt. I think you'll like it!\n\nhttp://www.rockmelt.com/?dl=c433df24a915958246d272f5801ac476b83f8dbd&cid=default%3Anuf&f=firstUse\n\nAditya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Mody",
+      "timestamp": 1323950133,
+      "content": "You missed a video chat with Aditya.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323348580,
+      "content": "fuck .... off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Mody",
+      "timestamp": 1323348564,
+      "content": "abwa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323348543,
+      "content": "which scool\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aditya Mody",
+      "timestamp": 1323348520,
+      "content": "hey...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323348514,
+      "content": "hi wassup",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aditya Mody",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aditya Mody"
+  ],
+  "thread_path": "AdityaMody_da32b7f9df"
+}

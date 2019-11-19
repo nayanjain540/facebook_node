@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1321883297,
+      "content": "Wat???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Parth Maheshwari",
+      "timestamp": 1321095877,
+      "content": "this is sick",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Maheshwari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Maheshwari"
+  ],
+  "thread_path": "ParthMaheshwari_2f8a89299a"
+}

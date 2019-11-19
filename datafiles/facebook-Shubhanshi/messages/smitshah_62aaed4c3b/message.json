@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Smit Shah",
+      "timestamp": 1507477971,
+      "type": "Generic"
+    }
+  ],
+  "title": "Smit Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Smit Shah"
+  ],
+  "thread_path": "SmitShah_62aaed4c3b"
+}

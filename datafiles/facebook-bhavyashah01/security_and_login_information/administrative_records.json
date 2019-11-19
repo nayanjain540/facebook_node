@@ -1,0 +1,20 @@
+{
+  "admin_records": [
+    {
+      "event": "Checkpoint completed",
+      "session": {
+        "created_timestamp": 1524563422,
+        "updated_timestamp": 0,
+        "ip_address": "27.4.148.239"
+      }
+    },
+    {
+      "event": "Username",
+      "session": {
+        "created_timestamp": 1309450075,
+        "updated_timestamp": 0,
+        "ip_address": "27.4.80.136"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('videos1').style.display="none";
+				document.getElementById('numstatsvideos').style.display="none";
+				x.style.display = "none";
+			} 
+			else 
+			{
+			x.style.display = "none";
+			}
+			}
+		function videostats() {
+			x=document.getElementById('numstatsvideos');
+			if (x.style.display === "none") {
+				document.getElementById('videos1').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function videodetails() {
+			x=document.getElementById('videos1');
+			if (x.style.display === "none") {
+				document.getElementById('numstatsvideos').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="videodetails()">VideoDetails</button>
+		<button onclick="videostats()">ClickForStats</button>
+		#table-wrapper
+			table#videos1
+				tr
+					th UploadTimestamp
+					th iPAddresses
+					th CreationTimestamp
+				tr
+					each j,i in articles.upload_timestamp
+						tr
+							td=articles.upload_timestamp[i]	
+							td=articles.ip_addresses[i]	
+							td=articles.creation_timestamp[i]
+				table#numstatsvideos
+					tr
+						td NoOfvideosUploaded
+					tr
+						td=articles.nos_videos		

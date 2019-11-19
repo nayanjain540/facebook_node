@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1462189247,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1462189236,
+      "content": "HAPPYY BIRTHDAYY",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shamolee Sethi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shamolee Sethi"
+  ],
+  "thread_path": "ShamoleeSethi_24f87db4f0"
+}

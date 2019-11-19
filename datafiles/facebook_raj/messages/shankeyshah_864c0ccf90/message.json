@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shankey Shah",
+      "timestamp": 1519642940,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shankey Shah",
+      "timestamp": 1519405923,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shankey Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Shankey Shah"
+  ],
+  "thread_path": "ShankeyShah_864c0ccf90"
+}

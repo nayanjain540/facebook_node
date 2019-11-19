@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330944,
+      "content": "Hrishil, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbuWm\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hrishil Jhaveri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hrishil Jhaveri"
+  ],
+  "thread_path": "HrishilJhaveri_ab623a01f1"
+}

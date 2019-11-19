@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Janam Shah",
+      "timestamp": 1475996373,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Janam Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Janam Shah"
+  ],
+  "thread_path": "JanamShah_2ec8e3d48f"
+}

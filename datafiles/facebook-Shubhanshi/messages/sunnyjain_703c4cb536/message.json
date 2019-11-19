@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sunny Jain",
+      "timestamp": 1495166934,
+      "content": "Hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sunny Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sunny Jain"
+  ],
+  "thread_path": "SunnyJain_703c4cb536"
+}

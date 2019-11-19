@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jenil Shah",
+      "timestamp": 1340952829,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenil Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jenil Shah"
+  ],
+  "thread_path": "JenilShah_e721c128b4"
+}

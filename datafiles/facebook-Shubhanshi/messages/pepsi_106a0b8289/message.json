@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pepsi",
+      "timestamp": 1316075372,
+      "content": "Hey Guys! Watch YOUniverse's favorite star, Ranbir Kapoor take the hot seat on KBC on Thursday, 15th September at 8.30 pm on SONY TV. Lot's of entertainment guaranteed. You sure don't want to miss this. So sit back  at 8.30 pm today with your bottles of Pepsi and enjoy the show. Oh! Don't forget answering the question behind the label of your Pepsi Bottle. ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pepsi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "Pepsi_106a0b8289"
+}

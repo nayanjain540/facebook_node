@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kushal Shah",
+      "timestamp": 1513613141,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kushal Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kushal Shah"
+  ],
+  "thread_path": "KushalShah_7de467d6ae"
+}

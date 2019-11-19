@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1348485136,
+      "content": "hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ashish Yadav",
+      "timestamp": 1348485124,
+      "content": "Hello",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashish Yadav",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ashish Yadav"
+  ],
+  "thread_path": "AshishYadav_8d6ef60ed1"
+}

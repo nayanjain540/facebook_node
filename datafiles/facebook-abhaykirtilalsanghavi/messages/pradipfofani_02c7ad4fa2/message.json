@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1520401227,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pradip Fofani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pradip Fofani"
+  ],
+  "thread_path": "PradipFofani_02c7ad4fa2"
+}

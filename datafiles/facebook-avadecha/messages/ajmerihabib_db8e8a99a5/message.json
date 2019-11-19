@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ajmeri Habib",
+      "timestamp": 1484970421,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajmeri Habib",
+      "timestamp": 1484729612,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajmeri Habib",
+      "timestamp": 1484656396,
+      "content": "Happy birthday dear",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ajmeri Habib",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ajmeri Habib"
+  ],
+  "thread_path": "AjmeriHabib_db8e8a99a5"
+}

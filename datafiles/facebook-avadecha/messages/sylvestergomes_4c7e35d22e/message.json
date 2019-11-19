@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331305642,
+      "content": "Sylvester, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNxXe\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sylvester Gomes",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sylvester Gomes"
+  ],
+  "thread_path": "SylvesterGomes_4c7e35d22e"
+}

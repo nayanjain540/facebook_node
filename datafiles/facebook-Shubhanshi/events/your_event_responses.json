@@ -1,0 +1,60 @@
+{
+  "event_responses": {
+    "events_joined": [
+      {
+        "name": "FrNdShIp DaY (Tie this to ur Hand  ==[Frendz]=== )",
+        "start_timestamp": 1312700400,
+        "end_timestamp": 1312743600
+      },
+      {
+        "name": "RESULTS!!!!!!",
+        "start_timestamp": 1304092800,
+        "end_timestamp": 1304100000
+      }
+    ],
+    "events_declined": [
+      {
+        "name": "SaRVAA Re-Union",
+        "start_timestamp": 1377345600,
+        "end_timestamp": 0
+      }
+    ],
+    "events_interested": [
+      {
+        "name": "SaRVAA Reunion '14.",
+        "start_timestamp": 1410004800,
+        "end_timestamp": 1410019200
+      },
+      {
+        "name": "taylor swifts birhday",
+        "start_timestamp": 1323833400,
+        "end_timestamp": 1323844200
+      },
+      {
+        "name": "GANAPATI BAPPA MORYA",
+        "start_timestamp": 1314858600,
+        "end_timestamp": 1314959400
+      },
+      {
+        "name": "Lets make 5 million Indian flags fly on Facebook by 15th August",
+        "start_timestamp": 1313416800,
+        "end_timestamp": 1313427600
+      },
+      {
+        "name": "freedOM - Break Through Ready To Promote READY",
+        "start_timestamp": 1307017800,
+        "end_timestamp": 1307028600
+      },
+      {
+        "name": "HACK YOUR FACEBOOK FRIENDS PROFILE-26321",
+        "start_timestamp": 1304087400,
+        "end_timestamp": 1304098200
+      },
+      {
+        "name": "HACK YOUR FACEBOOK FRIENDS PROFILE-73277",
+        "start_timestamp": 1304080200,
+        "end_timestamp": 1304091000
+      }
+    ]
+  }
+}

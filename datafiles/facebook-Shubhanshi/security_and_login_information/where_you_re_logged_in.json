@@ -1,0 +1,34 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1516133112,
+      "updated_timestamp": 1529518185,
+      "ip_address": "45.126.171.197",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "9Vpe********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1494335281,
+      "updated_timestamp": 1529517646,
+      "ip_address": "2402:3a80:67a:3b46:ad67:4f61:34db:4bd6",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "KL8R********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1507065146,
+      "updated_timestamp": 1514647941,
+      "ip_address": "2405:204:112d:e2b0:5949:71f7:24d4:ba8a",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013) [FBAN/Orca-Android;FBAV/138.0.0.20.92;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/74040118;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;] FBBK/1",
+      "datr_cookie": "hbFH********************",
+      "device": "OnePlus 3",
+      "location": "New Delhi, India"
+    }
+  ]
+}

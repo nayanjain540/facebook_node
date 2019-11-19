@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aman Dedhia",
+      "timestamp": 1507355184,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aman Dedhia",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aman Dedhia"
+  ],
+  "thread_path": "AmanDedhia_674e145646"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331305664,
+      "content": "Juhi, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNxWh\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Juhi Patwa",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Juhi Patwa"
+  ],
+  "thread_path": "JuhiPatwa_273f19e19d"
+}

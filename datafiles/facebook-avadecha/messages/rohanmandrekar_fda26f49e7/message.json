@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334562,
+      "content": "Rohan, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYwh\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rohan Mandrekar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rohan Mandrekar"
+  ],
+  "thread_path": "RohanMandrekar_fda26f49e7"
+}

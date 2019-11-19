@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1491980038,
+      "type": "Generic"
+    }
+  ],
+  "title": "Anuj and Nayan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Anuj Vadecha",
+    "Nayan Jain"
+  ],
+  "thread_path": "AnujandNayan_5948f36c78"
+}

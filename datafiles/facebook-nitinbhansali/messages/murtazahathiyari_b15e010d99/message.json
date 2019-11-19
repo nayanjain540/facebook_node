@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Murtaza Hathiyari",
+      "timestamp": 1526636842,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Murtaza Hathiyari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Murtaza Hathiyari"
+  ],
+  "thread_path": "MurtazaHathiyari_b15e010d99"
+}

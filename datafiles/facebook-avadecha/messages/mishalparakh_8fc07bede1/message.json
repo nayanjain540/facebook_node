@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mishal Parakh",
+      "timestamp": 1475157618,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mishal Parakh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mishal Parakh"
+  ],
+  "thread_path": "MishalParakh_8fc07bede1"
+}

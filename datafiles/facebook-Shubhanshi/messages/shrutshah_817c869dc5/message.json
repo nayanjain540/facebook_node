@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shrut Shah",
+      "timestamp": 1401003142,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shrut Shah",
+      "timestamp": 1395463903,
+      "content": "Hello do I know u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shrut Shah",
+      "timestamp": 1392996836,
+      "content": "?!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shrut Shah",
+      "timestamp": 1392996093,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shrut Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shrut Shah"
+  ],
+  "thread_path": "ShrutShah_817c869dc5"
+}

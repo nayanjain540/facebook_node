@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1365502770,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rishabh Kairamkonda",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rishabh Kairamkonda"
+  ],
+  "thread_path": "RishabhKairamkonda_de8ecc7696"
+}

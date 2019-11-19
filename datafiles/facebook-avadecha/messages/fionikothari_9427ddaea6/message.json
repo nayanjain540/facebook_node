@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Fioni Kothari",
+      "timestamp": 1357627483,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Fioni Kothari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Fioni Kothari"
+  ],
+  "thread_path": "FioniKothari_9427ddaea6"
+}

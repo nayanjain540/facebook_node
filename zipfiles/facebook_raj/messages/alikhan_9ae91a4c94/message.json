@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1334310188,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ali Khan",
+      "timestamp": 1334310183,
+      "content": "raj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ali Khan",
+      "timestamp": 1334310181,
+      "content": "hiiiiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ali Khan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ali Khan"
+  ],
+  "thread_path": "AliKhan_9ae91a4c94"
+}

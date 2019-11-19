@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1364399669,
+      "content": "sme 2 u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1364399657,
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_83cc17bd36"
+}

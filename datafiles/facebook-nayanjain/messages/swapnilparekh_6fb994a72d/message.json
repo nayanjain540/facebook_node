@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Swapnil Parekh",
+      "timestamp": 1476536940,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Swapnil Parekh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Swapnil Parekh"
+  ],
+  "thread_path": "SwapnilParekh_6fb994a72d"
+}

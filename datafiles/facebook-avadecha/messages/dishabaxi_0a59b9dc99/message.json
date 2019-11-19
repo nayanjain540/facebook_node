@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331323752,
+      "content": "Disha, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vb8Xz\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Disha Baxi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Disha Baxi"
+  ],
+  "thread_path": "DishaBaxi_0a59b9dc99"
+}

@@ -1,0 +1,34 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1324998962,
+      "content": "play poker with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1324998943,
+      "content": "ya i know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Darshan Jain",
+      "timestamp": 1324998926,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1324998922,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Darshan Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Darshan Jain"
+  ],
+  "thread_path": "DarshanJain_2d16361821"
+}

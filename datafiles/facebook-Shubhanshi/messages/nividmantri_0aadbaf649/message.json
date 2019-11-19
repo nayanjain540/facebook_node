@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nivid Mantri",
+      "timestamp": 1444546894,
+      "content": "hello how r u???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nivid Mantri",
+      "timestamp": 1413624810,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nivid Mantri",
+      "timestamp": 1410705456,
+      "content": "Hiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nivid Mantri",
+      "timestamp": 1407678806,
+      "content": "How r u???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nivid Mantri",
+      "timestamp": 1407548052,
+      "content": "Hey hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nivid Mantri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nivid Mantri"
+  ],
+  "thread_path": "NividMantri_0aadbaf649"
+}

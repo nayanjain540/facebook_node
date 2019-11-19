@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331330945,
+      "content": "Aagam, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbA6G\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323436128,
+      "content": "Aagam missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323435824,
+      "content": "Aagam missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Aagam Parikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aagam Parikh"
+  ],
+  "thread_path": "AagamParikh_d4fec79d12"
+}

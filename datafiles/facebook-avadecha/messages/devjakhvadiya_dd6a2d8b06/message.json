@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dev Jakhvadiya",
+      "timestamp": 1369731189,
+      "content": "hi dost",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331309271,
+      "content": "Dev, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vNXEQ\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dev Jakhvadiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dev Jakhvadiya"
+  ],
+  "thread_path": "DevJakhvadiya_dd6a2d8b06"
+}

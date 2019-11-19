@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Inaara Damani",
+      "timestamp": 1464022497,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Inaara Damani",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Inaara Damani"
+  ],
+  "thread_path": "InaaraDamani_a4ad6c8da3"
+}

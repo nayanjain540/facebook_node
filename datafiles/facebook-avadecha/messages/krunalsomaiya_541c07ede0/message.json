@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Krunal Somaiya",
+      "timestamp": 1480713948,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1480666606,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Krunal Somaiya",
+      "timestamp": 1480664168,
+      "content": "U had only come to c my bike ??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krunal Somaiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Krunal Somaiya"
+  ],
+  "thread_path": "KrunalSomaiya_541c07ede0"
+}

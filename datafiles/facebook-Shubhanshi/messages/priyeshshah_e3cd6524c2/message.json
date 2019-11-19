@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Priyesh Shah",
+      "timestamp": 1504626055,
+      "type": "Generic"
+    }
+  ],
+  "title": "Priyesh Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Priyesh Shah"
+  ],
+  "thread_path": "PriyeshShah_e3cd6524c2"
+}

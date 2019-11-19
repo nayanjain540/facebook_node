@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1444410463,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Muskaan Maru",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Muskaan Maru"
+  ],
+  "thread_path": "MuskaanMaru_49ff663e65"
+}

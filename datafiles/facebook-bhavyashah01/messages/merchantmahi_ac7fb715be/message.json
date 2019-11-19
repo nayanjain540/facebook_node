@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Merchant Mahi",
+      "timestamp": 1477452756,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Merchant Mahi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Merchant Mahi"
+  ],
+  "thread_path": "MerchantMahi_ac7fb715be"
+}

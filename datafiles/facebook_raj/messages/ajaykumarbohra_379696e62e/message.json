@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ajay Kumar Bohra",
+      "timestamp": 1321368675,
+      "content": "kya karte ho tum",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1321368648,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajay Kumar Bohra",
+      "timestamp": 1321368628,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ajay Kumar Bohra",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ajay Kumar Bohra"
+  ],
+  "thread_path": "AjayKumarBohra_379696e62e"
+}

@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1332839076,
+      "content": "wassup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1332839045,
+      "content": "http://bitly.com/H8R6bS?O04OEuu \r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sweta Morakhia",
+      "timestamp": 1332839038,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1331198797,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sweta Morakhia",
+      "timestamp": 1331198779,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sweta Morakhia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sweta Morakhia"
+  ],
+  "thread_path": "SwetaMorakhia_a9e710af14"
+}

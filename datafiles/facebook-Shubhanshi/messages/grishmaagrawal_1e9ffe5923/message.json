@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Grishma Agrawal",
+      "timestamp": 1361642288,
+      "content": "hi how r u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Grishma Agrawal",
+      "timestamp": 1352228445,
+      "content": "wish u many many happy returns of the day ,happy birthday dear \nmay god give u good wealth and health.\ngod bless u\n",
+      "type": "Generic"
+    }
+  ],
+  "title": "Grishma Agrawal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Grishma Agrawal"
+  ],
+  "thread_path": "GrishmaAgrawal_1e9ffe5923"
+}

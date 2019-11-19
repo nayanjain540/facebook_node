@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1335431836,
+      "content": "[[100002869898915]] is using  Zoomer to magnify your news feed images when hovering with the mouse. and INCREASES the speed of loading. #1192620 http://bit.ly/ZoomIn?6240037600",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_3fa7c871af"
+}

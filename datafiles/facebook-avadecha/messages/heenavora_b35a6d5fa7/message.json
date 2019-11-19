@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Heena Vora",
+      "timestamp": 1496486201,
+      "content": "Heena Vora just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Heena Vora",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Heena Vora"
+  ],
+  "thread_path": "HeenaVora_b35a6d5fa7"
+}

@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dharmesh Shah",
+      "timestamp": 1517272824,
+      "content": "Happy birthday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Dharmesh Shah",
+      "timestamp": 1485748248,
+      "content": "Happy Birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dharmesh Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Dharmesh Shah"
+  ],
+  "thread_path": "DharmeshShah_6208e963d4"
+}

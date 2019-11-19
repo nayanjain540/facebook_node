@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1329541929,
+      "content": "HI",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jignesh Jain",
+      "timestamp": 1329541918,
+      "content": "hiiiiiiiiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jignesh Jain",
+      "timestamp": 1327723979,
+      "content": "hiiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jignesh Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jignesh Jain"
+  ],
+  "thread_path": "JigneshJain_1210f80bb8"
+}

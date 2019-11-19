@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aziz Thanawala",
+      "timestamp": 1475035975,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aziz Thanawala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aziz Thanawala"
+  ],
+  "thread_path": "AzizThanawala_299426d478"
+}

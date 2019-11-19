@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1458272193,
+      "content": "U from which batch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1458272188,
+      "content": "Hey ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1415343942,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rahul Gupta",
+      "timestamp": 1415333608,
+      "content": "Hey happy birthday live as long as devil",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Gupta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rahul Gupta"
+  ],
+  "thread_path": "RahulGupta_b90023318d"
+}

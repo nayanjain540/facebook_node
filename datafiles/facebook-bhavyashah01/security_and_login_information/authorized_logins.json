@@ -1,0 +1,11 @@
+{
+  "recognized_devices": [
+    {
+      "name": "Facebook for Android",
+      "created_timestamp": 0,
+      "updated_timestamp": 1395575495,
+      "ip_address": "123.63.97.219",
+      "user_agent": "[FBAN/FB4A;FBAV/5.0.0.26.31;FBBV/1056414;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/VODAFONEIN;FBPN/com.facebook.katana;FBDV/GT-N7100;FBSV/4.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+    }
+  ]
+}

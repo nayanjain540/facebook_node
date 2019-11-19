@@ -1,0 +1,21 @@
+{
+  "messages": [
+    {
+      "sender_name": "EsselWorld",
+      "timestamp": 1306212171,
+      "content": "Win Tickets to Water Kingdom & also meet & greet with Chang & Shweta Salve.\n\nHurry!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "EsselWorld",
+      "timestamp": 1303994294,
+      "content": "Dont' miss the chance....",
+      "type": "Generic"
+    }
+  ],
+  "title": "EsselWorld",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "EsselWorld_b385283fd7"
+}

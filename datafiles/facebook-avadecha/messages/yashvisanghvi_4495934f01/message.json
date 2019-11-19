@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1480668802,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yashvi Sanghvi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yashvi Sanghvi"
+  ],
+  "thread_path": "YashviSanghvi_4495934f01"
+}

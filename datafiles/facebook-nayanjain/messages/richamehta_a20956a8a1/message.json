@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1397572399,
+      "content": "So how's school life??:p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1397534959,
+      "content": "So how's school life??:p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Richa Mehta",
+      "timestamp": 1397490183,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1397322689,
+      "content": "Heyyy!:D",
+      "type": "Generic"
+    }
+  ],
+  "title": "Richa Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Richa Mehta"
+  ],
+  "thread_path": "RichaMehta_a20956a8a1"
+}

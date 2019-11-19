@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nilesh Yadav",
+      "timestamp": 1414059475,
+      "content": "Happy diwali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nilesh Yadav",
+      "timestamp": 1394122465,
+      "content": "Hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nilesh Yadav",
+      "timestamp": 1392136159,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nilesh Yadav",
+      "timestamp": 1391270989,
+      "content": "Hii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nilesh Yadav",
+      "timestamp": 1388679478,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nilesh Yadav",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nilesh Yadav"
+  ],
+  "thread_path": "NileshYadav_2b52db257e"
+}

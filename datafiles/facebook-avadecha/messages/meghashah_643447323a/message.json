@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Megha Shah",
+      "timestamp": 1476375644,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Megha Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Megha Shah"
+  ],
+  "thread_path": "MeghaShah_643447323a"
+}

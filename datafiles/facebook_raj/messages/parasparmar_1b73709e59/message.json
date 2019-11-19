@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Paras Parmar",
+      "timestamp": 1412495986,
+      "content": "Hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1399141645,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Paras Parmar",
+      "timestamp": 1399126774,
+      "content": "hiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Paras Parmar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Paras Parmar"
+  ],
+  "thread_path": "ParasParmar_1b73709e59"
+}

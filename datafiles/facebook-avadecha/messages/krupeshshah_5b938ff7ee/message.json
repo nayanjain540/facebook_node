@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331316468,
+      "content": "Krupesh, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUhGC\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krupesh Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Krupesh Shah"
+  ],
+  "thread_path": "KrupeshShah_5b938ff7ee"
+}

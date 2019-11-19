@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jahnavi Mehta",
+      "timestamp": 1504633274,
+      "content": "Jahnavi Mehta just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jahnavi Mehta",
+      "timestamp": 1496677735,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jahnavi Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jahnavi Mehta"
+  ],
+  "thread_path": "JahnaviMehta_f76c1789db"
+}

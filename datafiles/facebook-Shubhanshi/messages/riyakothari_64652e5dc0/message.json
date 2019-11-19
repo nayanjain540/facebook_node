@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Riya Kothari",
+      "timestamp": 1378726086,
+      "content": "kal 2 baje",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riya Kothari",
+      "timestamp": 1378726077,
+      "content": "haa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1378702337,
+      "content": "Ae mad ... pakka bol kbhi ja rahe hai fatso k ghar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riya Kothari",
+      "timestamp": 1375458225,
+      "content": "mdn online hai]",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riya Kothari",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Riya Kothari"
+  ],
+  "thread_path": "RiyaKothari_64652e5dc0"
+}

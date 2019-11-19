@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Bapu Jadhav",
+      "timestamp": 1474887295,
+      "content": "Hello nayan",
+      "type": "Generic"
+    }
+  ],
+  "title": "Bapu Jadhav",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Pending",
+  "participants": [
+    "Bapu Jadhav"
+  ],
+  "thread_path": "BapuJadhav_9beb581d93"
+}

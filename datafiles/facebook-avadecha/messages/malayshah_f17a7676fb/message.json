@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "sender_name": "Malay Shah",
+      "timestamp": 1358388326,
+      "content": "happy birthday anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331345396,
+      "content": "Malay, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vE9mh\n\n- Anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Malay Shah",
+      "timestamp": 1324996166,
+      "content": "dubai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324996108,
+      "content": "Yaya now say \nWhere in Christmas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Malay Shah",
+      "timestamp": 1324996050,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1324996036,
+      "content": "Hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323436009,
+      "content": "Malay missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Malay Shah",
+      "timestamp": 1323435961,
+      "content": "hi anuj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1323435936,
+      "content": "Malay missed a video chat with you.",
+      "call_duration": 0,
+      "type": "Call"
+    }
+  ],
+  "title": "Malay Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Malay Shah"
+  ],
+  "thread_path": "MalayShah_f17a7676fb"
+}

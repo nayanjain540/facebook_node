@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1493403497,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Meena Varia",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Meena Varia"
+  ],
+  "thread_path": "MeenaVaria_e6e8d69d36"
+}

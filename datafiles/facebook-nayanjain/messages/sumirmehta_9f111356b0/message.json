@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1401760873,
+      "content": "Hey I dont know who you are just randomly accepted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumir Mehta",
+      "timestamp": 1401514100,
+      "content": "???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sumir Mehta",
+      "timestamp": 1401512584,
+      "content": "Heyy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sumir Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sumir Mehta"
+  ],
+  "thread_path": "SumirMehta_9f111356b0"
+}

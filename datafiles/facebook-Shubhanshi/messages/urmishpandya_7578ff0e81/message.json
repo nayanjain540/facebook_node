@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Urmish Pandya",
+      "timestamp": 1369758340,
+      "content": "vaishnavi was askin abt u............",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Urmish Pandya",
+      "timestamp": 1369757820,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Urmish Pandya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Urmish Pandya"
+  ],
+  "thread_path": "UrmishPandya_7578ff0e81"
+}

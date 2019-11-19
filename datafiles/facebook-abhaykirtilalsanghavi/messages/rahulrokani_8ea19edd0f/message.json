@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1496140410,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rahul Rokani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rahul Rokani"
+  ],
+  "thread_path": "RahulRokani_8ea19edd0f"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shreyas Borse",
+      "timestamp": 1516984613,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreyas Borse",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shreyas Borse"
+  ],
+  "thread_path": "ShreyasBorse_5d9d628c45"
+}

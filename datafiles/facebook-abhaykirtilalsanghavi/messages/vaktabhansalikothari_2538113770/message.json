@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1468551280,
+      "content": "Good morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vakta Bhansali Kothari",
+      "timestamp": 1468514839,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vakta Bhansali Kothari",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Vakta Bhansali Kothari"
+  ],
+  "thread_path": "VaktaBhansaliKothari_2538113770"
+}

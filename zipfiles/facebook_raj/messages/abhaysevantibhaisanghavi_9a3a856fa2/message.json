@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1485290832,
+      "content": "Say hello to Abhay.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1296366494,
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhay Sevantibhai Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Abhay Sevantibhai Sanghavi"
+  ],
+  "thread_path": "AbhaySevantibhaiSanghavi_9a3a856fa2"
+}

@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aman Sanghvi",
+      "timestamp": 1489915058,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aman Sanghvi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Aman Sanghvi"
+  ],
+  "thread_path": "AmanSanghvi_352b41b780"
+}

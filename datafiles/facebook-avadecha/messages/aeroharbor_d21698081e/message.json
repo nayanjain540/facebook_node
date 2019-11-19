@@ -1,0 +1,97 @@
+{
+  "messages": [
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511248839,
+      "content": "Thanks for the confirmation, Anuj.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1511248255,
+      "content": "Thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1511248253,
+      "content": "Yes ,yes i have recieved",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511248237,
+      "content": "Please confirm if you\u00e2\u0080\u0099ve received the same.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511248230,
+      "content": "Hey Anuj. The Order details have been sent to your mail along with the tracking number.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1511246986,
+      "content": "Tracking number is invalid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1511192750,
+      "content": "Okay thank you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511192484,
+      "content": "Your shipment is on its way... \u00f0\u009f\u0099\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511014511,
+      "content": "Get 15% off on all our COLLARED POLOS in the next two weeks: use SAVE100 at checkout.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511014510,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1511014509,
+      "content": "Hi Anuj, thanks for shopping with us! If you have any questions, message us here.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1510863073,
+      "content": "Your shipment is on its way... \u00f0\u009f\u0099\u008c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1510045232,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1510045227,
+      "content": "You agreed to have AeroHarbor send you updates. Replying will allow AeroHarbor to see info you've made public.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "AeroHarbor",
+      "timestamp": 1510045227,
+      "content": "Hey there! \u00f0\u009f\u0091\u008b We noticed that you left some great items in your cart. Don't worry, we saved them for you:",
+      "type": "Generic"
+    }
+  ],
+  "title": "AeroHarbor",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "AeroHarbor_d21698081e"
+}

@@ -1,0 +1,72 @@
+{
+  "poll_votes": [
+    {
+      "timestamp": 1337778525,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Shimla",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Shubhanshi Jain voted on Clean & Clear's poll."
+    },
+    {
+      "timestamp": 1335098587,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Lagori",
+                    "voted": true
+                  },
+                  {
+                    "option": "Hide-n-seek",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Shubhanshi Jain voted on Jasbeer Singh's poll."
+    },
+    {
+      "timestamp": 1335098585,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "Lagori",
+                    "voted": true
+                  },
+                  {
+                    "option": "Hide-n-seek",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Shubhanshi Jain voted on Jasbeer Singh's poll."
+    }
+  ]
+}

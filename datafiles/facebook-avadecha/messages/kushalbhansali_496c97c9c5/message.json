@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kushal Bhansali",
+      "timestamp": 1484375002,
+      "content": "Okay, please text me on +919833300715 when you reach home. :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1484374965,
+      "content": "Im not home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1484374963,
+      "content": "Hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kushal Bhansali",
+      "timestamp": 1484374421,
+      "content": "Hey, are you home right now? Can we exchange the books today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1451541238,
+      "content": "By mistake",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kushal Bhansali",
+      "timestamp": 1450197815,
+      "content": "Anq?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kushal Bhansali",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kushal Bhansali"
+  ],
+  "thread_path": "KushalBhansali_496c97c9c5"
+}

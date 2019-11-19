@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Saloni Shah",
+      "timestamp": 1335191145,
+      "content": "HI",
+      "type": "Generic"
+    }
+  ],
+  "title": "Saloni Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Saloni Shah"
+  ],
+  "thread_path": "SaloniShah_749cae1ce6"
+}

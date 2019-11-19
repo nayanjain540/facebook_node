@@ -1,0 +1,92 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('contact').style.display="none";
+				document.getElementById('information').style.display="none";
+				document.getElementById('countcode').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function information() {
+			x=document.getElementById('contact');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				document.getElementById('countcode').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		
+		function facecount() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+				document.getElementById('contact').style.display="none";
+				document.getElementById('countcode').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+			
+		function countrycode() {
+			x=document.getElementById('countcode');
+			if (x.style.display === "none") {
+				document.getElementById('contact').style.display="none";
+				document.getElementById('information').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Contact Information</button>
+		<button onclick="facecount()">Face Count</button>
+		<button onclick="countrycode()">Country Code</button>
+		#table-wrapper
+			table#contact
+				tr
+					th Timestamp
+					th Name
+					th LastTimeContacted
+					th Numberoftimescontacted
+					th Messengerstatus
+				
+				each j,i in articles.Contact_information
+					tr
+						td=articles.Contact_information[i][0]
+						td=articles.Contact_information[i][1]
+						td=articles.Contact_information[i][2]
+						td=articles.Contact_information[i][3]
+						td=articles.Contact_information[i][4]
+			table#information
+				tr
+					th FaceCount
+					tr
+						td=articles.Your_face_count_is
+
+			table#countcode
+				tr
+					th Number
+					th Code
+					
+				each j,i in articles.Country_code_is
+					tr
+						td=articles.Country_code_is[i]
+						td=articles.Country_code_is[i]						

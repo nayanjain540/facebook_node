@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pratiksha Shetty",
+      "timestamp": 1320647919,
+      "content": "hey happy b'day......njoy!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pratiksha Shetty",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pratiksha Shetty"
+  ],
+  "thread_path": "PratikshaShetty_8c0e58c088"
+}

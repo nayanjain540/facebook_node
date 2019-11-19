@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sachin Pawar",
+      "timestamp": 1363326616,
+      "content": "Many many happy returns  of the day",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sachin Pawar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sachin Pawar"
+  ],
+  "thread_path": "SachinPawar_2cf63f0304"
+}

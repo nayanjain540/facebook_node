@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Meet Pandya",
+      "timestamp": 1345829379,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Meet Pandya",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Meet Pandya"
+  ],
+  "thread_path": "MeetPandya_c5c8e9c06a"
+}

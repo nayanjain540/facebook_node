@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Karan Chhabra",
+      "timestamp": 1484192767,
+      "content": "Could you please forward this message to all your contacts?\nI'm interning with IIM Bangalore, and it would really help me \nThanks a lot!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Karan Chhabra",
+      "timestamp": 1484192728,
+      "content": "For all those who are interested in learning more about their *passions* from the *ones who have already excelled in the field*, here is the chance for you to be mentored by them. All the mentors are under the age of 25, so that you can connect well. You can select from the following online workshops according to your interest. \n\n\u00f0\u009f\u0094\u00b9Android App\n\u00f0\u009f\u0094\u00b9Finance \n\u00f0\u009f\u0094\u00b9Psychology \n\u00f0\u009f\u0094\u00b9Artificial Intelligence \n\u00f0\u009f\u0094\u00b9Novel Writing \n\u00f0\u009f\u0094\u00b9Robotics\n\u00f0\u009f\u0094\u00b9Photography \n\u00f0\u009f\u0094\u00b9Entrepreneurship\n\u00f0\u009f\u0094\u00b9Graphic Design\n\u00f0\u009f\u0094\u00b9Poetry Writing \n\u00f0\u009f\u0094\u00b9Creative Writing \n\u00f0\u009f\u0094\u00b9Web Development \n\n*There will be approximately 12-14 online sessions of one hour each.*\n\n All those who register will get a _certificate_ plus a _letter of recommendation_ from My Captain approved by *IIM Banglore.* Also, you can get the chance to earn internships and project internships in companies like OYO Rooms etc. \n\u00f0\u009f\u0093\u008c *Registration fee- Rs 1000*\nThe number of seats in every workshop are *limited* and will be given on first come first serve basis.\n*For further details contact:*\nKaran Chhabra\n9869314755",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karan Chhabra",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Karan Chhabra"
+  ],
+  "thread_path": "KaranChhabra_e93faa2d0a"
+}

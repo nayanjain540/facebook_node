@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1437289481,
+      "content": "Btw hows your health recovered from the accident??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ashwini Bhuta",
+      "timestamp": 1437232859,
+      "content": "thank you :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1437224733,
+      "content": "Sorry for the same message thrice!!xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1437224706,
+      "content": "Happy Birthday<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1437224706,
+      "content": "Happy Birthday<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1437224705,
+      "content": "Happy Birthday<3",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashwini Bhuta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ashwini Bhuta"
+  ],
+  "thread_path": "AshwiniBhuta_0d2334da10"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shivang Parikh",
+      "timestamp": 1489808409,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shivang Parikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shivang Parikh"
+  ],
+  "thread_path": "ShivangParikh_5d83254d28"
+}

@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1336580904,
+      "content": "Tu niche aane vala hai??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1334497305,
+      "content": "Pka mat na ae nano!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amish Mehta",
+      "timestamp": 1334497271,
+      "content": "happy bday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Amish Mehta",
+      "timestamp": 1320674443,
+      "content": "happy b'dae",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amish Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amish Mehta"
+  ],
+  "thread_path": "AmishMehta_a3de016eb7"
+}

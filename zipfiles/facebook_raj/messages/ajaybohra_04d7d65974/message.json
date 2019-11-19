@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ajay Bohra",
+      "timestamp": 1283510291,
+      "content": "are you on online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajay Bohra",
+      "timestamp": 1283510240,
+      "content": "i was with my other freinds",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ajay Bohra",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ajay Bohra"
+  ],
+  "thread_path": "AjayBohra_04d7d65974"
+}

@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1349715838,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jinu Jain",
+      "timestamp": 1349715829,
+      "content": "Hiee...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jinu Jain",
+      "timestamp": 1345023788,
+      "content": "Hiee...",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jinu Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jinu Jain"
+  ],
+  "thread_path": "JinuJain_28a2ff7058"
+}

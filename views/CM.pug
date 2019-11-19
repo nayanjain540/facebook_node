@@ -1,0 +1,37 @@
+html
+	head
+		include mystyle.css
+		script
+	body
+		h3 Phone interaction with the person on first name basis:
+		#table-wrapper
+			table#calls
+				tr
+					th Name
+					th Count
+					th Number
+					th Duration_of_calls
+					th Incoming_types
+					th Outgoing_types
+					th Missed_calls
+				each j,i in arr3
+					tr
+						td=arr3[i]
+						td=arr4[i]
+						td=arr5[i]
+						td=arr6[i]
+						td=arr7[i]
+						td=arr8[i]
+						td=arr9[i]
+		h3 Message Interaction 
+		#table-wrapper
+			table#messages
+				tr
+					th Name
+					th Count_Inbox
+					th Count_Sent
+				each j,i in arr10
+					tr
+						td=arr10[i]
+						td=countINBOX
+						td=countSENT

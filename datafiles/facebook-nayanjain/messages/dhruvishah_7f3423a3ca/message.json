@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1397647850,
+      "content": "Heyyyaa!!:D",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dhruvi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dhruvi Shah"
+  ],
+  "thread_path": "DhruviShah_7f3423a3ca"
+}

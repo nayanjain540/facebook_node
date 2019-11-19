@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ashish Murkar",
+      "timestamp": 1495440583,
+      "content": "Ashish Murkar just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashish Murkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ashish Murkar"
+  ],
+  "thread_path": "AshishMurkar_be56dd36e1"
+}

@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Naitik Shah",
+      "timestamp": 1358793148,
+      "content": "Dude , do I know you ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334574,
+      "content": "Naitik, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYKp\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Naitik Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Naitik Shah"
+  ],
+  "thread_path": "NaitikShah_b7fb7b8aae"
+}

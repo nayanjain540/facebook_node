@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1388551889,
+      "content": "Happy new year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nikhil Tayade",
+      "timestamp": 1388516185,
+      "content": "Happy new year ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nikhil Tayade",
+      "timestamp": 1387440641,
+      "content": "Kay bhava kasa aahe",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nikhil Tayade",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Nikhil Tayade"
+  ],
+  "thread_path": "NikhilTayade_60ee30e265"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rohan Karnik",
+      "timestamp": 1455024030,
+      "content": "Heyy! :) ",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rohan Karnik",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Rohan Karnik"
+  ],
+  "thread_path": "RohanKarnik_9f748a977b"
+}

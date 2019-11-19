@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1358063747,
+      "content": "Hie..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Darshit Moradiya",
+      "timestamp": 1358063202,
+      "content": "Heya..!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Darshit Moradiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Darshit Moradiya"
+  ],
+  "thread_path": "DarshitMoradiya_b3747de1e7"
+}

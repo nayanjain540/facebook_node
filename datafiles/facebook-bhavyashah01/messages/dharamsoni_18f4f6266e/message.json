@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dharam Soni",
+      "timestamp": 1473094503,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dharam Soni",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dharam Soni"
+  ],
+  "thread_path": "DharamSoni_18f4f6266e"
+}

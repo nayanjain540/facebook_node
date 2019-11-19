@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Zamaan Pathan",
+      "timestamp": 1397138390,
+      "content": "Hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Zamaan Pathan",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Zamaan Pathan"
+  ],
+  "thread_path": "ZamaanPathan_a65e2a0bc3"
+}

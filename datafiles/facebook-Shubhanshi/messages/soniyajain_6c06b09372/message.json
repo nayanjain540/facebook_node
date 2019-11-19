@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1400176563,
+      "content": "Hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1395421031,
+      "content": "Bye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1395421023,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1395420997,
+      "content": "Exam chalu hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1395420993,
+      "content": "Bye.. padhna hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1395420955,
+      "content": "Accha hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1395420944,
+      "content": "Badiya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1395420891,
+      "content": "Aap batao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1395420887,
+      "content": "Mast hu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1395420876,
+      "content": "Kaise h",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1395420871,
+      "content": "Hiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Soniya Jain",
+      "timestamp": 1377367447,
+      "content": "Hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Soniya Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Soniya Jain"
+  ],
+  "thread_path": "SoniyaJain_6c06b09372"
+}

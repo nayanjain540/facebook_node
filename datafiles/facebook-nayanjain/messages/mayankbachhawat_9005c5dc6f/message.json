@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mayank Bachhawat",
+      "timestamp": 1491415472,
+      "content": "I don't know any Yash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mayank Bachhawat",
+      "timestamp": 1491415459,
+      "content": "Mayank Bachhawat accepted your request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1490362820,
+      "content": "Hey I'm Yash's friend do you know where Yash is?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mayank Bachhawat",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mayank Bachhawat"
+  ],
+  "thread_path": "MayankBachhawat_9005c5dc6f"
+}

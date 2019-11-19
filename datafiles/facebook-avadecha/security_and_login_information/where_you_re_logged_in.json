@@ -1,0 +1,463 @@
+{
+  "active_sessions": [
+    {
+      "name": "Edge",
+      "created_timestamp": 1529323233,
+      "updated_timestamp": 1529333369,
+      "ip_address": "182.56.86.252",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063",
+      "datr_cookie": "uJ4n********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1529302072,
+      "updated_timestamp": 1529320983,
+      "ip_address": "182.56.92.159",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "l07r********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1524801834,
+      "updated_timestamp": 1529154506,
+      "ip_address": "49.33.28.215",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; FRD-L02 Build/HUAWEIFRD-L02) [FBAN/Orca-Android;FBAV/169.0.0.27.76;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/111988736;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBDV/FRD-L02;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1794};FB_FW/1;]",
+      "datr_cookie": "ygsl********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1529132150,
+      "ip_address": "2405:204:20ac:1213::2041:40a5",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/112316275;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "drQk********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528031660,
+      "updated_timestamp": 1529027730,
+      "ip_address": "203.192.243.198",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36",
+      "datr_cookie": "FBsQ********************",
+      "device": "Mac",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520763714,
+      "updated_timestamp": 1528708612,
+      "ip_address": "157.33.203.234",
+      "user_agent": "[FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983749;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "BD4e********************",
+      "device": "Huawei Honor 8",
+      "location": "Pune, India"
+    },
+    {
+      "name": "Safari",
+      "created_timestamp": 1528030063,
+      "ip_address": "2405:204:38e:9de2:fc8e:4539:9466:1b59",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) Facepager Safari/534.34",
+      "datr_cookie": "YuMT********************",
+      "device": "Mac",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Safari",
+      "created_timestamp": 1528029704,
+      "ip_address": "2405:204:38e:9de2:fc8e:4539:9466:1b59",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) Facepager Safari/534.34",
+      "datr_cookie": "9uET********************",
+      "device": "Mac",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1528006332,
+      "ip_address": "49.33.92.222",
+      "user_agent": "[FBAN/FB4A;FBAV/174.0.0.54.96;FBBV/111133969;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "vIYT********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1527842149,
+      "ip_address": "114.143.198.2",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",
+      "datr_cookie": "1AQR********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1527068233,
+      "ip_address": "203.194.107.174",
+      "user_agent": "[FBAN/FB4A;FBAV/173.0.0.62.99;FBBV/109748286;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "STYF********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1526217307,
+      "ip_address": "2405:204:384:72c3::17ea:8a5",
+      "user_agent": "[FBAN/FB4A;FBAV/170.0.0.52.95;FBBV/105856850;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/106318734;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Wzr4********************",
+      "device": "Huawei Honor 8",
+      "location": "Bhayandar, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1525408372,
+      "ip_address": "2405:204:16:5554::b2e:f8a0",
+      "user_agent": "[FBAN/FB4A;FBAV/170.0.0.52.95;FBBV/105856850;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "dOLr********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1524799436,
+      "ip_address": "49.33.157.1",
+      "user_agent": "[FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748689;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "zJfi********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1524629443,
+      "ip_address": "42.106.193.207",
+      "user_agent": "[FBAN/FB4A;FBAV/168.0.0.40.90;FBBV/103682747;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Vodafone IN;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "w__f********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1524024527,
+      "ip_address": "2405:204:20ac:deeb::1c81:d8b0",
+      "user_agent": "[FBAN/FB4A;FBAV/168.0.0.35.90;FBBV/103430910;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "z8TW********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1523502660,
+      "ip_address": "49.33.196.225",
+      "user_agent": "[FBAN/FB4A;FBAV/167.0.0.42.94;FBBV/102203108;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "RM7O********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1521543218,
+      "updated_timestamp": 1523283059,
+      "ip_address": "203.194.103.6",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+      "datr_cookie": "IOiw********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1522983139,
+      "ip_address": "2405:204:28d:f834::6a:30b1",
+      "user_agent": "[FBAN/FB4A;FBAV/165.0.0.53.93;FBBV/99791903;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/100375927;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "4-DG********************",
+      "device": "Huawei Honor 8",
+      "location": "Navi Mumbai (New Mumbai), India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1508046214,
+      "updated_timestamp": 1522382402,
+      "ip_address": "2405:204:211a:e9af::1a3d:88b1",
+      "user_agent": "Mozilla/5.0 (Linux; Android 7.0; FRD-L02 Build/HUAWEIFRD-L02) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "e_zZ********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1522375730,
+      "ip_address": "2405:204:211a:e9af::1a3d:88b1",
+      "user_agent": "[FBAN/FB4A;FBAV/165.0.0.53.93;FBBV/99791903;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/0;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Mpy9********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521733003,
+      "ip_address": "49.33.193.71",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.37.95;FBBV/98287730;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/98287730;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "i82z********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521258879,
+      "ip_address": "2405:204:2120:8dca::2ac8:78a4",
+      "user_agent": "[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845997;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/96845997;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "f5Gs********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520763716,
+      "ip_address": "2405:205:c963:5e63::6c9:28ac",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/96239500;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "RAOl********************",
+      "device": "Huawei Honor 8",
+      "location": "Ahmedabad, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520481314,
+      "ip_address": "2405:204:220a:3300::2380:f8a4",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/95632808;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "IrSg********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520259108,
+      "ip_address": "2405:204:228f:fa00::1a9e:40a5",
+      "user_agent": "[FBAN/FB4A;FBAV/161.0.0.35.93;FBBV/94117312;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/94117312;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "JFCd********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520135927,
+      "ip_address": "49.33.231.30",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/93146056;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "926b********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519292919,
+      "ip_address": "49.33.209.211",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/93146056;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "95GO********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519183374,
+      "ip_address": "2405:204:2023:d453::c3e:8a5",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/91889149;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "DuaM********************",
+      "device": "Huawei Honor 8",
+      "location": "Navi Mumbai (New Mumbai), India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518545721,
+      "ip_address": "2405:204:208b:7403::450:18a4",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/91889149;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "OSuD********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516894312,
+      "ip_address": "2405:204:222b:fc74::191b:f8a5",
+      "user_agent": "[FBAN/FB4A;FBAV/156.0.0.36.100;FBBV/88997456;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/88997456;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "aPhp********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516467540,
+      "ip_address": "2405:204:222a:527a::2221:b0a1",
+      "user_agent": "[FBAN/FB4A;FBAV/155.0.0.36.96;FBBV/87995190;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/87995190;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "VHVj********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1515816545,
+      "ip_address": "2405:204:2088:eb70::278a:48b0",
+      "user_agent": "[FBAN/FB4A;FBAV/154.0.0.33.385;FBBV/87107448;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/87107448;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "YYZZ********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1514798131,
+      "ip_address": "49.33.161.62",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/84570984;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "M_xJ********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1514047686,
+      "ip_address": "2405:204:2013:3583::8b1:b0",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/84570984;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "xog-********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1512619748,
+      "ip_address": "2405:204:2229:be96::1c01:e0b1",
+      "user_agent": "[FBAN/FB4A;FBAV/152.0.0.42.136;FBBV/83110613;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/83110613;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "5L4o********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1512220726,
+      "ip_address": "2405:204:2128:74c3::596:68a1",
+      "user_agent": "[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374859;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/81374859;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Nqgi********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511603129,
+      "ip_address": "49.33.207.107",
+      "user_agent": "[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374859;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/81374859;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "uTsZ********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511284326,
+      "ip_address": "2405:204:202c:b263::2aec:b8a4",
+      "user_agent": "[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156282;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/80156282;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Zl4U********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1510643744,
+      "ip_address": "49.33.98.184",
+      "user_agent": "[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156282;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/80156282;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "IJgK********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1510146476,
+      "ip_address": "203.194.103.6",
+      "user_agent": "[FBAN/FB4A;FBAV/149.0.0.40.71;FBBV/79007710;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/79007710;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "rAED********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1509594868,
+      "ip_address": "2405:204:210d:ff42::173e:8ad",
+      "user_agent": "[FBAN/FB4A;FBAV/147.0.0.44.75;FBBV/76755482;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/76755482;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "9Jb6********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1508960474,
+      "ip_address": "49.33.101.80",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.0; Moto G (5) Plus Build/NPN25.137-67-5) [FBAN/Orca-Android;FBAV/141.0.0.31.76;FBPN/com.facebook.orca;FBLC/en_US;FBBV/76757814;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBDV/Moto G (5) Plus;FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "8fqu********************",
+      "device": "Motorola Moto G5 Plus",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1508753743,
+      "ip_address": "2405:204:200a:18ea::24a1:28ac",
+      "user_agent": "[FBAN/FB4A;FBAV/146.0.0.53.92;FBBV/75931115;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/75931115;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "T8Ht********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1508176097,
+      "ip_address": "49.33.107.174",
+      "user_agent": "[FBAN/FB4A;FBAV/145.0.0.37.86;FBBV/74851857;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/74851857;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "4fDk********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1506575005,
+      "ip_address": "203.194.103.124",
+      "user_agent": "[FBAN/FB4A;FBAV/143.0.0.32.90;FBBV/73145362;FBDM/{density=3.0,width=1080,height=1794};FBLC/en_GB;FBRV/73145362;FBCR/Jio 4G;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/FRD-L02;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "nYLM********************",
+      "device": "Huawei Honor 8",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Unknown",
+      "created_timestamp": 1501388814,
+      "updated_timestamp": 1505718633,
+      "ip_address": "27.251.227.210",
+      "user_agent": "SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 5.1.1; LS-5010 Build/LMY47V) Source/1 [FBAN/EMA;UNITY_PACKAGE/242;FBBV/70098440;FBAV/57.0.0.8.129;FBDV/LS-5010;FBLC/en_GB;FBOP/20;FBNG/WIFI;FBCQ/UNKNOWN]",
+      "datr_cookie": "aXG_********************",
+      "device": "Reliance Wind 1",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1490450101,
+      "updated_timestamp": 1503751243,
+      "ip_address": "203.194.103.94",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; A0001 Build/LMY47V) [FBAN/FB4A;FBAV/116.0.0.17.69;FBPN/com.facebook.katana;FBLC/en_US;FBBV/53087788;FBCR/null;FBMF/ONEPLUS;FBBD/oneplus;FBDV/A0001;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;] FBBK/1",
+      "datr_cookie": "S2yh********************",
+      "device": "OnePlus One",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1494331673,
+      "updated_timestamp": 1500536775,
+      "ip_address": "49.33.74.214",
+      "datr_cookie": "x19w********************",
+      "device": "Device type unknown",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1499000339,
+      "ip_address": "2405:204:2017:51c6:77b7:f385:ac0:8bb8",
+      "user_agent": "[FBAN/FB4A;FBAV/124.0.0.22.66;FBBV/58350881;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/58350881;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONE E1003;FBSV/6.0.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "E-5Y********************",
+      "device": "OnePlus X",
+      "location": "Mumbai, India"
+    }
+  ]
+}

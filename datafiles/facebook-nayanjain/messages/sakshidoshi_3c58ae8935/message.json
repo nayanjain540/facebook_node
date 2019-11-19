@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1436633478,
+      "content": "Heyy",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sakshi Doshi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sakshi Doshi"
+  ],
+  "thread_path": "SakshiDoshi_3c58ae8935"
+}

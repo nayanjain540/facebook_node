@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1524213744,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jignesh Jormalbhai",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jignesh Jormalbhai"
+  ],
+  "thread_path": "JigneshJormalbhai_c3c42e3ce5"
+}

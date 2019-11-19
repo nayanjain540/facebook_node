@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493439336,
+      "content": "Nsci Worli",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493439330,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493439327,
+      "content": "You accepted Rishon's request.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rishon Pezarkar",
+      "timestamp": 1493384766,
+      "content": "Even I have won the competition that's why I'm asking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rishon Pezarkar",
+      "timestamp": 1493384729,
+      "content": "Hey did videocon messaged you the venue for tomorrow?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rishon Pezarkar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Rishon Pezarkar"
+  ],
+  "thread_path": "RishonPezarkar_9bc538093f"
+}

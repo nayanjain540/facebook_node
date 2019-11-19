@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331316452,
+      "content": "Hardik, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vUhri\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Hardik Madhiwalla",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Hardik Madhiwalla"
+  ],
+  "thread_path": "HardikMadhiwalla_0ec444bd90"
+}

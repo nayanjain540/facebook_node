@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vicky Daiya",
+      "timestamp": 1515334315,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vicky Daiya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Vicky Daiya"
+  ],
+  "thread_path": "VickyDaiya_c50d0a82ac"
+}

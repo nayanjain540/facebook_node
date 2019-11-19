@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1336061017,
+      "content": "Hey Shubhanshi.... U Look really Beautiful :)\nGood Evening..\nHow r u doing?\nSaw u @ \"Bandra Worli Sea Link\" Community..\nGood People Envy the Bad and Bad Envy the Good...\nJust try to be in each others world.. and so this World is getting Dirty...\nHow was ur day?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Facebook User"
+  ],
+  "thread_path": "FacebookUser_098f070f19"
+}

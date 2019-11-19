@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1326629855,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohit Mehta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mohit Mehta"
+  ],
+  "thread_path": "MohitMehta_9cb5e18e42"
+}

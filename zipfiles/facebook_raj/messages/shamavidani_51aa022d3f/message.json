@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1487780906,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shama Vidani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Shama Vidani"
+  ],
+  "thread_path": "ShamaVidani_51aa022d3f"
+}

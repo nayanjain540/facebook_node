@@ -1,0 +1,77 @@
+{
+  "messages": [
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396347345,
+      "content": "n sae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396347339,
+      "content": "k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1396347265,
+      "content": "Of course",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1396347254,
+      "content": "No work to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396347249,
+      "content": "u didnt went out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396347236,
+      "content": "why bored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1396347201,
+      "content": "U sae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1396347197,
+      "content": "Bored",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396347182,
+      "content": "supp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1396347131,
+      "content": "Hy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Twinkle Jain",
+      "timestamp": 1396346809,
+      "content": "hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Twinkle Jain",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Twinkle Jain"
+  ],
+  "thread_path": "TwinkleJain_d1dce98874"
+}

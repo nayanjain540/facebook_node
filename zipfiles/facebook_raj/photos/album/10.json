@@ -1,0 +1,46 @@
+{
+  "name": "WATER KINGDOM",
+  "photos": [
+    {
+      "uri": "photos/WATERKINGDOM_472122749495369/227443_472122956162015_872471903_n_472122956162015.jpg",
+      "creation_timestamp": 1349199783,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S5360",
+          "taken_timestamp": 1349199783,
+          "modified_timestamp": 1349199783,
+          "exposure": "1/685",
+          "focal_length": "273/100",
+          "f_stop": "28/10",
+          "iso_speed": 100,
+          "orientation": 1,
+          "original_width": 1600,
+          "original_height": 0,
+          "upload_ip": "180.188.235.60"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/WATERKINGDOM_472122749495369/227443_472122956162015_872471903_n_472122956162015.jpg",
+    "creation_timestamp": 1349199783,
+    "media_metadata": {
+      "photo_metadata": {
+        "camera_make": "SAMSUNG",
+        "camera_model": "GT-S5360",
+        "taken_timestamp": 1349199783,
+        "modified_timestamp": 1349199783,
+        "exposure": "1/685",
+        "focal_length": "273/100",
+        "f_stop": "28/10",
+        "iso_speed": 100,
+        "orientation": 1,
+        "original_width": 1600,
+        "original_height": 0,
+        "upload_ip": "180.188.235.60"
+      }
+    }
+  },
+  "last_modified_timestamp": 1477053548
+}

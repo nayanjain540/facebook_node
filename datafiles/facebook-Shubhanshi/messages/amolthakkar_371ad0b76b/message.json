@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Amol Thakkar",
+      "timestamp": 1384002284,
+      "content": "hiiiiiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amol Thakkar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amol Thakkar"
+  ],
+  "thread_path": "AmolThakkar_371ad0b76b"
+}

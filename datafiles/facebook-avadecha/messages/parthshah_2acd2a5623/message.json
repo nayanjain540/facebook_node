@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parth Shah",
+      "timestamp": 1452308643,
+      "content": "Get the money",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parth Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Parth Shah"
+  ],
+  "thread_path": "ParthShah_2acd2a5623"
+}

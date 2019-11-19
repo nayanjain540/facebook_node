@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1332058340,
+      "content": "hi jigar",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jigar Choksi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jigar Choksi"
+  ],
+  "thread_path": "JigarChoksi_d37f20a86d"
+}

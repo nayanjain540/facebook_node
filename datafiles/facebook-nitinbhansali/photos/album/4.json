@@ -1,0 +1,126 @@
+{
+  "name": "Untitled Album",
+  "photos": [
+    {
+      "uri": "photos/your_posts/215230_449865885098887_534256315_n_449865885098887.jpg",
+      "creation_timestamp": 1367978828,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S7562",
+          "taken_timestamp": 1367978828,
+          "modified_timestamp": 1367978828,
+          "exposure": "1/12",
+          "focal_length": "354/100",
+          "f_stop": "130/50",
+          "iso_speed": 200,
+          "orientation": 6,
+          "original_width": 2560,
+          "original_height": 0,
+          "upload_ip": "182.56.122.37"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/922802_449865861765556_2118507133_n_449865861765556.jpg",
+      "creation_timestamp": 1367975675,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S7562",
+          "taken_timestamp": 1367975675,
+          "modified_timestamp": 1367975675,
+          "exposure": "1/33",
+          "focal_length": "354/100",
+          "f_stop": "130/50",
+          "iso_speed": 100,
+          "orientation": 6,
+          "original_width": 2560,
+          "original_height": 0,
+          "upload_ip": "182.56.122.37"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/923012_449865831765559_1760107568_n_449865831765559.jpg",
+      "creation_timestamp": 1367968160,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S7562",
+          "taken_timestamp": 1367968160,
+          "modified_timestamp": 1367968160,
+          "exposure": "1/12",
+          "focal_length": "354/100",
+          "f_stop": "130/50",
+          "iso_speed": 100,
+          "orientation": 6,
+          "original_width": 2560,
+          "original_height": 0,
+          "upload_ip": "182.56.122.37"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/936485_449865805098895_668561094_n_449865805098895.jpg",
+      "creation_timestamp": 1367968086,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S7562",
+          "taken_timestamp": 1367968086,
+          "modified_timestamp": 1367968086,
+          "exposure": "1/12",
+          "focal_length": "354/100",
+          "f_stop": "130/50",
+          "iso_speed": 200,
+          "orientation": 6,
+          "original_width": 2560,
+          "original_height": 0,
+          "upload_ip": "182.56.122.37"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/602535_449865795098896_446061137_n_449865795098896.jpg",
+      "creation_timestamp": 1367978394,
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-S7500",
+          "taken_timestamp": 1367978394,
+          "modified_timestamp": 1368037161,
+          "exposure": "1/8",
+          "focal_length": "279/100",
+          "f_stop": "130/50",
+          "iso_speed": 400,
+          "orientation": 1,
+          "original_width": 0,
+          "original_height": 0,
+          "upload_ip": "182.56.122.37"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/your_posts/602535_449865795098896_446061137_n_449865795098896.jpg",
+    "creation_timestamp": 1367978394,
+    "media_metadata": {
+      "photo_metadata": {
+        "camera_make": "SAMSUNG",
+        "camera_model": "GT-S7500",
+        "taken_timestamp": 1367978394,
+        "modified_timestamp": 1368037161,
+        "exposure": "1/8",
+        "focal_length": "279/100",
+        "f_stop": "130/50",
+        "iso_speed": 400,
+        "orientation": 1,
+        "original_width": 0,
+        "original_height": 0,
+        "upload_ip": "182.56.122.37"
+      }
+    }
+  },
+  "last_modified_timestamp": 1367994624
+}

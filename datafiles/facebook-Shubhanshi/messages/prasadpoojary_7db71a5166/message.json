@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Prasad Poojary",
+      "timestamp": 1349356391,
+      "content": "hiii..",
+      "type": "Generic"
+    }
+  ],
+  "title": "Prasad Poojary",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Prasad Poojary"
+  ],
+  "thread_path": "PrasadPoojary_7db71a5166"
+}

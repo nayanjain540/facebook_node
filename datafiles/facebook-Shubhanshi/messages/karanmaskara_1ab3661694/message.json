@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Karan Maskara",
+      "timestamp": 1408541347,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Karan Maskara",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Karan Maskara"
+  ],
+  "thread_path": "KaranMaskara_1ab3661694"
+}

@@ -1,0 +1,53 @@
+html
+    head
+        include mystyle.css
+    script.
+        function none() {
+            x=document.getElementById('none');
+            if (x.style.display === "none") {
+                document.getElementById('CommentsDetail').style.display="none";
+                document.getElementById('Tag').style.display="none";
+                x.style.display = "none";
+            } 
+            else 
+            {
+            x.style.display = "none";
+            }
+            }
+
+        function Tag() {
+            x=document.getElementById('Tag');
+            if (x.style.display === "none") {
+                document.getElementById('Comments').style.display="none";
+                x.style.display = "block";
+            } 
+            else 
+            {
+            x.style.display = "none";
+            }
+            }   
+        function Comments() {
+            x=document.getElementById('Comments');
+            if (x.style.display === "none") {
+                document.getElementById('Tag').style.display="none";
+                x.style.display = "block";
+            } 
+            else 
+            {
+            x.style.display = "none";
+            }
+            }
+    body
+        p#none
+        <button onclick="none()">Double Click For A Blank Slate</button>
+        <button onclick="Comments()">CommentDetails</button>
+        <button onclick="Tag()">Tag</button>
+        #table-wrapper
+            table#myfriendssearched
+                tr
+                    th Name
+                    th Numberoftimes
+                each j,i in articles.my_friends_searched.counter_of_my_friends_searched
+                    tr                        
+                        td=i
+                        td=j

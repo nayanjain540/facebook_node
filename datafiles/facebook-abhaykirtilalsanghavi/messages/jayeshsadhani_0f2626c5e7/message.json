@@ -1,0 +1,33 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1456672591,
+      "sticker": {
+        "uri": "messages/stickers_used/851557_369239266556155_759568595_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1456672589,
+      "sticker": {
+        "uri": "messages/stickers_used/851557_369239266556155_759568595_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1456373959,
+      "content": "Good morning",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jayesh Sadhani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jayesh Sadhani"
+  ],
+  "thread_path": "JayeshSadhani_0f2626c5e7"
+}

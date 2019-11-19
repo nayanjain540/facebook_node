@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "timestamp": 1491666673,
+      "content": "Majama",
+      "type": "Generic"
+    },
+    {
+      "timestamp": 1491666668,
+      "content": "Viralbhai so Kare che",
+      "type": "Generic"
+    },
+    {
+      "timestamp": 1491631537,
+      "content": "Nileshambani",
+      "type": "Generic"
+    },
+    {
+      "timestamp": 1491631527,
+      "content": "Deesa",
+      "type": "Generic"
+    },
+    {
+      "timestamp": 1491631514,
+      "content": "Kemcho",
+      "type": "Generic"
+    },
+    {
+      "timestamp": 1491631509,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    ""
+  ],
+  "thread_path": "59437101ae"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sohan Kumar",
+      "timestamp": 1331917796,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sohan Kumar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Sohan Kumar"
+  ],
+  "thread_path": "SohanKumar_f88ec9e85e"
+}

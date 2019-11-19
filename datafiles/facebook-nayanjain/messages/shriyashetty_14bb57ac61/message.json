@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shriya Shetty",
+      "timestamp": 1512205648,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shriya Shetty",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shriya Shetty"
+  ],
+  "thread_path": "ShriyaShetty_14bb57ac61"
+}

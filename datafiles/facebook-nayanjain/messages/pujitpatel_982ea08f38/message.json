@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pujit Patel",
+      "timestamp": 1477106507,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pujit Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pujit Patel"
+  ],
+  "thread_path": "PujitPatel_982ea08f38"
+}

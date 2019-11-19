@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1517853280,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sheetal Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sheetal Shah"
+  ],
+  "thread_path": "SheetalShah_5f0167b35d"
+}

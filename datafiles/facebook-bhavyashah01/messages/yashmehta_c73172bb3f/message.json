@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Yash Mehta",
+      "timestamp": 1468284424,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Yash Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Yash Mehta"
+  ],
+  "thread_path": "YashMehta_c73172bb3f"
+}

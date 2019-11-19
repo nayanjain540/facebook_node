@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Adil Shaikh",
+      "timestamp": 1522166564,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Adil Shaikh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Adil Shaikh"
+  ],
+  "thread_path": "AdilShaikh_364a7f94a3"
+}

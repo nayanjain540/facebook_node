@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pinakin Patel",
+      "timestamp": 1331243129,
+      "content": "Nayan, you should check out this new facebook browser called RockMelt. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3v2qYG\n\n- Pinakin",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pinakin Patel",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pinakin Patel"
+  ],
+  "thread_path": "PinakinPatel_9da00082f3"
+}

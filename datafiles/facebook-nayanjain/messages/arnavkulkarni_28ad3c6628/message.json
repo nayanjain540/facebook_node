@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Arnav Kulkarni",
+      "timestamp": 1494358451,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Arnav Kulkarni",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Arnav Kulkarni"
+  ],
+  "thread_path": "ArnavKulkarni_28ad3c6628"
+}

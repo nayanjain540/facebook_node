@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1331124607,
+      "content": "very good\n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jinali R.Shah",
+      "timestamp": 1331115608,
+      "content": "hw is ur studies gng on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jinali R.Shah",
+      "timestamp": 1331115600,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jinali R.Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Jinali R.Shah"
+  ],
+  "thread_path": "JinaliRShah_0d84a24b38"
+}

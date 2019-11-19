@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Priya Agrawal",
+      "timestamp": 1488465689,
+      "content": "Priya added you on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Priya Agrawal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Priya Agrawal"
+  ],
+  "thread_path": "PriyaAgrawal_c21a9a850e"
+}

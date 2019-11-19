@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1351352043,
+      "content": "kkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1351352033,
+      "content": "pachi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1351352013,
+      "content": "cme down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1350205151,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1350205136,
+      "content": "poker ram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1344248169,
+      "content": "You missed a video chat with Sneh.",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344248058,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1344248048,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1343559802,
+      "content": "u refresh it u wil get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1343559788,
+      "content": "all chips finished",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1343559781,
+      "content": "i send u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1343559769,
+      "content": "i m khali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1343559626,
+      "content": "u wil get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1343559614,
+      "content": "u accept the claimed chips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1343559605,
+      "content": "i hav only 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneh Sheth",
+      "timestamp": 1343559563,
+      "content": "give me some chips",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sneh Sheth",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sneh Sheth"
+  ],
+  "thread_path": "SnehSheth_a6206f2e54"
+}

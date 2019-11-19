@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sandeep More",
+      "timestamp": 1503486055,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sandeep More",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sandeep More"
+  ],
+  "thread_path": "SandeepMore_67e97996de"
+}

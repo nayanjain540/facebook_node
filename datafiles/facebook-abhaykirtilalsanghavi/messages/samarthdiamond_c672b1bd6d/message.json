@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Samarth Diamond",
+      "timestamp": 1524053222,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Samarth Diamond",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Samarth Diamond"
+  ],
+  "thread_path": "SamarthDiamond_c672b1bd6d"
+}

@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "sender_name": "Riya Parmar",
+      "timestamp": 1342357429,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1342357423,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Riya Parmar",
+      "timestamp": 1342357361,
+      "content": "hey any hw fr tom.?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Riya Parmar",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Riya Parmar"
+  ],
+  "thread_path": "RiyaParmar_bf847f4987"
+}

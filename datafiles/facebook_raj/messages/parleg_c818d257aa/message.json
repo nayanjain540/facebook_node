@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "sender_name": "Parle-G",
+      "timestamp": 1493358998,
+      "content": "Stay tuned for more quizzes and results for the IPL2017 contest!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493233058,
+      "content": "#ipl2017",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493233052,
+      "content": "Hoping to win!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1493233046,
+      "content": "When will the results for The Howzaaaat Catch the Ball come?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Parle-G",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "ParleG_c818d257aa"
+}

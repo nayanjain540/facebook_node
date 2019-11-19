@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Aastha Singh",
+      "timestamp": 1493988407,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aastha Singh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aastha Singh"
+  ],
+  "thread_path": "AasthaSingh_ffdb0ee436"
+}

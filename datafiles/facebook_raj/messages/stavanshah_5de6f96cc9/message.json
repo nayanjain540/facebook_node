@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Stavan Shah",
+      "timestamp": 1358571667,
+      "content": "hey rand",
+      "type": "Generic"
+    }
+  ],
+  "title": "Stavan Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Stavan Shah"
+  ],
+  "thread_path": "StavanShah_5de6f96cc9"
+}

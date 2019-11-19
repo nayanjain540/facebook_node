@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pinal Sanghavi",
+      "timestamp": 1494617830,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pinal Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Pinal Sanghavi"
+  ],
+  "thread_path": "PinalSanghavi_3171aa783c"
+}

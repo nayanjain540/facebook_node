@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "MoHit SoNi",
+      "timestamp": 1476958184,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "MoHit SoNi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "MoHit SoNi"
+  ],
+  "thread_path": "MoHitSoNi_bfd83f752c"
+}

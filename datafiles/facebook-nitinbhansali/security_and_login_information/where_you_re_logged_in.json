@@ -1,0 +1,298 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1529325373,
+      "updated_timestamp": 1529328976,
+      "ip_address": "2405:204:38e:9903:e41f:a361:f51:f6d7",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "YW_y********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1525023123,
+      "updated_timestamp": 1528947975,
+      "ip_address": "60.254.42.253",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 [FBAN/FB4A;FBAV/175.0.0.40.97;FBBV/111983765;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/112316275;FB_FW/2;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "kwHm********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1525027711,
+      "updated_timestamp": 1528769405,
+      "ip_address": "2405:204:9484:e698:83b6:240f:670c:1fa9",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; ONEPLUS A3003 Build/OPR1.170623.032) [FBAN/Orca-Android;FBAV/169.0.0.27.76;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/111988736;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.625,width=1080,height=1920};FB_FW/1;]",
+      "datr_cookie": "fSsf********************",
+      "device": "OnePlus 3",
+      "location": "Pune, India"
+    },
+    {
+      "name": "Messenger",
+      "created_timestamp": 1473084541,
+      "updated_timestamp": 1524887900,
+      "ip_address": "60.254.5.94",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013) [FBAN/Orca-Android;FBAV/163.0.0.26.94;FBPN/com.facebook.orca;FBLC/en_US;FBBV/104798598;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1920};FB_FW/1;] FBBK/1",
+      "datr_cookie": "XPHj********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1524581928,
+      "ip_address": "60.254.5.94",
+      "user_agent": "[FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748722;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "KEbf********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1485569978,
+      "updated_timestamp": 1524549026,
+      "ip_address": "150.107.24.58",
+      "user_agent": "[FBAN/FB4A;FBAV/168.0.0.40.90;FBBV/103682763;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "U_tY********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1522400127,
+      "ip_address": "60.254.5.183",
+      "user_agent": "[FBAN/FB4A;FBAV/165.0.0.53.93;FBBV/99791903;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "f_u9********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1513834899,
+      "updated_timestamp": 1521955080,
+      "ip_address": "60.254.5.183",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; Build/OPR6.170623.013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "Z5HR********************",
+      "device": "Android",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521865118,
+      "ip_address": "60.254.5.183",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.44.95;FBBV/98618556;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/98618556;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ntG1********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521687964,
+      "ip_address": "60.254.5.183",
+      "user_agent": "[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845997;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/96845997;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "nB2z********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1521048843,
+      "ip_address": "60.254.5.131",
+      "user_agent": "[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845997;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/96845997;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "C12p********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1520570944,
+      "ip_address": "60.254.11.211",
+      "user_agent": "[FBAN/FB4A;FBAV/162.0.0.45.94;FBBV/95632808;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/95632808;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "QBKi********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519969272,
+      "ip_address": "60.254.42.43",
+      "user_agent": "[FBAN/FB4A;FBAV/161.0.0.35.93;FBBV/94117312;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/94117312;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-OOY********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519408847,
+      "ip_address": "49.33.118.19",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/93146056;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "z1aQ********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1519407871,
+      "ip_address": "60.254.11.177",
+      "user_agent": "[FBAN/FB4A;FBAV/160.0.0.30.94;FBBV/93146056;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/93146056;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "_1KQ********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518928184,
+      "ip_address": "60.254.11.177",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/91889149;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "OAGJ********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518893582,
+      "ip_address": "49.33.153.229",
+      "user_agent": "[FBAN/FB4A;FBAV/159.0.0.38.95;FBBV/91889149;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/91889149;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "DnqI********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518710389,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/90882265;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "da6F********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1518090394,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/158.0.0.38.95;FBBV/90882265;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/90882265;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "mjh8********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1517988799,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/157.0.0.38.97;FBBV/89915721;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/89915721;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "v6t6********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1517381889,
+      "ip_address": "27.251.227.210",
+      "user_agent": "[FBAN/FB4A;FBAV/157.0.0.38.97;FBBV/89915721;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/89915721;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "AWlx********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516972804,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/156.0.0.36.100;FBBV/88997456;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/88997456;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "BCtr********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1516383574,
+      "ip_address": "60.254.5.45",
+      "user_agent": "[FBAN/FB4A;FBAV/155.0.0.36.96;FBBV/87995190;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/87995190;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Vi1i********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1514985186,
+      "ip_address": "60.254.5.65",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/84570984;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "4tZM********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1512563064,
+      "ip_address": "60.254.11.176",
+      "user_agent": "[FBAN/FB4A;FBAV/152.0.0.42.136;FBBV/83110613;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/83110613;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "eOEn********************",
+      "device": "OnePlus 3",
+      "location": "Worli, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1512023430,
+      "ip_address": "27.251.227.210",
+      "user_agent": "[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374859;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/81374859;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "hqUf********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511417364,
+      "ip_address": "60.254.11.8",
+      "user_agent": "[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374859;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/81374859;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "FGYW********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1510765427,
+      "ip_address": "2405:204:22a1:2c9b:8402:d48f:1c47:49b2",
+      "user_agent": "[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156314;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/80156314;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "c3MM********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1508384698,
+      "ip_address": "60.254.42.100",
+      "user_agent": "[FBAN/FB4A;FBAV/146.0.0.53.92;FBBV/75931115;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/75931115;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "uh_o********************",
+      "device": "OnePlus 3",
+      "location": "Parel, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1505404880,
+      "ip_address": "60.254.5.114",
+      "user_agent": "[FBAN/FB4A;FBAV/140.0.0.24.91;FBBV/70897377;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/70897377;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "0Ke6********************",
+      "device": "OnePlus 3",
+      "location": "Wadala, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503633439,
+      "ip_address": "60.254.5.229",
+      "user_agent": "[FBAN/FB4A;FBAV/138.0.0.19.93;FBBV/69169467;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/69169467;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "H6Cf********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1500525278,
+      "ip_address": "27.251.227.210",
+      "user_agent": "[FBAN/FB4A;FBAV/133.0.0.19.83;FBBV/65300723;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/65300723;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "3jJw********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    }
+  ]
+}

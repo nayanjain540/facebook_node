@@ -1,0 +1,77 @@
+{
+  "messages": [
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344097037,
+      "content": "hav u cmplted assign",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344097023,
+      "content": "wid whom r u chatting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344096466,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344096384,
+      "content": "same 2 u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344096360,
+      "content": "hfd in advance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344096302,
+      "content": "nothin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344096286,
+      "content": "wssuppp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1344096276,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1344096266,
+      "content": "hiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1343384242,
+      "content": " ;) ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sneha Shah",
+      "timestamp": 1343383986,
+      "content": "hiii  mangoooo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sneha Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sneha Shah"
+  ],
+  "thread_path": "SnehaShah_ddb26f0477"
+}

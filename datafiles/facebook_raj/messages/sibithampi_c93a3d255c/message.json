@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1490326797,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sibi Thampi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Sibi Thampi"
+  ],
+  "thread_path": "SibiThampi_c93a3d255c"
+}

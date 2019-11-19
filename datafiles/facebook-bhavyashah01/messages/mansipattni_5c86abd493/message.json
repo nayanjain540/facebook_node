@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mansi Pattni",
+      "timestamp": 1465371014,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mansi Pattni",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mansi Pattni"
+  ],
+  "thread_path": "MansiPattni_5c86abd493"
+}

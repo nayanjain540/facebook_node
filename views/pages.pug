@@ -1,0 +1,35 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('information').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+		function information() {
+			x=document.getElementById('information');
+			if (x.style.display === "none") {
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="information()">Page Information</button>
+		#table-wrapper
+			table#information
+				tr
+					th Number of pages created by user
+					tr
+						td=articles.number_of_pages_created_by_user				

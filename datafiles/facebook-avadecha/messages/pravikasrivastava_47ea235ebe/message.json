@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Pravika Srivastava",
+      "timestamp": 1408374399,
+      "content": "hey anuj ...i m Swareena's sis ..\r\ni think u know that ..yeah u do. so wanted to ask are u angry with her ..??",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pravika Srivastava",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pravika Srivastava"
+  ],
+  "thread_path": "PravikaSrivastava_47ea235ebe"
+}

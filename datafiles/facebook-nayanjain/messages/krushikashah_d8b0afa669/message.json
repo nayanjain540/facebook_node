@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411839656,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Krushika Shah",
+      "timestamp": 1411826274,
+      "content": "pakka mat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411545804,
+      "content": "Tu hain hi Itni khaufnak obviously daruga\u00f3\u00be\u008d\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Krushika Shah",
+      "timestamp": 1411541543,
+      "content": "awwww darrr gayaaaa ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411541193,
+      "content": "\u00f3\u00be\u008c\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411541189,
+      "content": "Dhamki and all ha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1411541177,
+      "content": "Aisa kya \u00f3\u00be\u008c\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1396517254,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Krushika Shah",
+      "timestamp": 1396510175,
+      "content": "zyada bolega na toh tunne joh Krupa ko message kiya tha...on her bday(do u remember?)..voh post kar dungi ...i hav d screen capture of dat message....!!!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Krushika Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Krushika Shah"
+  ],
+  "thread_path": "KrushikaShah_d8b0afa669"
+}

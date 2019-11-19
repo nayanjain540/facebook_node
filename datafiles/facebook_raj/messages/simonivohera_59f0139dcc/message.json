@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Simoni Vohera",
+      "timestamp": 1491399259,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Simoni Vohera",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Simoni Vohera"
+  ],
+  "thread_path": "SimoniVohera_59f0139dcc"
+}

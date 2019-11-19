@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1352983924,
+      "content": "hiiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pragya Doshi",
+      "timestamp": 1352983758,
+      "content": "hiiiii\n",
+      "type": "Generic"
+    }
+  ],
+  "title": "Pragya Doshi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Pragya Doshi"
+  ],
+  "thread_path": "PragyaDoshi_02e4e2202c"
+}

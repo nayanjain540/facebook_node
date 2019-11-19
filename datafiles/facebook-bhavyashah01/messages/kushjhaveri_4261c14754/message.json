@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kush Jhaveri",
+      "timestamp": 1467377950,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kush Jhaveri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kush Jhaveri"
+  ],
+  "thread_path": "KushJhaveri_4261c14754"
+}

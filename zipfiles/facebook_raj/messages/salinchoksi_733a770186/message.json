@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Salin Choksi",
+      "timestamp": 1407042860,
+      "content": "\r\nhappy friendship day!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Salin Choksi",
+      "timestamp": 1361452700,
+      "content": "hii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Salin Choksi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Salin Choksi"
+  ],
+  "thread_path": "SalinChoksi_733a770186"
+}

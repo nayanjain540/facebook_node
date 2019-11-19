@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Harjot Singh Dadial",
+      "timestamp": 1519367670,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harjot Singh Dadial",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harjot Singh Dadial"
+  ],
+  "thread_path": "HarjotSinghDadial_a653bd1e27"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Kritika Shetty",
+      "timestamp": 1495188516,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Kritika Shetty",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Kritika Shetty"
+  ],
+  "thread_path": "KritikaShetty_c3b59fc867"
+}

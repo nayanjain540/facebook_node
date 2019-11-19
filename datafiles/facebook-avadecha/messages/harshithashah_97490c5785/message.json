@@ -1,0 +1,72 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476712298,
+      "content": "How u doin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476712294,
+      "content": "Hows foreogn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476712290,
+      "content": "Okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476712288,
+      "content": "Lofes ooay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harshitha Shah",
+      "timestamp": 1476673641,
+      "content": "Hows life",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harshitha Shah",
+      "timestamp": 1476673637,
+      "content": "U say mahn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476671160,
+      "content": "How are u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476671156,
+      "content": "Dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1476671143,
+      "content": "Hi. Duse",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harshitha Shah",
+      "timestamp": 1476670918,
+      "content": "Heya",
+      "type": "Generic"
+    }
+  ],
+  "title": "Harshitha Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Harshitha Shah"
+  ],
+  "thread_path": "HarshithaShah_97490c5785"
+}

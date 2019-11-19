@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Gautam Naik",
+      "timestamp": 1490812067,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gautam Naik",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Gautam Naik"
+  ],
+  "thread_path": "GautamNaik_2d43e7ff60"
+}

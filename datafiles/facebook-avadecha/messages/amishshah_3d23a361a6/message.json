@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334567,
+      "content": "Amish, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYuO\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Amish Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Amish Shah"
+  ],
+  "thread_path": "AmishShah_3d23a361a6"
+}

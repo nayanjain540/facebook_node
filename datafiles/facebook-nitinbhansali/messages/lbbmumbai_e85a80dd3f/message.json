@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "sender_name": "LBB, Mumbai",
+      "timestamp": 1520272004,
+      "content": "Hi there, Nitin Bhansali! Thank you for commenting on our post. Stay connected with the latest updates from LBB Mumbai. Type 'YES' and show some love!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "LBB, Mumbai",
+      "timestamp": 1520272004,
+      "type": "Generic"
+    }
+  ],
+  "title": "LBB, Mumbai",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "thread_path": "LBBMumbai_e85a80dd3f"
+}

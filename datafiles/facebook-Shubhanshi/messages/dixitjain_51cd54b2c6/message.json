@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Dixit Jain",
+      "timestamp": 1414084794,
+      "content": "Hii n happy diwali",
+      "type": "Generic"
+    }
+  ],
+  "title": "Dixit Jain",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Dixit Jain"
+  ],
+  "thread_path": "DixitJain_51cd54b2c6"
+}

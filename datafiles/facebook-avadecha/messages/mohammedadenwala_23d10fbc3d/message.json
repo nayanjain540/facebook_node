@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mohammed Adenwala",
+      "timestamp": 1526817081,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mohammed Adenwala",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Mohammed Adenwala"
+  ],
+  "thread_path": "MohammedAdenwala_23d10fbc3d"
+}

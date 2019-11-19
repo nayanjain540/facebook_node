@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shivam Tripathi",
+      "timestamp": 1516168511,
+      "content": "Happy birthday Bro",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shivam Tripathi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shivam Tripathi"
+  ],
+  "thread_path": "ShivamTripathi_53f9ce549c"
+}

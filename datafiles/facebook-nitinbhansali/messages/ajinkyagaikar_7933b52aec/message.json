@@ -1,0 +1,66 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1366611822,
+      "content": "oh....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajinkya Gaikar",
+      "timestamp": 1366611775,
+      "content": "accha ja raha tha but now the classes hav started",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1366611700,
+      "content": "n yrs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1366611698,
+      "content": "gud",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajinkya Gaikar",
+      "timestamp": 1366611679,
+      "content": "nthn aur bol kaisa ja raha hai vacations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1366611613,
+      "content": "nthin u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajinkya Gaikar",
+      "timestamp": 1366611530,
+      "content": "kya kar raha hai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nitin Bhansali",
+      "timestamp": 1366611467,
+      "content": "hi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ajinkya Gaikar",
+      "timestamp": 1366611412,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ajinkya Gaikar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ajinkya Gaikar"
+  ],
+  "thread_path": "AjinkyaGaikar_7933b52aec"
+}

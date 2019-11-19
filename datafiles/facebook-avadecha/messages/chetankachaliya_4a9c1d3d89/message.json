@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Chetan Kachaliya",
+      "timestamp": 1489721153,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Chetan Kachaliya",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Chetan Kachaliya"
+  ],
+  "thread_path": "ChetanKachaliya_4a9c1d3d89"
+}

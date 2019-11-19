@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jon Martin",
+      "timestamp": 1345800989,
+      "content": " :putnam: ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jon Martin",
+      "timestamp": 1345800986,
+      "content": "hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jon Martin",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jon Martin"
+  ],
+  "thread_path": "JonMartin_7822a9911d"
+}

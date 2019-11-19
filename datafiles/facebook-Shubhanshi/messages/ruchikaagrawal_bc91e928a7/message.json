@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ruchika Agrawal",
+      "timestamp": 1525342298,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ruchika Agrawal",
+      "timestamp": 1452307152,
+      "content": "Hi dear",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ruchika Agrawal",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Ruchika Agrawal"
+  ],
+  "thread_path": "RuchikaAgrawal_bc91e928a7"
+}

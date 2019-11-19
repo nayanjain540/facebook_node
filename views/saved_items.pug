@@ -1,0 +1,61 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('saveditems').style.display="none";
+				document.getElementById('lengthsaveditems').style.display="none";
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+
+		function saveditems() {
+			x=document.getElementById('saveditems');
+			if (x.style.display === "none") {
+			document.getElementById('lengthsaveditems').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+			function lengthsaveditems() {
+				x=document.getElementById('lengthsaveditems');
+				if (x.style.display === "none") {
+				document.getElementById('saveditems').style.display="none";
+					x.style.display = "block";
+				}
+				else
+				{
+				x.style.display = "none";
+				}
+				}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="saveditems()">Saved_Items</button>
+		<button onclick="lengthsaveditems()">Length_of_Saved_Items</button>
+		#table-wrapper
+			table#saveditems
+				tr
+					th Name
+					th Save_Timestamp
+
+				each j,i in articles
+					tr
+						td=articles.saved_items_timestamps[i]
+
+			table#lengthsaveditems
+				tr
+					th Length_of_Saves
+				tr
+					td=articles.Length_of_Saves

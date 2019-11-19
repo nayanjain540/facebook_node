@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334565,
+      "content": "Richa, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYuf\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Richa Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Richa Mehta"
+  ],
+  "thread_path": "RichaMehta_e9819a9426"
+}

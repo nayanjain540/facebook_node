@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ankush Singla",
+      "timestamp": 1501216785,
+      "content": "bro goibibo voucher lena hai",
+      "type": "Generic"
+    }
+  ],
+  "title": "Ankush Singla",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "participants": [
+    "Ankush Singla"
+  ],
+  "thread_path": "AnkushSingla_5d585b527a"
+}

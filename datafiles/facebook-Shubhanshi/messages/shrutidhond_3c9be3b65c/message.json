@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1338453383,
+      "content": "K",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shruti Dhond",
+      "timestamp": 1338453375,
+      "content": "g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1338453356,
+      "content": "Div?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shruti Dhond",
+      "timestamp": 1314550053,
+      "content": "hii..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shubhanshi Jain",
+      "timestamp": 1314550048,
+      "content": "Hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shruti Dhond",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Shruti Dhond"
+  ],
+  "thread_path": "ShrutiDhond_3c9be3b65c"
+}

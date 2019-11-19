@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334558,
+      "content": "Jay, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYw4\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jay Potdar",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jay Potdar"
+  ],
+  "thread_path": "JayPotdar_f5463a0662"
+}

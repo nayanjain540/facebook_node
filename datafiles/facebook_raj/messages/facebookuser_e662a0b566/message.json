@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1288502709,
+      "content": "hi it has been a year since this rib tickling show hit the television and we invite you to be part of it",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FacebookUser_e662a0b566"
+}

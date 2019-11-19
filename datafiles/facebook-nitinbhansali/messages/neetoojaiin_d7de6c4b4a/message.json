@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Neetoo Jaiin",
+      "timestamp": 1465675536,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Neetoo Jaiin",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Neetoo Jaiin"
+  ],
+  "thread_path": "NeetooJaiin_d7de6c4b4a"
+}

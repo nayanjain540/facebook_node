@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Jenny Mehta",
+      "timestamp": 1412577742,
+      "content": "No .. .",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1412526932,
+      "content": "U know jay solanki?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331334575,
+      "content": "Janet, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbYKO\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jenny Mehta",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jenny Mehta"
+  ],
+  "thread_path": "JennyMehta_ff84286c23"
+}

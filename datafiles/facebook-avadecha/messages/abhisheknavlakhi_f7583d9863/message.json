@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhishek Navlakhi",
+      "timestamp": 1515032929,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1467171644,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Abhishek Navlakhi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Abhishek Navlakhi"
+  ],
+  "thread_path": "AbhishekNavlakhi_f7583d9863"
+}

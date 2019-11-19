@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1517826136,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Megha Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Megha Shah"
+  ],
+  "thread_path": "MeghaShah_0fc5499399"
+}

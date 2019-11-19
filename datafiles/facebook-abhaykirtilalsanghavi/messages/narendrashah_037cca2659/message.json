@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Narendra Shah",
+      "timestamp": 1521186208,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Narendra Shah",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Narendra Shah"
+  ],
+  "thread_path": "NarendraShah_037cca2659"
+}

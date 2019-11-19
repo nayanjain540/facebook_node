@@ -1,0 +1,17 @@
+html
+	head
+		include mystyle.css
+	body
+		#table-wrapper
+		table#calls
+			tr
+				th IP
+				th City
+				th Country
+				th PostalCode
+			each j in articles.ip_addresses_used
+				tr
+							td=j['ip']
+							td=j['city']
+							td=j['country']
+							td=j['postalcode']

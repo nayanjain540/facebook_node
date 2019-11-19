@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Ashit Sanghavi",
+      "timestamp": 1396428930,
+      "content": "Ashit called you.",
+      "call_duration": 37242,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Raj Sanghavi",
+      "timestamp": 1296366531,
+      "type": "Generic"
+    }
+  ],
+  "title": "Ashit Sanghavi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Ashit Sanghavi"
+  ],
+  "thread_path": "AshitSanghavi_dfcce49f35"
+}

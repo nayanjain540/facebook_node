@@ -1,0 +1,49 @@
+{
+  "messages": [
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1518092360,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1517233065,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1516198512,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1516109681,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1516023252,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1515468950,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1514807447,
+      "content": "HDFC Notifications sent this message to . When you accept, HDFC Notifications will be able to see info you've made public like your name and profile pic.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "HDFC Notifications",
+      "timestamp": 1514807446,
+      "type": "Generic"
+    }
+  ],
+  "title": "HDFC Notifications",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "HDFCNotifications_3325187f15"
+}

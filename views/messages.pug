@@ -1,0 +1,45 @@
+html
+	head
+		include mystyle.css
+	script.
+		function none() {
+			x=document.getElementById('none');
+			if (x.style.display === "none") {
+				document.getElementById('message').style.display="none";
+
+				x.style.display = "none";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+
+
+		function message() {
+			x=document.getElementById('message');
+			if (x.style.display === "none") {
+				document.getElementById('numstats').style.display="none";
+				x.style.display = "block";
+			}
+			else
+			{
+			x.style.display = "none";
+			}
+			}
+	body
+		p#none
+		<button onclick="none()">Double Click For A Blank Slate</button>
+		<button onclick="message()">Message</button>
+
+		#table-wrapper
+			table#message
+				tr
+					th Name
+					th Messages_Sent
+					th Messages_Sent_By_User
+				each j,i in articles.messages
+					tr
+						td=articles.messages[i][0]
+						td=articles.messages[i][1]
+						td=articles.messages[i][3]

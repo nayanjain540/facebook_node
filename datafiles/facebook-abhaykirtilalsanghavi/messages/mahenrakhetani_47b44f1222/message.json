@@ -1,0 +1,17 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mahenra Khetani",
+      "timestamp": 1494583425,
+      "content": "You are now connected on Messenger.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mahenra Khetani",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mahenra Khetani"
+  ],
+  "thread_path": "MahenraKhetani_47b44f1222"
+}

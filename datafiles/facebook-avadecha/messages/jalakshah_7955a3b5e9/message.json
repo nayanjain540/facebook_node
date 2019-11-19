@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1443728440,
+      "content": "hey",
+      "type": "Generic"
+    }
+  ],
+  "title": "Jalak Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Jalak Shah"
+  ],
+  "thread_path": "JalakShah_7955a3b5e9"
+}

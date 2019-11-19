@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender_name": "Rajasthan Royals",
+      "timestamp": 1302820957,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rajasthan Royals",
+      "timestamp": 1294399487,
+      "content": "Dear Fan,\n\nPlease \"Share\" the below link on your wall and help Rajasthan Royals becomes the biggest team and #1 team on facebook.\n\nhttp://www.facebook.com/RajasthanRoyals\n\nThanks,\nThe Rajasthan Royals Fan Club Team",
+      "type": "Generic"
+    }
+  ],
+  "title": "Rajasthan Royals",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "RajasthanRoyals_e811d999a5"
+}

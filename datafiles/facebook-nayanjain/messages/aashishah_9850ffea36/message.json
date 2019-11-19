@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1430579502,
+      "content": "AASHIIII!!!WASSUP!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1429116574,
+      "content": "this time no text message!!xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nayan Jain",
+      "timestamp": 1429114895,
+      "content": "heyy aashii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aashi Shah",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Aashi Shah"
+  ],
+  "thread_path": "AashiShah_9850ffea36"
+}

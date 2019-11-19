@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1299146696,
+      "content": "Hi fans,\n\nJust wanted to let you know that our current monthly tournament is featuring the World Cup Cricket. Are you there predicting the outcome of each match?\n\nRegards,\nFBG Team.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1288802623,
+      "content": "Dear Users,\n\nOn this auspicious festival of lights, May the glow of joy, prosperity and happiness illuminate your days in the year ahead. Happy Diwali.\n\nThanks,\nFBG Team.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Facebook User",
+      "timestamp": 1288623969,
+      "content": "hey guys new week of uefa championship is on wednesday ..dont forget to bet",
+      "type": "Generic"
+    }
+  ],
+  "title": "Facebook User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "FacebookUser_6974737967"
+}

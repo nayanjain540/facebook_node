@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Vedika Parekh",
+      "timestamp": 1331936868,
+      "content": "Hey Nayan, check out RockMelt. It's not a browser, it's a WOWser. I think you'll like it!\n\nhttp://www.rockmelt.com/s/3vPGbb\n\nVedika",
+      "type": "Generic"
+    }
+  ],
+  "title": "Vedika Parekh",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Vedika Parekh"
+  ],
+  "thread_path": "VedikaParekh_db3e23ce1a"
+}

@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Diyoni Zaveri",
+      "timestamp": 1350126124,
+      "content": "hiii",
+      "type": "Generic"
+    }
+  ],
+  "title": "Diyoni Zaveri",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Diyoni Zaveri"
+  ],
+  "thread_path": "DiyoniZaveri_0d6237a3e3"
+}

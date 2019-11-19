@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "sender_name": "Mit Doshi",
+      "timestamp": 1398695878,
+      "content": "Thank u kaka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Abhay Kirtilal Sanghavi",
+      "timestamp": 1398693986,
+      "content": "Happy birthday",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mit Doshi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "participants": [
+    "Mit Doshi"
+  ],
+  "thread_path": "MitDoshi_a63303dec2"
+}

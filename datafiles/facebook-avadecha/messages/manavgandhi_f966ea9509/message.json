@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "sender_name": "Anuj Vadecha",
+      "timestamp": 1331341783,
+      "content": "Manav, you should check out this new facebook browser called RockMelt. It's a WOWser. I'm trying it and think you'd like it!\n\nhttp://www.rockmelt.com/s/3vbZoh\n\n- Anuj",
+      "type": "Generic"
+    }
+  ],
+  "title": "Manav Gandhi",
+  "is_still_participant": true,
+  "status": "Pending",
+  "thread_type": "Regular",
+  "participants": [
+    "Manav Gandhi"
+  ],
+  "thread_path": "ManavGandhi_f966ea9509"
+}

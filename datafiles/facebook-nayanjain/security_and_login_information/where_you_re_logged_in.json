@@ -1,0 +1,460 @@
+{
+  "active_sessions": [
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528781366,
+      "updated_timestamp": 1529471188,
+      "ip_address": "182.56.42.71",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "datr_cookie": "peSl********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1517851249,
+      "updated_timestamp": 1529121580,
+      "ip_address": "49.32.144.178",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "datr_cookie": "rW9Z********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528909131,
+      "ip_address": "49.33.80.57",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.81 Mobile Safari/537.36",
+      "datr_cookie": "PE0h********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Safari",
+      "created_timestamp": 1528746386,
+      "updated_timestamp": 1528778522,
+      "ip_address": "203.194.107.173",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15",
+      "datr_cookie": "TtEe********************",
+      "device": "Mac",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528614101,
+      "ip_address": "182.56.88.47",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.81 Mobile Safari/537.36",
+      "datr_cookie": "yMwc********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528614043,
+      "ip_address": "182.56.88.47",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.81 Mobile Safari/537.36",
+      "datr_cookie": "jMwc********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1528198793,
+      "ip_address": "49.32.81.240",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.68 Mobile Safari/537.36",
+      "datr_cookie": "fHYW********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Internet Explorer",
+      "created_timestamp": 1528027573,
+      "ip_address": "2405:204:2105:16fb:a991:91b8:6102:9a30",
+      "user_agent": "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; McAfee)",
+      "datr_cookie": "jNkT********************",
+      "device": "Windows PC",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1527815363,
+      "ip_address": "49.32.161.70",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "s5wQ********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1527400002,
+      "ip_address": "182.56.95.72",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "OEYK********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1527262859,
+      "ip_address": "182.56.115.8",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "fS4I********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1527000417,
+      "ip_address": "182.56.95.171",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "Uy0E********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1526915193,
+      "ip_address": "49.32.91.171",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "bOAC********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1526536467,
+      "ip_address": "182.56.55.89",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "-Bj9********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1526398556,
+      "ip_address": "182.56.74.245",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "P_76********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1526063141,
+      "ip_address": "182.56.53.246",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36",
+      "datr_cookie": "F-D1********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1525788043,
+      "ip_address": "182.56.107.185",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "fq3x********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1525621766,
+      "ip_address": "182.56.35.67",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "-iPv********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1525422298,
+      "ip_address": "182.56.77.123",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "txjs********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1525174234,
+      "ip_address": "182.56.70.217",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "bE_o********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524860415,
+      "ip_address": "49.32.75.106",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "2oTj********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524859178,
+      "ip_address": "182.56.103.180",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "GIHj********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524759047,
+      "ip_address": "182.56.70.1",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 Mobile Safari/537.36",
+      "datr_cookie": "-Pnh********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524481841,
+      "ip_address": "182.56.45.132",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "I7_d********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524323636,
+      "ip_address": "182.56.84.220",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "KFXb********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524292697,
+      "ip_address": "49.33.119.78",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "Stza********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524292670,
+      "ip_address": "14.142.143.98",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "Ltza********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524292601,
+      "ip_address": "14.142.143.98",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "69va********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524195929,
+      "ip_address": "49.33.43.60",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "R2LZ********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Chrome",
+      "created_timestamp": 1524055397,
+      "ip_address": "182.56.34.55",
+      "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36",
+      "datr_cookie": "WT3X********************",
+      "device": "Android",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1522075268,
+      "ip_address": "182.56.33.235",
+      "user_agent": "[FBAN/FB4A;FBAV/164.0.0.44.95;FBBV/98618556;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBRV/99114937;FBCR/Vodafone IN;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/E5363;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "hAa5********************",
+      "device": "Sony Xperia C4 Dual",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Unknown",
+      "created_timestamp": 1518084851,
+      "updated_timestamp": 1520789231,
+      "ip_address": "59.183.120.177",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 8.0.0; ONEPLUS A3003 Build/OPR6.170623.013) Source/1 [FBAN/EMA;UNITY_PACKAGE/312;FBBV/90706014;FBAV/80.0.0.6.186;FBDV/ONEPLUS A3003;FBLC/en_US;FBOP/20]",
+      "datr_cookie": "72al********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1515127850,
+      "ip_address": "59.183.124.49",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/85070460;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "KgRP********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1513918018,
+      "ip_address": "49.33.20.215",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.53.88;FBBV/84425356;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/84425356;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "Qo48********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1513312677,
+      "ip_address": "59.183.113.174",
+      "user_agent": "[FBAN/FB4A;FBAV/153.0.0.53.88;FBBV/84425356;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/84425356;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "pVEz********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1511881199,
+      "ip_address": "59.183.117.169",
+      "user_agent": "[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156314;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/80247456;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "73kd********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1510203024,
+      "ip_address": "49.33.85.150",
+      "user_agent": "[FBAN/FB4A;FBAV/149.0.0.40.71;FBBV/79007757;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/79007757;FBCR/VODAFONE IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "kN4D********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1507313388,
+      "ip_address": "49.33.124.20",
+      "user_agent": "[FBAN/FB4A;FBAV/144.0.0.27.91;FBBV/74024807;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/74403948;FBCR/VODAFONE IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "7MbX********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1507313369,
+      "ip_address": "49.33.124.20",
+      "user_agent": "[FBAN/FB4A;FBAV/144.0.0.27.91;FBBV/74024807;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/74024807;FBCR/VODAFONE IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "2cbX********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1506958677,
+      "ip_address": "59.183.118.235",
+      "user_agent": "[FBAN/FB4A;FBAV/143.0.0.32.90;FBBV/73145362;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/73572441;FBCR/VODAFONE IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "VV3S********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1506740571,
+      "ip_address": "49.33.213.178",
+      "user_agent": "[FBAN/FB4A;FBAV/143.0.0.32.90;FBBV/73145362;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/73518624;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "WwnP********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1506007603,
+      "updated_timestamp": 1506696356,
+      "ip_address": "59.183.127.45",
+      "user_agent": "[FBAN/FB4A;FBAV/143.0.0.32.90;FBBV/73145362;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/73145362;FBCR/;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "lAHB********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1505821092,
+      "ip_address": "59.183.125.212",
+      "user_agent": "[FBAN/FB4A;FBAV/141.0.0.31.91;FBBV/71725772;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/71725772;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "pAHB********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1503406072,
+      "ip_address": "59.183.113.34",
+      "user_agent": "[FBAN/FB4A;FBAV/136.0.0.22.91;FBBV/67437982;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/67842004;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "-Cec********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1502476747,
+      "updated_timestamp": 1503401399,
+      "ip_address": "49.33.153.246",
+      "user_agent": "[FBAN/FB4A;FBAV/136.0.0.22.91;FBBV/67437982;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/67842004;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "hlbH********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1502393011,
+      "ip_address": "49.33.182.187",
+      "user_agent": "[FBAN/FB4A;FBAV/135.0.0.22.90;FBBV/66730606;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/66730606;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "s7KM********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1501174585,
+      "ip_address": "59.183.123.14",
+      "user_agent": "[FBAN/FB4A;FBAV/133.0.0.19.83;FBBV/65300723;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/65300723;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "ORt6********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1500569754,
+      "ip_address": "59.183.116.134",
+      "user_agent": "[FBAN/FB4A;FBAV/133.0.0.19.83;FBBV/65300723;FBDM/{density=3.0,width=1920,height=1080};FBLC/en_US;FBRV/65300723;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "muBw********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1500552343,
+      "ip_address": "49.33.220.132",
+      "user_agent": "[FBAN/FB4A;FBAV/132.0.0.20.85;FBBV/64682892;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/64682892;FBCR/Jio 4G;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "l5xw********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Facebook app",
+      "created_timestamp": 1498014535,
+      "ip_address": "42.109.85.252",
+      "user_agent": "[FBAN/FB4A;FBAV/127.0.0.22.69;FBBV/60327751;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/60327751;FBCR/VODAFONE IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]",
+      "datr_cookie": "R-NJ********************",
+      "device": "OnePlus 3",
+      "location": "Mumbai, India"
+    }
+  ]
+}

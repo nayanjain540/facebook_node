@@ -1,0 +1,22 @@
+{
+  "name": "PhotoMania Photos",
+  "photos": [
+    {
+      "uri": "photos/PhotoManiaPhotos_272614519446194/294347_272617186112594_2051338119_n_272617186112594.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "upload_ip": "173.230.153.251"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/PhotoManiaPhotos_272614519446194/294347_272617186112594_2051338119_n_272617186112594.jpg",
+    "media_metadata": {
+      "photo_metadata": {
+        "upload_ip": "173.230.153.251"
+      }
+    }
+  },
+  "last_modified_timestamp": 1505633305
+}

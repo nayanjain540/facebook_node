@@ -1,0 +1,83 @@
+{
+  "name": "Cover Photos",
+  "photos": [
+    {
+      "uri": "photos/your_posts/27993587_1620294724713038_7903905501011912876_o_1620294724713038.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "HUAWEI",
+          "camera_model": "BND-AL10",
+          "modified_timestamp": 1517983165,
+          "exposure": "300/10000",
+          "focal_length": "3810/1000",
+          "f_stop": "22000/10000",
+          "iso_speed": 160,
+          "orientation": 0,
+          "original_width": 1440,
+          "original_height": 0,
+          "upload_ip": "42.109.22.224"
+        }
+      },
+      "comments": [
+        {
+          "timestamp": 1518968833,
+          "comment": "James che",
+          "author": "Ruchil Sheth"
+        },
+        {
+          "timestamp": 1518976949,
+          "comment": "Petu mama it's coming out go gym my handsome mama",
+          "author": "Namita Shah"
+        },
+        {
+          "timestamp": 1519052995,
+          "comment": "Thank you",
+          "author": "Abhay Kirtilal Sanghavi"
+        }
+      ]
+    },
+    {
+      "uri": "photos/your_posts/10348898_641525199256667_3051965625302509730_o_641525199256667.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "camera_make": "SAMSUNG",
+          "camera_model": "GT-I8552",
+          "modified_timestamp": 1401455406,
+          "exposure": "29/10000",
+          "focal_length": "343/100",
+          "f_stop": "27/10",
+          "iso_speed": 50,
+          "orientation": 1,
+          "original_width": 1280,
+          "original_height": 0,
+          "upload_ip": "42.104.2.25"
+        }
+      }
+    },
+    {
+      "uri": "photos/your_posts/581920_442947495781106_1203261113_n_442947495781106.jpg",
+      "media_metadata": {
+        "photo_metadata": {
+          "iso_speed": 0,
+          "orientation": 0,
+          "original_width": 0,
+          "original_height": 0,
+          "upload_ip": "203.115.82.4"
+        }
+      }
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos/your_posts/581920_442947495781106_1203261113_n_442947495781106.jpg",
+    "media_metadata": {
+      "photo_metadata": {
+        "iso_speed": 0,
+        "orientation": 0,
+        "original_width": 0,
+        "original_height": 0,
+        "upload_ip": "203.115.82.4"
+      }
+    }
+  },
+  "last_modified_timestamp": 1518966400
+}
